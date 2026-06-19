@@ -1,0 +1,205 @@
+prompt,gt,smiles
+Can you assess if C1=CC=CC4=C1C(N(CCCN3CCN(C2=NC=CC=N2)CC3)[S]4(=O)=O)=O penetrates the blood-brain barrier?,1,C1=CC=CC4=C1C(N(CCCN3CCN(C2=NC=CC=N2)CC3)[S]4(=O)=O)=O
+Does the compound C1=CC(=CC=C1[S](CC)(=O)=O)F cross the blood-brain barrier?,1,C1=CC(=CC=C1[S](CC)(=O)=O)F
+Does the compound OC(C)(C)c1onc(c2ncn3c2CN(C)C(c4c3cccc4Cl)=O)n1 cross the blood-brain barrier?,0,OC(C)(C)c1onc(c2ncn3c2CN(C)C(c4c3cccc4Cl)=O)n1
+"Given the SMILES C1=C(C(C(C)(C)O)(C)O)C=CC(=C1)Cl, determine if it penetrates the BBB.",1,C1=C(C(C(C)(C)O)(C)O)C=CC(=C1)Cl
+Will the molecule CN1Cc2n(cnc2C(=O)OC(C)(C)C)c3ccsc3C1=O be brain-penetrant?,1,CN1Cc2n(cnc2C(=O)OC(C)(C)C)c3ccsc3C1=O
+Classify the molecule [C@H]2(C(OC1=CC=C(NC(C)=O)C=C1)=O)NC(=O)CC2 with respect to blood-brain barrier permeability.,1,[C@H]2(C(OC1=CC=C(NC(C)=O)C=C1)=O)NC(=O)CC2
+"Given the SMILES CC(C)(C)NC(=O)[C@@H]1CN(CCN1C[C@@H](O)C[C@@H](Cc2ccccc2)C(=O)N[C@@H]3[C@H](O)Cc4ccccc34)Cc5cccnc5, determine if it penetrates the BBB.",1,CC(C)(C)NC(=O)[C@@H]1CN(CCN1C[C@@H](O)C[C@@H](Cc2ccccc2)C(=O)N[C@@H]3[C@H](O)Cc4ccccc34)Cc5cccnc5
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: C1=CC=CC(=C1C(OC2=CC=C(NC(C)=O)C=C2)=O)OC(C)=O,1,C1=CC=CC(=C1C(OC2=CC=C(NC(C)=O)C=C2)=O)OC(C)=O
+Will the molecule COC(=O)[C@H]1[C@H](CC2CCC1N2C)OC(=O)c3ccccc3 be brain-penetrant?,1,COC(=O)[C@H]1[C@H](CC2CCC1N2C)OC(=O)c3ccccc3
+Can you assess if C1=CC=CC=C1C(C2=CC=CC=C2)(CCN4CCC(N3CCCCC3)(C(N)=O)CC4)C#N penetrates the blood-brain barrier?,1,C1=CC=CC=C1C(C2=CC=CC=C2)(CCN4CCC(N3CCCCC3)(C(N)=O)CC4)C#N
+Does the compound C1=C(CC\C(CN)=C/F)C=CC(=C1)F cross the blood-brain barrier?,1,C1=C(CC\C(CN)=C/F)C=CC(=C1)F
+Does the compound CCCCNC(=O)OCC(C)(CCC)COC(N)=O cross the blood-brain barrier?,1,CCCCNC(=O)OCC(C)(CCC)COC(N)=O
+Can you assess if CNCC(O)c1ccc(OC(=O)C(C)(C)C)c(OC(=O)C(C)(C)C)c1 penetrates the blood-brain barrier?,0,CNCC(O)c1ccc(OC(=O)C(C)(C)C)c(OC(=O)C(C)(C)C)c1
+Does the compound C1=CC=CC3=C1C2(C(NC(=O)CC2)=O)CCC3=O cross the blood-brain barrier?,1,C1=CC=CC3=C1C2(C(NC(=O)CC2)=O)CCC3=O
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: CN1CCCCC1CCN2c3ccccc3Sc4ccc(cc24)[S](C)(=O)=O,1,CN1CCCCC1CCN2c3ccccc3Sc4ccc(cc24)[S](C)(=O)=O
+Does the compound Cn1nnnc1SCC2=C(N3[C@H](SC2)[C@H](NC(=O)[C@H](O)c4ccccc4)C3=O)C(O)=O cross the blood-brain barrier?,1,Cn1nnnc1SCC2=C(N3[C@H](SC2)[C@H](NC(=O)[C@H](O)c4ccccc4)C3=O)C(O)=O
+"Given the SMILES OC1N=C(c2ccccc2Cl)c3cc(Cl)ccc3NC1=O, determine if it penetrates the BBB.",1,OC1N=C(c2ccccc2Cl)c3cc(Cl)ccc3NC1=O
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: C1=CC(=CC4=C1N(C3CCN(CCNC(C2=CC=C(F)C=C2)=O)CC3)C(N4)=O)Cl,1,C1=CC(=CC4=C1N(C3CCN(CCNC(C2=CC=C(F)C=C2)=O)CC3)C(N4)=O)Cl
+Can you assess if C1=C(C=CC2=C1C=CC=C2)CC([NH2+]C)=NC.[Cl-] penetrates the blood-brain barrier?,1,C1=C(C=CC2=C1C=CC=C2)CC([NH2+]C)=NC.[Cl-]
+"For the molecule ClCCN(N=O)C(=O)NC1CCCCC1, return if it has BBB permeability or not.",1,ClCCN(N=O)C(=O)NC1CCCCC1
+What is the BBBP classification for the compound [Cl-].[Cl-].[Cl-].COc1cccnc1CCCCNC2=NC=C(Cc3ccc(C)nc3)C(=O)N2.[H+].[H+].[H+]?,0,[Cl-].[Cl-].[Cl-].COc1cccnc1CCCCNC2=NC=C(Cc3ccc(C)nc3)C(=O)N2.[H+].[H+].[H+]
+Classify the molecule C1=C(C(CNC(C)(C)C)O)C(=CC=C1)F with respect to blood-brain barrier permeability.,1,C1=C(C(CNC(C)(C)C)O)C(=CC=C1)F
+Does the compound CO/N=C(C(=O)N[C@H]1[C@@H]2N(C1=O)C(=C(COC(C)=O)C[S]2=O)C(O)=O)/c3csc(N)n3 cross the blood-brain barrier?,0,CO/N=C(C(=O)N[C@H]1[C@@H]2N(C1=O)C(=C(COC(C)=O)C[S]2=O)C(O)=O)/c3csc(N)n3
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: C1=NC(=C(C2=C1[NH]C3=C2C(=CC=C3)OC4=CC=C(C=C4)Cl)COC)C(OC(C)C)=O,1,C1=NC(=C(C2=C1[NH]C3=C2C(=CC=C3)OC4=CC=C(C=C4)Cl)COC)C(OC(C)C)=O
+"Given the SMILES [C@@H]3(C1=CC=CC=C1)CN2CCSC2=N3, determine if it penetrates the BBB.",1,[C@@H]3(C1=CC=CC=C1)CN2CCSC2=N3
+Can you assess if Cc1ncsc1CCCl penetrates the blood-brain barrier?,1,Cc1ncsc1CCCl
+"For the molecule C(C(C(CC)C)C(N)=O)C, return if it has BBB permeability or not.",1,C(C(C(CC)C)C(N)=O)C
+Can you assess if C1=C(C3=C(N=C1N2CCN(CC)CC2)CCCCCC3)C4=CC=C(F)C=C4 penetrates the blood-brain barrier?,1,C1=C(C3=C(N=C1N2CCN(CC)CC2)CCCCCC3)C4=CC=C(F)C=C4
+Will the molecule C(C2(C1=CCCCC1)C(NC(=O)NC2=O)=O)C be brain-penetrant?,1,C(C2(C1=CCCCC1)C(NC(=O)NC2=O)=O)C
+Does the compound C1=C(C(CCC)=O)C=CC3=C1N(C2=C(C=CC=C2)S3)CCCN4CCN(C)CC4 cross the blood-brain barrier?,1,C1=C(C(CCC)=O)C=CC3=C1N(C2=C(C=CC=C2)S3)CCCN4CCN(C)CC4
+What is the BBBP classification for the compound C1=CC(=CC=C1OC(CN(CC)CC)=O)NC(C)=O?,1,C1=CC(=CC=C1OC(CN(CC)CC)=O)NC(C)=O
+"From the SMILES C(C(C(OCOC(C(C)(C)C)=O)=O)CCC)CC, predict the binary BBBP property.",1,C(C(C(OCOC(C(C)(C)C)=O)=O)CCC)CC
+What is the BBBP classification for the compound C1=CC=NC=C1C(N(CC)CC)=O?,1,C1=CC=NC=C1C(N(CC)CC)=O
+Evaluate whether CN1CCN(CC/C=C/2c3ccccc3Sc4ccc(cc24)[S](=O)(=O)N(C)C)CC1 crosses the blood-brain barrier.,1,CN1CCN(CC/C=C/2c3ccccc3Sc4ccc(cc24)[S](=O)(=O)N(C)C)CC1
+"For the molecule C1=CC=CC2=C1C3=C(C2)CCOC3(CCN(C)C)C, return if it has BBB permeability or not.",1,C1=CC=CC2=C1C3=C(C2)CCOC3(CCN(C)C)C
+Classify the molecule C1=C(C(F)(F)F)C=CC3=C1N(C2=C(C=CC=C2)S3)CCCN4CCN(CCO)CCC4 with respect to blood-brain barrier permeability.,1,C1=C(C(F)(F)F)C=CC3=C1N(C2=C(C=CC=C2)S3)CCCN4CCN(CCO)CCC4
+Does the compound C1=CC=CC2=C1C(=C3C(=N2)CCCC3O)N cross the blood-brain barrier?,1,C1=CC=CC2=C1C(=C3C(=N2)CCCC3O)N
+"Given the SMILES C1=C(C=CC=C1O)NC(C)=O, determine if it penetrates the BBB.",1,C1=C(C=CC=C1O)NC(C)=O
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: [C@]12(OC(O[C@@H]1CC3C2(CC(O)C4(F)C3CCC5=CC(=O)C=CC45C)C)C=C)C(=O)CO,1,[C@]12(OC(O[C@@H]1CC3C2(CC(O)C4(F)C3CCC5=CC(=O)C=CC45C)C)C=C)C(=O)CO
+Classify the molecule C(C1(C(NC(=S)NC1=O)=O)C(CCC)C)CSC with respect to blood-brain barrier permeability.,1,C(C1(C(NC(=S)NC1=O)=O)C(CCC)C)CSC
+"For the molecule COc1cccc2C(=O)c3c(O)c4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)c4c(O)c3C(=O)c12)C(=O)CO, return if it has BBB permeability or not.",0,COc1cccc2C(=O)c3c(O)c4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)c4c(O)c3C(=O)c12)C(=O)CO
+Can you assess if CC(CN(C)C)CN1c2ccccc2CCc3ccccc13 penetrates the blood-brain barrier?,1,CC(CN(C)C)CN1c2ccccc2CCc3ccccc13
+Can you assess if C2=C(C1(C(N(C(=O)N(C1=O)COC)COC)=O)CC)C=CC=C2 penetrates the blood-brain barrier?,1,C2=C(C1(C(N(C(=O)N(C1=O)COC)COC)=O)CC)C=CC=C2
+"For the molecule [C@@]23(Cl)C(C1C([C@](O)(CC1)C(=O)COC(=O)C)(CC2Cl)C)CCC4=CC(=O)C=CC34C, return if it has BBB permeability or not.",1,[C@@]23(Cl)C(C1C([C@](O)(CC1)C(=O)COC(=O)C)(CC2Cl)C)CCC4=CC(=O)C=CC34C
+"From the SMILES Oc1ccc(cc1)C2(OC(=O)c3ccccc23)c4ccc(O)cc4, predict the binary BBBP property.",0,Oc1ccc(cc1)C2(OC(=O)c3ccccc23)c4ccc(O)cc4
+Classify the molecule [C@H](CCOC1=CC=CC2=CC=CC=C12)(C3=CC=CC=C3)N(C)C with respect to blood-brain barrier permeability.,1,[C@H](CCOC1=CC=CC2=CC=CC=C12)(C3=CC=CC=C3)N(C)C
+"For the molecule NC(CO)C(=O)NNCc1ccc(O)c(O)c1O, return if it has BBB permeability or not.",0,NC(CO)C(=O)NNCc1ccc(O)c(O)c1O
+What is the BBBP classification for the compound OC(=O)CCCCCCCC(O)=O?,0,OC(=O)CCCCCCCC(O)=O
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: C(C1=CN=CC=C1)(=O)N,1,C(C1=CN=CC=C1)(=O)N
+"Given the SMILES C2=C(C(C1=CC=CC=C1)OCCN(C)C)C(=CC=C2)C(C)(C)C, determine if it penetrates the BBB.",1,C2=C(C(C1=CC=CC=C1)OCCN(C)C)C(=CC=C2)C(C)(C)C
+"Given the SMILES C1CN(CCC1)Cc1cccc(c1)OCCCNC(=O)c1ccccc1, determine if it penetrates the BBB.",1,C1CN(CCC1)Cc1cccc(c1)OCCCNC(=O)c1ccccc1
+"For the molecule C(NCC(N)=O)CCCC, return if it has BBB permeability or not.",1,C(NCC(N)=O)CCCC
+Will the molecule C(=C)OC=C be brain-penetrant?,1,C(=C)OC=C
+Will the molecule [Na+].CO\N=C(C(=O)N[C@@H]1[C@@H]2SCC(=C(N2C1=O)C([O-])=O)COC(C)=O)\c3csc(N)n3 be brain-penetrant?,1,[Na+].CO\N=C(C(=O)N[C@@H]1[C@@H]2SCC(=C(N2C1=O)C([O-])=O)COC(C)=O)\c3csc(N)n3
+"Given the SMILES C1=CC=CC2=C1C3=C(C(=O)N2CCCN(C)C)C=CC=C3, determine if it penetrates the BBB.",1,C1=CC=CC2=C1C3=C(C(=O)N2CCCN(C)C)C=CC=C3
+"For the molecule CC1(C)SC2C(NC(=O)C(N=C)c3ccccc3)C(=O)N2C1C(O)=O, return if it has BBB permeability or not.",0,CC1(C)SC2C(NC(=O)C(N=C)c3ccccc3)C(=O)N2C1C(O)=O
+"For the molecule COc1ccc2Sc3ccccc3N(C[C@H](C)CN(C)C)c2c1, return if it has BBB permeability or not.",1,COc1ccc2Sc3ccccc3N(C[C@H](C)CN(C)C)c2c1
+What is the BBBP classification for the compound C1=C(C=CC(=C1)[S](N)(=O)=O)C(O)=O?,1,C1=C(C=CC(=C1)[S](N)(=O)=O)C(O)=O
+Will the molecule CCNCC(O)c1cccc(O)c1 be brain-penetrant?,0,CCNCC(O)c1cccc(O)c1
+"From the SMILES [C@@]45(C1=C(C=CC(=C1)OC(N3CC2=CC=CC=C2CC3)=O)N([C@H]4N(C)CC5)C)C, predict the binary BBBP property.",1,[C@@]45(C1=C(C=CC(=C1)OC(N3CC2=CC=CC=C2CC3)=O)N([C@H]4N(C)CC5)C)C
+Classify the molecule CCOC(=O)c1cncn1C(C)c2ccccc2 with respect to blood-brain barrier permeability.,1,CCOC(=O)c1cncn1C(C)c2ccccc2
+Will the molecule C1=NC(=NC(=C1CN(C(=C(SSC(=C(\C)N(C=O)CC2=C(N)N=C(C)N=C2)/CCOC(=O)C3=CC=CC=C3)/CCOC(=O)C4=CC=CC=C4)\C)C=O)N)C be brain-penetrant?,1,C1=NC(=NC(=C1CN(C(=C(SSC(=C(\C)N(C=O)CC2=C(N)N=C(C)N=C2)/CCOC(=O)C3=CC=CC=C3)/CCOC(=O)C4=CC=CC=C4)\C)C=O)N)C
+"From the SMILES CC1C=CC=C(C(=O)NC2=C(C3=C(C(=C4C(=C3C(=O)C2=CNN5CCN(CC5)C)C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C, predict the binary BBBP property.",0,CC1C=CC=C(C(=O)NC2=C(C3=C(C(=C4C(=C3C(=O)C2=CNN5CCN(CC5)C)C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C
+Classify the molecule [C@]135[C@H]([C@H](N(CC1)CC2CCC2)CC4=C3C=C(O)C=C4)[C@H](CC(C5)=C)C with respect to blood-brain barrier permeability.,1,[C@]135[C@H]([C@H](N(CC1)CC2CCC2)CC4=C3C=C(O)C=C4)[C@H](CC(C5)=C)C
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: FC(Br)C(F)(F)F,1,FC(Br)C(F)(F)F
+Does the compound [C@@]4(OC(=O)CCCC)(C3(C(C2C(C1(C(=CC(=O)C=C1)C(F)C2)C)C(O)C3)CC4)C)C(=O)CO cross the blood-brain barrier?,1,[C@@]4(OC(=O)CCCC)(C3(C(C2C(C1(C(=CC(=O)C=C1)C(F)C2)C)C(O)C3)CC4)C)C(=O)CO
+"Given the SMILES C(SC1=NSN=C1C2=CCCN(C2)C)CCCCC, determine if it penetrates the BBB.",1,C(SC1=NSN=C1C2=CCCN(C2)C)CCCCC
+Evaluate whether CCCCCC crosses the blood-brain barrier.,1,CCCCCC
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: CN1CCN(CC1)C2=Nc3ccccc3Cc4ccccc24,1,CN1CCN(CC1)C2=Nc3ccccc3Cc4ccccc24
+"Given the SMILES C3=C(N2C1=C([NH]N=C1N(C(=O)CC2=O)C)C)C=CC=C3, determine if it penetrates the BBB.",1,C3=C(N2C1=C([NH]N=C1N(C(=O)CC2=O)C)C)C=CC=C3
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: CC4CC3C2CC(F)C1=CC(=O)C=CC1(C)C2(F)C(O)CC3(C)C4(O)C(=O)CCl,1,CC4CC3C2CC(F)C1=CC(=O)C=CC1(C)C2(F)C(O)CC3(C)C4(O)C(=O)CCl
+Does the compound C4=C(N2C(C1=C(SCCS1)C2=O)OC(N3CCN(C)CC3)=O)N=C5C(=C4)C=CC(=N5)Cl cross the blood-brain barrier?,1,C4=C(N2C(C1=C(SCCS1)C2=O)OC(N3CCN(C)CC3)=O)N=C5C(=C4)C=CC(=N5)Cl
+What is the BBBP classification for the compound [Ca++].NC1=NC(=O)C2=C(NCC(CNc3ccc(cc3)C(=O)N[C@@H](CCC([O-])=O)C([O-])=O)N2C=O)N1?,1,[Ca++].NC1=NC(=O)C2=C(NCC(CNc3ccc(cc3)C(=O)N[C@@H](CCC([O-])=O)C([O-])=O)N2C=O)N1
+What is the BBBP classification for the compound Cc1ncc2CN=C(c3ccccc3F)c4cc(Cl)ccc4n12?,1,Cc1ncc2CN=C(c3ccccc3F)c4cc(Cl)ccc4n12
+What is the BBBP classification for the compound C3=C(C1=NC(=N[N]1C)C2=CC=CN=C2)C(=CC=C3)CO?,1,C3=C(C1=NC(=N[N]1C)C2=CC=CN=C2)C(=CC=C3)CO
+Does the compound [C@@H]4(C1=C2C(=CC(=C1)Br)CCO2)C3=C(C=C(Cl)C(=C3)O)CCN(C4)C cross the blood-brain barrier?,1,[C@@H]4(C1=C2C(=CC(=C1)Br)CCO2)C3=C(C=C(Cl)C(=C3)O)CCN(C4)C
+Can you assess if CCOc1ccc(NC(C)=O)cc1 penetrates the blood-brain barrier?,0,CCOc1ccc(NC(C)=O)cc1
+"From the SMILES [C@H](O)(/C=C/C1=C(C3=C(OC12CCCC2)C=CC=C3)C4=CC=C(F)C=C4)C[C@H](O)CC(OCC)=O, predict the binary BBBP property.",1,[C@H](O)(/C=C/C1=C(C3=C(OC12CCCC2)C=CC=C3)C4=CC=C(F)C=C4)C[C@H](O)CC(OCC)=O
+Will the molecule C3=C(CCN1CCC(CC1)(C2=CC=CC=C2)C(OCC)=O)C=CC(=C3)N be brain-penetrant?,1,C3=C(CCN1CCC(CC1)(C2=CC=CC=C2)C(OCC)=O)C=CC(=C3)N
+"For the molecule CC(C(O)=O)c1cccc(c1)C(=O)c2ccccc2, return if it has BBB permeability or not.",1,CC(C(O)=O)c1cccc(c1)C(=O)c2ccccc2
+Classify the molecule [Cl].CCCCOc1ccc(cc1)C(=O)CCN2CCCCC2 with respect to blood-brain barrier permeability.,0,[Cl].CCCCOc1ccc(cc1)C(=O)CCN2CCCCC2
+What is the BBBP classification for the compound C1=CC(=CC=C1C3(CCN(CCCC(C2=CC=C(F)C=C2)=O)CC3)C(N(C)C)=O)Cl?,1,C1=CC(=CC=C1C3(CCN(CCCC(C2=CC=C(F)C=C2)=O)CC3)C(N(C)C)=O)Cl
+"For the molecule C1=CC(=C3C2=C1CC5C4C2(C(O3)CCC4)CCN5C)O, return if it has BBB permeability or not.",1,C1=CC(=C3C2=C1CC5C4C2(C(O3)CCC4)CCN5C)O
+Can you assess if C1=CC=CC2=C1N(C3=C(CC2)C=CC=C3)CCCN(C)C penetrates the blood-brain barrier?,1,C1=CC=CC2=C1N(C3=C(CC2)C=CC=C3)CCCN(C)C
+"From the SMILES O=C2\C(=C1\OC=NN1)C=CC=C2, predict the binary BBBP property.",1,O=C2\C(=C1\OC=NN1)C=CC=C2
+Evaluate whether C1=C(C(=C(C=C1C(\C=C\N2CC=CC2)=O)OC)OC)OC crosses the blood-brain barrier.,1,C1=C(C(=C(C=C1C(\C=C\N2CC=CC2)=O)OC)OC)OC
+Does the compound C1=CC=CC=C1C3(CCN(CCCC(C2=CC=C(F)C=C2)=O)CC3)CNC(C)=O cross the blood-brain barrier?,1,C1=CC=CC=C1C3(CCN(CCCC(C2=CC=C(F)C=C2)=O)CC3)CNC(C)=O
+Will the molecule C1=C(C=CC2=C1C3(C)C(C)C(C2)N(CC3)CCC4=CC=CC=C4)O be brain-penetrant?,1,C1=C(C=CC2=C1C3(C)C(C)C(C2)N(CC3)CCC4=CC=CC=C4)O
+Does the compound [C@]23([C@@H]1[C@@H](C(=CO[C@H]1OC(=O)CC(C)C)COC(=O)CC(C)C)C[C@@H]2OC(=O)C)OC3 cross the blood-brain barrier?,1,[C@]23([C@@H]1[C@@H](C(=CO[C@H]1OC(=O)CC(C)C)COC(=O)CC(C)C)C[C@@H]2OC(=O)C)OC3
+Will the molecule CC4CN(CCCn2c1ccccc1c3ccccc23)CC(C)N4 be brain-penetrant?,1,CC4CN(CCCn2c1ccccc1c3ccccc23)CC(C)N4
+What is the BBBP classification for the compound CC(C)[C@@H]1NC(=O)[C@H](C)OC(=O)C(NC(=O)[C@H](OC(=O)[C@@H](NC(=O)[C@H](C)OC(=O)[C@H](NC(=O)[C@H](OC(=O)[C@@H](NC(=O)[C@H](C)OC(=O)[C@H](NC(=O)[C@H](OC1=O)C(C)C)C(C)C)C(C)C)C(C)C)C(C)C)C(C)C)C(C)C)C(C)C?,0,CC(C)[C@@H]1NC(=O)[C@H](C)OC(=O)C(NC(=O)[C@H](OC(=O)[C@@H](NC(=O)[C@H](C)OC(=O)[C@H](NC(=O)[C@H](OC(=O)[C@@H](NC(=O)[C@H](C)OC(=O)[C@H](NC(=O)[C@H](OC1=O)C(C)C)C(C)C)C(C)C)C(C)C)C(C)C)C(C)C)C(C)C)C(C)C
+"For the molecule Clc1cc2c(Oc3ccccc3C3CNCC32)cc1, return if it has BBB permeability or not.",1,Clc1cc2c(Oc3ccccc3C3CNCC32)cc1
+What is the BBBP classification for the compound C1=C(Cl)C=CC2=C1C(=NC(C(=O)N2)C(OCC)=O)C3=CC=CC=C3F?,1,C1=C(Cl)C=CC2=C1C(=NC(C(=O)N2)C(OCC)=O)C3=CC=CC=C3F
+Will the molecule ClC(C(F)(F)Cl)(F)F be brain-penetrant?,1,ClC(C(F)(F)Cl)(F)F
+"From the SMILES CN1CCN2C(C1)c3ccccc3Cc4ccccc24, predict the binary BBBP property.",1,CN1CCN2C(C1)c3ccccc3Cc4ccccc24
+Will the molecule CC(N)COc1c(C)cccc1C be brain-penetrant?,1,CC(N)COc1c(C)cccc1C
+"Given the SMILES [C@H]34[C@H]2[C@@](F)([C@@]1(C(=CC(=O)C=C1)CC2)C)[C@@H](O)C[C@@]3([C@](O)([C@H](C4)C)C(=O)C)C, determine if it penetrates the BBB.",1,[C@H]34[C@H]2[C@@](F)([C@@]1(C(=CC(=O)C=C1)CC2)C)[C@@H](O)C[C@@]3([C@](O)([C@H](C4)C)C(=O)C)C
+Classify the molecule C4=C(C(C1=CC=C(C=C1)F)CCCN3CCN(CCNC2=CC=CC=C2)CC3)C=CC(=C4)F with respect to blood-brain barrier permeability.,1,C4=C(C(C1=CC=C(C=C1)F)CCCN3CCN(CCNC2=CC=CC=C2)CC3)C=CC(=C4)F
+"For the molecule c12c(C(N(Cc3n1cnc3c1noc(n1)C(O)(C)C)C)=O)c(ccc2)Cl, return if it has BBB permeability or not.",0,c12c(C(N(Cc3n1cnc3c1noc(n1)C(O)(C)C)C)=O)c(ccc2)Cl
+Can you assess if [C@@]45([C@@]3([C@H]([C@H]2[C@]([C@@]1(C(=CC(=O)C=C1)[C@H](C2)F)C)(F)[C@H](C3)O)C[C@H]4OC(O5)(C)C)C)C(COC(C)=O)=O penetrates the blood-brain barrier?,1,[C@@]45([C@@]3([C@H]([C@H]2[C@]([C@@]1(C(=CC(=O)C=C1)[C@H](C2)F)C)(F)[C@H](C3)O)C[C@H]4OC(O5)(C)C)C)C(COC(C)=O)=O
+Will the molecule CSc1ccc2Sc3ccccc3N(CCC4CCCCN4C)c2c1 be brain-penetrant?,1,CSc1ccc2Sc3ccccc3N(CCC4CCCCN4C)c2c1
+Can you assess if COc1cccc2C(=O)c3c(O)c4C[C@@](O)(C[C@@H](OC5CC(N)CC(C)O5)c4c(O)c3C(=O)c12)C(=O)CO penetrates the blood-brain barrier?,0,COc1cccc2C(=O)c3c(O)c4C[C@@](O)(C[C@@H](OC5CC(N)CC(C)O5)c4c(O)c3C(=O)c12)C(=O)CO
+Evaluate whether C1=C(O)C=CC4=C1C3(C(C(N(CC2CCC2)CC3)C4)(C)C)CC crosses the blood-brain barrier.,1,C1=C(O)C=CC4=C1C3(C(C(N(CC2CCC2)CC3)C4)(C)C)CC
+Evaluate whether C1=CC(=CC=C1C(C2=CC=CC=C2)SCCN(C)C)SCCCC crosses the blood-brain barrier.,1,C1=CC(=CC=C1C(C2=CC=CC=C2)SCCN(C)C)SCCCC
+Can you assess if CCC(C)(CC)OC(N)=O penetrates the blood-brain barrier?,1,CCC(C)(CC)OC(N)=O
+Classify the molecule C1=C(C(F)(F)F)C=CC(=C1)C(=N/OCCN)/CCCCOC.O=C(O)\C=C/C(=O)O with respect to blood-brain barrier permeability.,1,C1=C(C(F)(F)F)C=CC(=C1)C(=N/OCCN)/CCCCOC.O=C(O)\C=C/C(=O)O
+Will the molecule CO/N=C(C(=O)N[C@H]1[C@H]2SCC(=C(N2C1=O)C(O)=O)\C=C\SC3=NNC(=O)C(=O)N3CC=O)/c4csc(N)n4 be brain-penetrant?,0,CO/N=C(C(=O)N[C@H]1[C@H]2SCC(=C(N2C1=O)C(O)=O)\C=C\SC3=NNC(=O)C(=O)N3CC=O)/c4csc(N)n4
+Classify the molecule CCc1nc(N)nc(N)c1c2ccc(Cl)cc2 with respect to blood-brain barrier permeability.,1,CCc1nc(N)nc(N)c1c2ccc(Cl)cc2
+"From the SMILES c1c(nccc1)CCNC, predict the binary BBBP property.",1,c1c(nccc1)CCNC
+"For the molecule OC1(CCN(CCCC(=O)c2ccc(F)cc2)CC1)c3cccc(c3)C(F)(F)F, return if it has BBB permeability or not.",1,OC1(CCN(CCCC(=O)c2ccc(F)cc2)CC1)c3cccc(c3)C(F)(F)F
+Does the compound OC12c3c(Oc4c(C)cccc4C2CNCC1)cccc3 cross the blood-brain barrier?,1,OC12c3c(Oc4c(C)cccc4C2CNCC1)cccc3
+"Given the SMILES C1=C(C)ON=C1C(NNCC2=CC=CC=C2)=O, determine if it penetrates the BBB.",1,C1=C(C)ON=C1C(NNCC2=CC=CC=C2)=O
+Can you assess if ClC(Cl)Cl penetrates the blood-brain barrier?,1,ClC(Cl)Cl
+Can you assess if [H+].C1=CC=CC2=C1[S](=O)(=O)N(C2=O)CCCCN4CCN(C3=NC=CC=N3)CC4.[Cl-] penetrates the blood-brain barrier?,1,[H+].C1=CC=CC2=C1[S](=O)(=O)N(C2=O)CCCCN4CCN(C3=NC=CC=N3)CC4.[Cl-]
+Does the compound C1N(C(CC2CCCCC12)C(NC(C)(C)C)=O)CC(C(Cc1ccccc1)NC(C(NC(c1nc2c(cccc2)cc1)=O)CC(N)=O)=O)O cross the blood-brain barrier?,1,C1N(C(CC2CCCCC12)C(NC(C)(C)C)=O)CC(C(Cc1ccccc1)NC(C(NC(c1nc2c(cccc2)cc1)=O)CC(N)=O)=O)O
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: N[S](=O)(=O)c1cc2c(NC=N[S]2(=O)=O)cc1Cl,0,N[S](=O)(=O)c1cc2c(NC=N[S]2(=O)=O)cc1Cl
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: [C@H]23C1=C(C=C(C(CCCCCC)(C)C)C=C1O)OC([C@@H]2CCC(C3)=O)(C)C,1,[C@H]23C1=C(C=C(C(CCCCCC)(C)C)C=C1O)OC([C@@H]2CCC(C3)=O)(C)C
+What is the BBBP classification for the compound C1CCN(CC1)C2(CCCCC2)c3ccccc3?,1,C1CCN(CC1)C2(CCCCC2)c3ccccc3
+"For the molecule CC[C@]1(O)C[C@H]2CN(CCc3c([nH]c4ccccc34)[C@@](C2)(C(=O)OC)c5cc6c(cc5OC)N(C)[C@H]7[C@](O)([C@H](O)[C@]8(CC)C=CCN9CC[C@]67[C@H]89)C(N)=O)C1, return if it has BBB permeability or not.",0,CC[C@]1(O)C[C@H]2CN(CCc3c([nH]c4ccccc34)[C@@](C2)(C(=O)OC)c5cc6c(cc5OC)N(C)[C@H]7[C@](O)([C@H](O)[C@]8(CC)C=CCN9CC[C@]67[C@H]89)C(N)=O)C1
+Classify the molecule OC(=O)C1CCn2c1ccc2C(=O)c3ccccc3 with respect to blood-brain barrier permeability.,0,OC(=O)C1CCn2c1ccc2C(=O)c3ccccc3
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: CN[C@H]1[C@@H](O)[C@H]2O[C@@H](O[C@@H]3[C@@H](N)C[C@@H](N)[C@H](O)[C@H]3O)[C@H](N)C[C@@H]2O[C@@H]1O[C@H]4O[C@H](CO)[C@@H](N)[C@H](O)[C@H]4O,0,CN[C@H]1[C@@H](O)[C@H]2O[C@@H](O[C@@H]3[C@@H](N)C[C@@H](N)[C@H](O)[C@H]3O)[C@H](N)C[C@@H]2O[C@@H]1O[C@H]4O[C@H](CO)[C@@H](N)[C@H](O)[C@H]4O
+What is the BBBP classification for the compound C1=C(SC=C1)C2(C(CCCC2)=O)NCC?,1,C1=C(SC=C1)C2(C(CCCC2)=O)NCC
+What is the BBBP classification for the compound c1(ccc(c(c1)Cl)Cl)CC(N1[C@H](CN(CC1)C(=O)OCC)CN1CCCC1)=O?,1,c1(ccc(c(c1)Cl)Cl)CC(N1[C@H](CN(CC1)C(=O)OCC)CN1CCCC1)=O
+What is the BBBP classification for the compound c1(ccc(c(c1)Cl)Cl)CC(N1[C@H](CN(CC1)C(=O)OC)CN1CCCC1)=O?,1,c1(ccc(c(c1)Cl)Cl)CC(N1[C@H](CN(CC1)C(=O)OC)CN1CCCC1)=O
+"From the SMILES CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](NC(=O)Cc3ccc(cc3)C4=NCCCN4)c5ccccc5)C(=O)N2[C@H]1C(O)=O, predict the binary BBBP property.",0,CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](NC(=O)Cc3ccc(cc3)C4=NCCCN4)c5ccccc5)C(=O)N2[C@H]1C(O)=O
+Does the compound CC(=O)OCC1=C(N2[C@H](SC1)[C@H](NC(=O)CSc3ccncc3)C2=O)C(O)=O cross the blood-brain barrier?,0,CC(=O)OCC1=C(N2[C@H](SC1)[C@H](NC(=O)CSc3ccncc3)C2=O)C(O)=O
+"From the SMILES [C@]14([C@](OC(=O)CC)([C@@H](CC1C3[C@@](F)(C2(C(=CC(=O)C=C2)[C@@H](F)C3)C)[C@@H](O)C4)C)C(SC)=O)C, predict the binary BBBP property.",1,[C@]14([C@](OC(=O)CC)([C@@H](CC1C3[C@@](F)(C2(C(=CC(=O)C=C2)[C@@H](F)C3)C)[C@@H](O)C4)C)C(SC)=O)C
+"From the SMILES CN1CC[C@]23CCCC[C@H]2[C@H]1Cc4ccc(O)cc34, predict the binary BBBP property.",1,CN1CC[C@]23CCCC[C@H]2[C@H]1Cc4ccc(O)cc34
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: CC(C)CC(OC(=O)c1occc1)C(=O)N[C@H]2[C@H]3SC(C)(C)[C@@H](N3C2=O)C(O)=O,0,CC(C)CC(OC(=O)c1occc1)C(=O)N[C@H]2[C@H]3SC(C)(C)[C@@H](N3C2=O)C(O)=O
+Does the compound [C@@]45([C@@]3([C@H]([C@H]2[C@@H]([C@@]1(C(=CC(=O)C=C1)CC2)C)[C@H](C3)O)C[C@H]4O[C@H](O5)C6CCCCC6)C)C(COC(C(C)C)=O)=O cross the blood-brain barrier?,1,[C@@]45([C@@]3([C@H]([C@H]2[C@@H]([C@@]1(C(=CC(=O)C=C1)CC2)C)[C@H](C3)O)C[C@H]4O[C@H](O5)C6CCCCC6)C)C(COC(C(C)C)=O)=O
+Can you assess if OC(=O)CCc1oc(c2ccccc2)c(n1)c3ccccc3 penetrates the blood-brain barrier?,0,OC(=O)CCc1oc(c2ccccc2)c(n1)c3ccccc3
+"Given the SMILES C1=C3C(=C(C(=C1)CNC2=CC(=C(C(=C2)OC)OC)OC)C)C(=NC(=N3)N)N, determine if it penetrates the BBB.",1,C1=C3C(=C(C(=C1)CNC2=CC(=C(C(=C2)OC)OC)OC)C)C(=NC(=N3)N)N
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: C1=C(C(=CC=C1OCC2=NCCN2)Cl)Cl,1,C1=C(C(=CC=C1OCC2=NCCN2)Cl)Cl
+Can you assess if [C@]34([C@H]([C@H]2[C@@H]([C@@]1(C(=CC(=O)C=C1)[C@H](C2)F)C)[C@H](C3)O)C[C@H]([C@@]4(C(COC(C)=O)=O)O)C)C penetrates the blood-brain barrier?,1,[C@]34([C@H]([C@H]2[C@@H]([C@@]1(C(=CC(=O)C=C1)[C@H](C2)F)C)[C@H](C3)O)C[C@H]([C@@]4(C(COC(C)=O)=O)O)C)C
+Will the molecule C1=C(C(C(C)(C)O)(C)O)C=CC=C1Cl be brain-penetrant?,1,C1=C(C(C(C)(C)O)(C)O)C=CC=C1Cl
+"From the SMILES C1=NC2=C([N]1CC(C)=O)C(N(CCCC)C(N2CCCC)=O)=O, predict the binary BBBP property.",1,C1=NC2=C([N]1CC(C)=O)C(N(CCCC)C(N2CCCC)=O)=O
+Classify the molecule CC(C)(C)NCC(O)c1ccc(O)c(CO)c1 with respect to blood-brain barrier permeability.,0,CC(C)(C)NCC(O)c1ccc(O)c(CO)c1
+Does the compound NCCc1cn2c(n1)cccc2 cross the blood-brain barrier?,0,NCCc1cn2c(n1)cccc2
+"For the molecule CC1OC(CC(N)C1O)OC2CC(O)(Cc3c(O)c4C(=O)c5ccccc5C(=O)c4c(O)c23)C(=O)CO, return if it has BBB permeability or not.",0,CC1OC(CC(N)C1O)OC2CC(O)(Cc3c(O)c4C(=O)c5ccccc5C(=O)c4c(O)c23)C(=O)CO
+Evaluate whether c1cn(CCCCC)c(C)c(O)c1=O crosses the blood-brain barrier.,1,c1cn(CCCCC)c(C)c(O)c1=O
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: C2=C(C1(C(OCC)=O)CCN(C)CC1)C=CC=C2O,1,C2=C(C1(C(OCC)=O)CCN(C)CC1)C=CC=C2O
+"Given the SMILES C1=C3C(=CC=C1)N=C2SC(=CC2=C(N3)N4CCN(CC4)C)C, determine if it penetrates the BBB.",1,C1=C3C(=CC=C1)N=C2SC(=CC2=C(N3)N4CCN(CC4)C)C
+"For the molecule [C@]12(C(=CC(C=C1)=O)[C@H](C[C@H]3[C@H]4[C@](C[C@@H]([C@H]23)O)([C@](C(=O)CO)(O)[C@@H](C4)C)C)F)C, return if it has BBB permeability or not.",1,[C@]12(C(=CC(C=C1)=O)[C@H](C[C@H]3[C@H]4[C@](C[C@@H]([C@H]23)O)([C@](C(=O)CO)(O)[C@@H](C4)C)C)F)C
+"Given the SMILES Nc1ncnc2n(cnc12)C3OC(CO)C(O)C3O, determine if it penetrates the BBB.",1,Nc1ncnc2n(cnc12)C3OC(CO)C(O)C3O
+What is the BBBP classification for the compound C1=CC(=CC2=C1C(C3=C(N(C)[S]2(=O)=O)C=CC=C3)NCCCCCCC(O)=O)Cl?,1,C1=CC(=CC2=C1C(C3=C(N(C)[S]2(=O)=O)C=CC=C3)NCCCCCCC(O)=O)Cl
+Evaluate whether CNC(NC(C(Cl)(Cl)Cl)O)=O crosses the blood-brain barrier.,1,CNC(NC(C(Cl)(Cl)Cl)O)=O
+"From the SMILES n(ccc1)c(c1)CCN(C)C, predict the binary BBBP property.",1,n(ccc1)c(c1)CCN(C)C
+Does the compound Nc1nc(NC2CC2)c3ncn([C@@H]4C[C@H](CO)C=C4)c3n1 cross the blood-brain barrier?,1,Nc1nc(NC2CC2)c3ncn([C@@H]4C[C@H](CO)C=C4)c3n1
+"For the molecule [C@@H]3(C1=C(C=C2C(=C1OC)OCO2)CCN3C)[C@@H]5C4=C(C(=C(OC)C=C4)OC)C(O5)=O, return if it has BBB permeability or not.",1,[C@@H]3(C1=C(C=C2C(=C1OC)OCO2)CCN3C)[C@@H]5C4=C(C(=C(OC)C=C4)OC)C(O5)=O
+Classify the molecule CN1CCN(CC1)C3=Nc2ccccc2Sc4nccn34 with respect to blood-brain barrier permeability.,1,CN1CCN(CC1)C3=Nc2ccccc2Sc4nccn34
+Does the compound Nc1c2CCCCc2nc3ccccc13 cross the blood-brain barrier?,1,Nc1c2CCCCc2nc3ccccc13
+Does the compound c1c(Cl)nc(N2CCN(CCCCN3C(CCC3)=O)CC2)cc1C(F)(F)F cross the blood-brain barrier?,1,c1c(Cl)nc(N2CCN(CCCCN3C(CCC3)=O)CC2)cc1C(F)(F)F
+Can you assess if CN(C)CCn1nnnc1SCC2=C(N3[C@H](SC2)[C@H](NC(=O)Cc4csc(N)n4)C3=O)C(O)=O penetrates the blood-brain barrier?,0,CN(C)CCn1nnnc1SCC2=C(N3[C@H](SC2)[C@H](NC(=O)Cc4csc(N)n4)C3=O)C(O)=O
+Will the molecule [C@H]2(N(C1=CC=C(C(=C1)Cl)Cl)C(CC)=O)[C@@H](CCC2)N(C)C be brain-penetrant?,1,[C@H]2(N(C1=CC=C(C(=C1)Cl)Cl)C(CC)=O)[C@@H](CCC2)N(C)C
+"From the SMILES CCCNC(=O)N[S](=O)(=O)c1ccc(Cl)cc1, predict the binary BBBP property.",0,CCCNC(=O)N[S](=O)(=O)c1ccc(Cl)cc1
+"Given the SMILES [C@]34([C@H]([C@H]2[C@@H]([C@@]1(C(=CC(=O)C=C1)CC2)C)[C@H](C3)O)CC[C@@]4(C(CN5CCN(C)CC5)=O)O)C, determine if it penetrates the BBB.",1,[C@]34([C@H]([C@H]2[C@@H]([C@@]1(C(=CC(=O)C=C1)CC2)C)[C@H](C3)O)CC[C@@]4(C(CN5CCN(C)CC5)=O)O)C
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: c1nc(C2CCN(CC2)C(NC2CCCCC2)=S)c[nH]1,1,c1nc(C2CCN(CC2)C(NC2CCCCC2)=S)c[nH]1
+"Given the SMILES Cc1ccc(CC2=CN=C(NCCCCc3ncc(Br)cc3C)NC2=O)cn1, determine if it penetrates the BBB.",0,Cc1ccc(CC2=CN=C(NCCCCc3ncc(Br)cc3C)NC2=O)cn1
+Will the molecule OC(=O)c1ccccc1O be brain-penetrant?,0,OC(=O)c1ccccc1O
+Does the compound C2=C(N1C(SCC1)=N)C(=CC(=C2)Cl)N cross the blood-brain barrier?,1,C2=C(N1C(SCC1)=N)C(=CC(=C2)Cl)N
+Does the compound [C@H]23C([C@@]1(OC(O[C@@H]1C2)(C)C)C(=O)CO)(C[C@H](O)[C@@]4(F)C3CCC5C4(CCC(=O)C5)C)C cross the blood-brain barrier?,1,[C@H]23C([C@@]1(OC(O[C@@H]1C2)(C)C)C(=O)CO)(C[C@H](O)[C@@]4(F)C3CCC5C4(CCC(=O)C5)C)C
+Classify the molecule OC1C(N2CCC1)=NC(C)=C(CCN3CCC(CC3)c4c5ccc(F)cc5on4)C2=O with respect to blood-brain barrier permeability.,1,OC1C(N2CCC1)=NC(C)=C(CCN3CCC(CC3)c4c5ccc(F)cc5on4)C2=O
+Will the molecule C1=CC(=CC=C1C2[S](CCC(N2C)=O)(=O)=O)Cl be brain-penetrant?,1,C1=CC(=CC=C1C2[S](CCC(N2C)=O)(=O)=O)Cl
+"From the SMILES C1CN(CCC1)Cc1cccc(c1)OCCCO, predict the binary BBBP property.",1,C1CN(CCC1)Cc1cccc(c1)OCCCO
+"Given the SMILES CC(C)C(=O)OCc1cccc(OC(=O)[C@@H]2N3[C@H](SC2(C)C)[C@H](NC(=O)Cc4ccccc4)C3=O)c1, determine if it penetrates the BBB.",0,CC(C)C(=O)OCc1cccc(OC(=O)[C@@H]2N3[C@H](SC2(C)C)[C@H](NC(=O)Cc4ccccc4)C3=O)c1
+Evaluate whether N[S](=O)(=O)c1cc2c(NCN[S]2(=O)=O)cc1Cl crosses the blood-brain barrier.,0,N[S](=O)(=O)c1cc2c(NCN[S]2(=O)=O)cc1Cl
+"For the molecule C1=C2C(=CC=C1)C(C=C(O2)C(O)=O)=O, return if it has BBB permeability or not.",1,C1=C2C(=CC=C1)C(C=C(O2)C(O)=O)=O
+Evaluate whether CN1CCC(=CC1)c2ccccc2 crosses the blood-brain barrier.,1,CN1CCC(=CC1)c2ccccc2
+Evaluate whether c1cccn2c1nc(c2)CCN crosses the blood-brain barrier.,0,c1cccn2c1nc(c2)CCN
+Will the molecule Fc1ccc(cc1)C(=O)CCCN2CCC(CC2)N3C(=O)Nc4ccccc34 be brain-penetrant?,1,Fc1ccc(cc1)C(=O)CCCN2CCC(CC2)N3C(=O)Nc4ccccc34
+"Given the SMILES [C@]14([C@H]([C@H]3[C@](F)([C@@H](O)C1)[C@@]2(C(=CC(=O)C=C2)CC3)C)C[C@@H]6[C@]4(CC5=CC=CC=C5C6)C(=O)CO)C.O, determine if it penetrates the BBB.",1,[C@]14([C@H]([C@H]3[C@](F)([C@@H](O)C1)[C@@]2(C(=CC(=O)C=C2)CC3)C)C[C@@H]6[C@]4(CC5=CC=CC=C5C6)C(=O)CO)C.O
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: Oc1ccc2C[C@H]3N(CC[C@@]45[C@@H](Oc1c24)C(=O)CC[C@@]35O)CC=C,1,Oc1ccc2C[C@H]3N(CC[C@@]45[C@@H](Oc1c24)C(=O)CC[C@@]35O)CC=C
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: N1(Cc2cc(OCCCNc3oc4ccccc4n3)ccc2)CCCCC1,1,N1(Cc2cc(OCCCNc3oc4ccccc4n3)ccc2)CCCCC1
+Will the molecule C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc34)[C@@H]1CCC2=O be brain-penetrant?,0,C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc34)[C@@H]1CCC2=O
+Evaluate whether C1=C(Cl)C=CC3=C1\C(C2=C(C=CC=C2)S3)=C/CCN4CCN(CCO)CC4 crosses the blood-brain barrier.,1,C1=C(Cl)C=CC3=C1\C(C2=C(C=CC=C2)S3)=C/CCN4CCN(CCO)CC4
+"From the SMILES CC(C)(C)C(=O)OCOC(=O)[C@@H]1N2[C@H](SC1(C)C)[C@H](NC(=O)[C@H](N)c3ccccc3)C2=O, predict the binary BBBP property.",0,CC(C)(C)C(=O)OCOC(=O)[C@@H]1N2[C@H](SC1(C)C)[C@H](NC(=O)[C@H](N)c3ccccc3)C2=O
+"For the molecule C[C@H]1O[C@H](C[C@H](O)[C@@H]1O)O[C@H]2[C@@H](O)C[C@@H](O[C@@H]2C)O[C@H]3[C@@H](O)C[C@@H](O[C@@H]3C)O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5CC[C@]7(C)[C@@H](CC[C@]67O)C8=CC(=O)OC8)C4, return if it has BBB permeability or not.",0,C[C@H]1O[C@H](C[C@H](O)[C@@H]1O)O[C@H]2[C@@H](O)C[C@@H](O[C@@H]2C)O[C@H]3[C@@H](O)C[C@@H](O[C@@H]3C)O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5CC[C@]7(C)[C@@H](CC[C@]67O)C8=CC(=O)OC8)C4
+What is the BBBP classification for the compound OC(=O)C1=CC(=O)c2ccccc2N1?,1,OC(=O)C1=CC(=O)c2ccccc2N1
+"From the SMILES CNC(/NCCSCc1oc(CN(C)C)cc1)=C\[N+]([O-])=O, predict the binary BBBP property.",0,CNC(/NCCSCc1oc(CN(C)C)cc1)=C\[N+]([O-])=O
+What is the BBBP classification for the compound C(C2C1C(NC(N1)=O)CS2)CCCC(O)=O?,1,C(C2C1C(NC(N1)=O)CS2)CCCC(O)=O
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: OCCOCCN1CCN(CC1)C(c2ccccc2)c3ccc(Cl)cc3,1,OCCOCCN1CCN(CC1)C(c2ccccc2)c3ccc(Cl)cc3
+"For the molecule C1=CC=CC=C1C(CN2CCCC2)OCCC(C)C, return if it has BBB permeability or not.",1,C1=CC=CC=C1C(CN2CCCC2)OCCC(C)C
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: C1=C(C=CC3=C1N(CCCN2CCC(CC2)O)C4=C(S3)C=CC=C4)C#N,1,C1=C(C=CC3=C1N(CCCN2CCC(CC2)O)C4=C(S3)C=CC=C4)C#N
+Will the molecule [Cl-].COc1cccc2C(=O)c3c(O)c4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)c4c(O)c3C(=O)c12)/C(C)=N/NC(=O)c6ccccc6.[H+] be brain-penetrant?,0,[Cl-].COc1cccc2C(=O)c3c(O)c4C[C@](O)(C[C@H](O[C@H]5C[C@H](N)[C@H](O)[C@H](C)O5)c4c(O)c3C(=O)c12)/C(C)=N/NC(=O)c6ccccc6.[H+]
+"From the SMILES CC(C)C1NC(=O)C(NC(=O)c2ccc(C)c3OC4=C(C)C(=O)C(=C(C(=O)NC5C(C)OC(=O)C(C(C)C)N(C)C(=O)CN(C)C(=O)C6CCCN6C(=O)C(NC5=O)C(C)C)C4=Nc23)N)C(C)OC(=O)C(C(C)C)N(C)C(=O)CN(C)C(=O)C7CCCN7C1=O, predict the binary BBBP property.",0,CC(C)C1NC(=O)C(NC(=O)c2ccc(C)c3OC4=C(C)C(=O)C(=C(C(=O)NC5C(C)OC(=O)C(C(C)C)N(C)C(=O)CN(C)C(=O)C6CCCN6C(=O)C(NC5=O)C(C)C)C4=Nc23)N)C(C)OC(=O)C(C(C)C)N(C)C(=O)CN(C)C(=O)C7CCCN7C1=O
+"For the molecule C5=C2C1=C(CCC4=C(C1CN3CCCCC23)C=CC=C4)C=C5, return if it has BBB permeability or not.",1,C5=C2C1=C(CCC4=C(C1CN3CCCCC23)C=CC=C4)C=C5
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: CN1CCCC(C1)CN2c3ccccc3Sc4ccccc24,1,CN1CCCC(C1)CN2c3ccccc3Sc4ccccc24
+Will the molecule C4=C(N2C(C1=C(SCCS1)C2=O)OC(N3CCN(C(CC)=O)CC3)=O)N=C5C(=C4)C=CC(=N5)Cl be brain-penetrant?,1,C4=C(N2C(C1=C(SCCS1)C2=O)OC(N3CCN(C(CC)=O)CC3)=O)N=C5C(=C4)C=CC(=N5)Cl
+Will the molecule COc1cccc(OC)c1C(=O)N[C@H]2[C@H]3SC(C)(C)[C@@H](N3C2=O)C(O)=O be brain-penetrant?,0,COc1cccc(OC)c1C(=O)N[C@H]2[C@H]3SC(C)(C)[C@@H](N3C2=O)C(O)=O
+What is the BBBP classification for the compound C(OC(NC(C(Cl)(Cl)Cl)O)=O)C?,1,C(OC(NC(C(Cl)(Cl)Cl)O)=O)C
+Classify the molecule C1=CC(=CC5=C1N(C4CCN(CC3OC2=C(C=CC=C2)OC3)CC4)C(N5)=O)Cl with respect to blood-brain barrier permeability.,1,C1=CC(=CC5=C1N(C4CCN(CC3OC2=C(C=CC=C2)OC3)CC4)C(N5)=O)Cl
+Does the compound C1=CC=CC2=C1N(C3=C(C=C2)C=CC=C3)CCCN(C)C cross the blood-brain barrier?,1,C1=CC=CC2=C1N(C3=C(C=C2)C=CC=C3)CCCN(C)C
+What is the BBBP classification for the compound c1(ccc(c(c1)Cl)Cl)CC(N1[C@H](C[C@]2(CC1)NC(NC2=O)=O)CN1CCCC1)=O?,0,c1(ccc(c(c1)Cl)Cl)CC(N1[C@H](C[C@]2(CC1)NC(NC2=O)=O)CN1CCCC1)=O
+"For the molecule NNCCc1ccccc1.O[S](O)(=O)=O, return if it has BBB permeability or not.",1,NNCCc1ccccc1.O[S](O)(=O)=O
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: CN(C)[C@H]1[C@@H]2[C@@H](O)[C@@H]3C(=C)c4cccc(O)c4C(=C3C(=O)[C@]2(O)C(=O)\C(=C(N)/O)C1=O)O,0,CN(C)[C@H]1[C@@H]2[C@@H](O)[C@@H]3C(=C)c4cccc(O)c4C(=C3C(=O)[C@]2(O)C(=O)\C(=C(N)/O)C1=O)O
+Classify the molecule C(C(CCC)C(N)=O)CC with respect to blood-brain barrier permeability.,1,C(C(CCC)C(N)=O)CC
+Classify the molecule CC14C5(C(CC1C3C(C2(C(=CC(=O)CC2)CC3)C)CC4)OC(O5)(C)C)C(C)=O with respect to blood-brain barrier permeability.,1,CC14C5(C(CC1C3C(C2(C(=CC(=O)CC2)CC3)C)CC4)OC(O5)(C)C)C(C)=O
+Can you assess if C1=NC(=NC(=C1CN(C(=C(\CCOC(C)=O)SC(C)=O)/C)C=O)N)C penetrates the blood-brain barrier?,1,C1=NC(=NC(=C1CN(C(=C(\CCOC(C)=O)SC(C)=O)/C)C=O)N)C
+Can you assess if OC(=O)C1=C(CS[C@@H]2[C@H](NC(=O)Cc3sccc3)C(=O)N12)CSc4[nH]ncn4 penetrates the blood-brain barrier?,0,OC(=O)C1=C(CS[C@@H]2[C@H](NC(=O)Cc3sccc3)C(=O)N12)CSc4[nH]ncn4
+Predict the blood-brain barrier penetration (BBBP) property for the molecule with SMILES: C1=CC=CC3=C1C(=NC2=C(C=CC(=C2)F)C3)N4CCN(C)CC4,1,C1=CC=CC3=C1C(=NC2=C(C=CC(=C2)F)C3)N4CCN(C)CC4
+"Given the SMILES C1=CC=CC2=C1N(C3=C(CC2=O)C=CC=C3)CCCN(C)C, determine if it penetrates the BBB.",1,C1=CC=CC2=C1N(C3=C(CC2=O)C=CC=C3)CCCN(C)C
+"For the molecule C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@]2(O)C#C, return if it has BBB permeability or not.",0,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@]2(O)C#C
+Evaluate whether CC1(C)SC2C(N([C@H](C(=O)NC(=O)CN)c3ccccc3)C(=N)c4ccncc4)C(=O)N2C1C(O)=O crosses the blood-brain barrier.,0,CC1(C)SC2C(N([C@H](C(=O)NC(=O)CN)c3ccccc3)C(=N)c4ccncc4)C(=O)N2C1C(O)=O
+"From the SMILES C1=C3C2=C(C=C1O)C=CC=C2CC(C3)N(CCC)CCC, predict the binary BBBP property.",1,C1=C3C2=C(C=C1O)C=CC=C2CC(C3)N(CCC)CCC

@@ -1,0 +1,114 @@
+prompt,gt,smiles
+Provide the aqueous solubility for the structure c1ccccc1(OC(=O)NC).,-1.803,c1ccccc1(OC(=O)NC)
+"Given the SMILES CCCCCCCC#C, compute its solubility value.",-4.24,CCCCCCCC#C
+Estimate the ESOL property of CCN(CC)c1nc(Cl)nc(NC(C)C)n1.,-3.785,CCN(CC)c1nc(Cl)nc(NC(C)C)n1
+"For the molecule COc2ccc(Oc1ccc(NC(=O)N(C)C)cc1)cc2, return its solubility estimate.",-4.16,COc2ccc(Oc1ccc(NC(=O)N(C)C)cc1)cc2
+Predict the aqueous solubility (ESOL) value for the molecule with SMILES: CCCCI,-2.96,CCCCI
+"Given the SMILES CCN(CC)C(=O)CSc1ccc(Cl)nn1, compute its solubility value.",-1.716,CCN(CC)C(=O)CSc1ccc(Cl)nn1
+Estimate the ESOL property of Clc1cc(Cl)c(cc1Cl)c2cc(Cl)c(Cl)cc2Cl .,-8.56,Clc1cc(Cl)c(cc1Cl)c2cc(Cl)c(Cl)cc2Cl 
+What is the predicted ESOL value for CCCC1COC(Cn2cncn2)(O1)c3ccc(Cl)cc3Cl?,-3.4930000000000003,CCCC1COC(Cn2cncn2)(O1)c3ccc(Cl)cc3Cl
+Estimate the ESOL property of CCCN(=O)=O.,-0.8,CCCN(=O)=O
+Estimate the ESOL property of CCCCCCO.,-1.24,CCCCCCO
+What is the solubility of Cc1ncnc2nccnc12 in water?,-0.466,Cc1ncnc2nccnc12
+"From the SMILES CCCCCBr, predict the ESOL property.",-3.08,CCCCCBr
+What is the solubility of Cc1cccc2c(C)cccc12 in water?,-4.678999999999999,Cc1cccc2c(C)cccc12
+"Given the SMILES CCOc1ccc(cc1)C(C)(C)COCc3cccc(Oc2ccccc2)c3, compute its solubility value.",-8.6,CCOc1ccc(cc1)C(C)(C)COCc3cccc(Oc2ccccc2)c3
+Predict the aqueous solubility (ESOL) value for the molecule with SMILES: CCCC(C)O,-0.29,CCCC(C)O
+"For the molecule CC1CCCO1, return its solubility estimate.",0.11,CC1CCCO1
+"Given the SMILES CC(C)OC(=O)C, compute its solubility value.",-0.55,CC(C)OC(=O)C
+Provide the aqueous solubility for the structure C1CCCCCCC1.,-4.15,C1CCCCCCC1
+"For the molecule CCCCN(CC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O, return its solubility estimate.",-5.53,CCCCN(CC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O
+How soluble is Cc1ccc2cc3ccccc3cc2c1 in water?,-6.96,Cc1ccc2cc3ccccc3cc2c1
+Report the predicted ESOL value for CC1(C)CON(Cc2ccccc2Cl)C1=O.,-2.338,CC1(C)CON(Cc2ccccc2Cl)C1=O
+What is the predicted ESOL value for NS(=O)(=O)c2cc1c(N=CNS1(=O)=O)cc2Cl ?,-3.05,NS(=O)(=O)c2cc1c(N=CNS1(=O)=O)cc2Cl 
+"From the SMILES CC1(C)C2CCC1(C)C(O)C2, predict the ESOL property.",-2.32,CC1(C)C2CCC1(C)C(O)C2
+What is the solubility of ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2 in water?,-7.2,ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2
+How soluble is CCC in water?,-1.94,CCC
+Report the predicted ESOL value for CC(=O)CC(c1ccc(Cl)cc1)c2c(O)c3ccccc3oc2=O.,-5.839,CC(=O)CC(c1ccc(Cl)cc1)c2c(O)c3ccccc3oc2=O
+What is the predicted ESOL value for COc1ccc(NC(=O)N(C)C)cc1Cl?,-2.564,COc1ccc(NC(=O)N(C)C)cc1Cl
+What is the predicted ESOL value for c1ccc2c(c1)c3cccc4ccc5cccc2c5c43?,-7.8,c1ccc2c(c1)c3cccc4ccc5cccc2c5c43
+What is the solubility of Cc1c(F)c(F)c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)c(F)c1F in water?,-7.321000000000001,Cc1c(F)c(F)c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)c(F)c1F
+Report the predicted ESOL value for CCN(CC)c1ccccc1.,-3.03,CCN(CC)c1ccccc1
+"For the molecule NC(=O)c1cccnc1 , return its solubility estimate.",0.61,NC(=O)c1cccnc1 
+Provide the aqueous solubility for the structure CC2=CC(=O)c1ccccc1C2=O .,-3.03,CC2=CC(=O)c1ccccc1C2=O 
+What is the solubility of Clc1ccc(c(Cl)c1)c2cc(Cl)c(Cl)c(Cl)c2Cl  in water?,-7.39,Clc1ccc(c(Cl)c1)c2cc(Cl)c(Cl)c(Cl)c2Cl 
+Provide the aqueous solubility for the structure CC34CCC1C(CC=C2CC(O)CCC12C)C3CCC4=O.,-4.12,CC34CCC1C(CC=C2CC(O)CCC12C)C3CCC4=O
+Estimate the ESOL property of CCCCCCCCC=C.,-5.51,CCCCCCCCC=C
+How soluble is CCc1ccc(CC)cc1 in water?,-3.75,CCc1ccc(CC)cc1
+What is the predicted ESOL value for CC=CC=O?,0.32,CC=CC=O
+Estimate the ESOL property of c2c(C)cc1nc(C)ccc1c2 .,-1.94,c2c(C)cc1nc(C)ccc1c2 
+Predict the aqueous solubility (ESOL) value for the molecule with SMILES: CC(=O)C3(C)CCC4C2C=C(C)C1=CC(=O)CCC1(C)C2CCC34C,-5.27,CC(=O)C3(C)CCC4C2C=C(C)C1=CC(=O)CCC1(C)C2CCC34C
+Estimate the ESOL property of Oc1c(Cl)ccc(Cl)c1Cl.,-2.64,Oc1c(Cl)ccc(Cl)c1Cl
+Report the predicted ESOL value for CCOC(=O)NCCOc2ccc(Oc1ccccc1)cc2.,-4.7,CCOC(=O)NCCOc2ccc(Oc1ccccc1)cc2
+What is the solubility of CCCCCCC(=O)OCC in water?,-2.74,CCCCCCC(=O)OCC
+Predict the aqueous solubility (ESOL) value for the molecule with SMILES: CCCCOc1ccc(C(=O)OCC)c(c1)N(CC)CC ,-3.84,CCCCOc1ccc(C(=O)OCC)c(c1)N(CC)CC 
+"Given the SMILES c3ccc2nc1ccccc1cc2c3, compute its solubility value.",-3.67,c3ccc2nc1ccccc1cc2c3
+"From the SMILES CCOP(=S)(OCC)Oc1ccc(cc1)S(C)=O , predict the ESOL property.",-2.3,CCOP(=S)(OCC)Oc1ccc(cc1)S(C)=O 
+"For the molecule Clc1cc(Cl)c(Cl)c(Cl)c1Cl, return its solubility estimate.",-5.65,Clc1cc(Cl)c(Cl)c(Cl)c1Cl
+What is the solubility of Clc1cc(c(Cl)c(Cl)c1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl in water?,-9.16,Clc1cc(c(Cl)c(Cl)c1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl
+"From the SMILES CN(C)C(=O)C(c1ccccc1)c2ccccc2 , predict the ESOL property.",-2.98,CN(C)C(=O)C(c1ccccc1)c2ccccc2 
+What is the solubility of O=Cc2ccc1OCOc1c2  in water?,-1.63,O=Cc2ccc1OCOc1c2 
+"Given the SMILES CCC(=O)C, compute its solubility value.",0.52,CCC(=O)C
+Estimate the ESOL property of Oc1ccc(Br)cc1.,-1.09,Oc1ccc(Br)cc1
+"For the molecule Clc1ccccc1Br, return its solubility estimate.",-3.19,Clc1ccccc1Br
+"From the SMILES Cn1c(=O)n(C)c2nc[nH]c2c1=O, predict the ESOL property.",-1.39,Cn1c(=O)n(C)c2nc[nH]c2c1=O
+What is the predicted ESOL value for c1cc2cccc3c4cccc5cccc(c(c1)c23)c54?,-8.804,c1cc2cccc3c4cccc5cccc(c(c1)c23)c54
+How soluble is CCNc1nc(Cl)nc(NCC)n1  in water?,-4.55,CCNc1nc(Cl)nc(NCC)n1 
+Report the predicted ESOL value for CCC=C.,-1.94,CCC=C
+"Given the SMILES CCN2c1ccccc1N(C)C(=O)c3cccnc23 , compute its solubility value.",-3.324,CCN2c1ccccc1N(C)C(=O)c3cccnc23 
+Report the predicted ESOL value for ClC(Cl)=C(c1ccc(Cl)cc1)c2ccc(Cl)cc2.,-6.9,ClC(Cl)=C(c1ccc(Cl)cc1)c2ccc(Cl)cc2
+What is the predicted ESOL value for O=C1N(COC(=O)CCCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3?,-6.301,O=C1N(COC(=O)CCCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3
+What is the solubility of Clc1ccc(c(Cl)c1)c2cc(Cl)ccc2Cl  in water?,-6.57,Clc1ccc(c(Cl)c1)c2cc(Cl)ccc2Cl 
+How soluble is c1cc(C)cc2c1c3cc4cccc5CCc(c45)c3cc2 in water?,-7.92,c1cc(C)cc2c1c3cc4cccc5CCc(c45)c3cc2
+Provide the aqueous solubility for the structure BrC(Br)(Br)Br.,-3.14,BrC(Br)(Br)Br
+Estimate the ESOL property of COc1ccccc1.,-1.85,COc1ccccc1
+"For the molecule CCNc1nc(Cl)nc(n1)N(CC)CC, return its solubility estimate.",-4.06,CCNc1nc(Cl)nc(n1)N(CC)CC
+"For the molecule CC(Cl)(Cl)Cl, return its solubility estimate.",-2.0,CC(Cl)(Cl)Cl
+"Given the SMILES Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl, compute its solubility value.",-7.15,Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl
+Provide the aqueous solubility for the structure NC(=O)CCl .,-0.02,NC(=O)CCl 
+Predict the aqueous solubility (ESOL) value for the molecule with SMILES: Clc1ccc(cc1)c2cccc(Cl)c2Cl ,-6.29,Clc1ccc(cc1)c2cccc(Cl)c2Cl 
+Provide the aqueous solubility for the structure COP(=S)(OC)Oc1cc(Cl)c(I)cc1Cl.,-6.62,COP(=S)(OC)Oc1cc(Cl)c(I)cc1Cl
+Provide the aqueous solubility for the structure CC(C)N(C(C)C)C(=O)SCC(Cl)=C(Cl)Cl.,-4.88,CC(C)N(C(C)C)C(=O)SCC(Cl)=C(Cl)Cl
+Report the predicted ESOL value for CI.,-1.0,CI
+Predict the aqueous solubility (ESOL) value for the molecule with SMILES: CC(C)C(=O)C,-0.12,CC(C)C(=O)C
+Predict the aqueous solubility (ESOL) value for the molecule with SMILES: CCCCCC,-3.84,CCCCCC
+"From the SMILES CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC, predict the ESOL property.",-2.518,CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC
+Provide the aqueous solubility for the structure CC(C)N(C(=O)CCl)c1ccccc1 .,-2.48,CC(C)N(C(=O)CCl)c1ccccc1 
+What is the predicted ESOL value for CC(C)N(C(C)C)C(=O)SCC(=CCl)Cl?,-4.2860000000000005,CC(C)N(C(C)C)C(=O)SCC(=CCl)Cl
+What is the solubility of Oc1cccc(c1)N(=O)=O in water?,-1.01,Oc1cccc(c1)N(=O)=O
+Predict the aqueous solubility (ESOL) value for the molecule with SMILES: OCCOc1ccccc1,-0.7,OCCOc1ccccc1
+How soluble is c1ccc2c(c1)c3ccccc3c4ccccc24 in water?,-6.726,c1ccc2c(c1)c3ccccc3c4ccccc24
+Provide the aqueous solubility for the structure NC(=O)c1ccccc1.,-0.96,NC(=O)c1ccccc1
+"Given the SMILES O=C1N(C2CCC(=O)NC2=O)C(=O)c3ccccc13, compute its solubility value.",-2.676,O=C1N(C2CCC(=O)NC2=O)C(=O)c3ccccc13
+"Given the SMILES O=C1CCCCC1, compute its solubility value.",-0.6,O=C1CCCCC1
+"Given the SMILES Oc1cc(Cl)c(Cl)cc1Cl, compute its solubility value.",-2.21,Oc1cc(Cl)c(Cl)cc1Cl
+What is the predicted ESOL value for COc2cc1c(N)nc(nc1c(OC)c2OC)N3CCN(CC3)C(=O)OCC(C)(C)O ?,-3.638,COc2cc1c(N)nc(nc1c(OC)c2OC)N3CCN(CC3)C(=O)OCC(C)(C)O 
+What is the predicted ESOL value for COc1cccc(Cl)c1?,-2.78,COc1cccc(Cl)c1
+What is the predicted ESOL value for O=C1NC(=O)NC(=O)C1(CC)CCC(C)C?,-2.658,O=C1NC(=O)NC(=O)C1(CC)CCC(C)C
+Predict the aqueous solubility (ESOL) value for the molecule with SMILES: Cc2c(N)c(=O)n(c1ccccc1)n2C,-0.624,Cc2c(N)c(=O)n(c1ccccc1)n2C
+Report the predicted ESOL value for CCCCCC1CCCC1.,-6.08,CCCCCC1CCCC1
+Provide the aqueous solubility for the structure CCCC.,-2.57,CCCC
+"From the SMILES Oc2ccc1ncccc1c2 , predict the ESOL property.",-2.16,Oc2ccc1ncccc1c2 
+"Given the SMILES NC(N)=NC#N , compute its solubility value.",-0.31,NC(N)=NC#N 
+"For the molecule CCCC(=O)CCC, return its solubility estimate.",-1.3,CCCC(=O)CCC
+Estimate the ESOL property of Sc2nc1ccccc1s2 .,-3.18,Sc2nc1ccccc1s2 
+Estimate the ESOL property of ClC1(C2(Cl)C3(Cl)C4(Cl)C5(Cl)C1(Cl)C3(Cl)Cl)C5(Cl)C(Cl)(Cl)C24Cl.,-6.8,ClC1(C2(Cl)C3(Cl)C4(Cl)C5(Cl)C1(Cl)C3(Cl)Cl)C5(Cl)C(Cl)(Cl)C24Cl
+"From the SMILES CCCCCCCC(=O)OC, predict the ESOL property.",-3.17,CCCCCCCC(=O)OC
+Provide the aqueous solubility for the structure NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)C(Cl)Cl)cc2Cl .,-2.68,NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)C(Cl)Cl)cc2Cl 
+"For the molecule CCCCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3 , return its solubility estimate.",-3.81,CCCCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3 
+Report the predicted ESOL value for CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C.,-4.42,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C
+"Given the SMILES Clc2ccc(Oc1ccc(cc1)N(=O)=O)c(Cl)c2, compute its solubility value.",-5.46,Clc2ccc(Oc1ccc(cc1)N(=O)=O)c(Cl)c2
+Estimate the ESOL property of c1ccc2c(c1)c3cccc4cccc2c34.,-6.0,c1ccc2c(c1)c3cccc4cccc2c34
+Predict the aqueous solubility (ESOL) value for the molecule with SMILES: Cc1cc(C)c(O)c(C)c1,-2.05,Cc1cc(C)c(O)c(C)c1
+"From the SMILES Cn1cnc2n(C)c(=O)[nH]c(=O)c12 , predict the ESOL property.",-2.523,Cn1cnc2n(C)c(=O)[nH]c(=O)c12 
+Estimate the ESOL property of CCCOC(=O)c1ccc(N)cc1.,-2.452,CCCOC(=O)c1ccc(N)cc1
+"Given the SMILES Nc1nc(O)nc2nc[nH]c12 , compute its solubility value.",-3.401,Nc1nc(O)nc2nc[nH]c12 
+Report the predicted ESOL value for CCC1CCCCC1.,-4.25,CCC1CCCCC1
+"For the molecule NNc1ccccc1, return its solubility estimate.",0.07,NNc1ccccc1
+Report the predicted ESOL value for COc1ccc(cc1)N(=O)=O.,-2.41,COc1ccc(cc1)N(=O)=O
+How soluble is Oc1cccc2ccccc12 in water?,-2.22,Oc1cccc2ccccc12
+Provide the aqueous solubility for the structure C1c2ccccc2c3ccc4ccccc4c13.,-6.68,C1c2ccccc2c3ccc4ccccc4c13
+"From the SMILES Cc1cc(C)c(C)c(C)c1C, predict the ESOL property.",-4.0,Cc1cc(C)c(C)c(C)c1C
+Provide the aqueous solubility for the structure CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2ccc(F)c(Oc3ccccc3)c2.,-7.337000000000001,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2ccc(F)c(Oc3ccccc3)c2
+Predict the aqueous solubility (ESOL) value for the molecule with SMILES: O=C1N(COC(=O)CCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,-4.678,O=C1N(COC(=O)CCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3
+Estimate the ESOL property of CCCCCC(=O)OCC.,-2.35,CCCCCC(=O)OCC

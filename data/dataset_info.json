@@ -1,0 +1,32 @@
+{
+  "citation": "@article{yu2024llasmol,\n    title={LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset},\n    author={Botao Yu and Frazier N. Baker and Ziqi Chen and Xia Ning and Huan Sun},\n    journal={arXiv preprint arXiv:2402.09391},\n    year={2024}\n}\n\n\n\n\n@misc{merity2016pointer,\n      title={},\n      author={},\n      year={2023},\n}",
+  "description": "SMolInstruct is a large-scale instruction tuning dataset for chemistry tasks and centers around small molecules. It contains a total of 14 chemistry tasks and over 3 million samples. It is designed to be large-scale, comprehensive, and high-quality.\n\n\n\n\n Mol-Instructions datasets.",
+  "features": {
+    "prompt": [
+      {
+        "content": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "completion": [
+      {
+        "content": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ]
+  },
+  "homepage": "https://osu-nlp-group.github.io/LLM4Chem/\n\n\n\nhttps://github.com/zjunlp/Mol-Instructions",
+  "license": "cc-by-4.0"
+}

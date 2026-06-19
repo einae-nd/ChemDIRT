@@ -1,0 +1,149 @@
+prompt,gt,smiles
+Can you assess whether c1c(cc(c(c1S(=O)(=O)N)Cl)Cl)S(=O)(=O)N corresponds to a clinically toxic compound?,0,c1c(cc(c(c1S(=O)(=O)N)Cl)Cl)S(=O)(=O)N
+"Given the SMILES c1cc(ccc1COC(Cn2ccnc2)c3ccc(cc3Cl)Cl)Cl, determine whether the compound exhibits clinical trial toxicity.",0,c1cc(ccc1COC(Cn2ccnc2)c3ccc(cc3Cl)Cl)Cl
+"From the SMILES C[NH+](CC#C)Cc1ccccc1, predict the binary clinical trial toxicity label.",0,C[NH+](CC#C)Cc1ccccc1
+Does the structure COc1ccc(c(c1)C(CNC(=O)C[NH3+])O)OC indicate failure in clinical trials due to toxicity?,0,COc1ccc(c(c1)C(CNC(=O)C[NH3+])O)OC
+Does the structure C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO indicate failure in clinical trials due to toxicity?,1,C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO
+"Given the SMILES C[NH+]1CCC[C@@H]1Cc2c[nH]c3c2cc(cc3)CCS(=O)(=O)c4ccccc4, determine whether the compound exhibits clinical trial toxicity.",0,C[NH+]1CCC[C@@H]1Cc2c[nH]c3c2cc(cc3)CCS(=O)(=O)c4ccccc4
+Evaluate the clinical trial toxicity of the molecule encoded as COc1ccc2c(c1)c(ccn2)[C@H]([C@@H]3C[C@@H]4CC[NH+]3C[C@@H]4C=C)O.,0,COc1ccc2c(c1)c(ccn2)[C@H]([C@@H]3C[C@@H]4CC[NH+]3C[C@@H]4C=C)O
+Evaluate the clinical trial toxicity of the molecule encoded as c1cc(c(cc1CC[NH3+])O)O.,0,c1cc(c(cc1CC[NH3+])O)O
+Did the compound represented by CCOc1ccc2c(c1)sc(n2)S(=O)(=O)N fail clinical trials due to toxicity?,0,CCOc1ccc2c(c1)sc(n2)S(=O)(=O)N
+Did the compound represented by C[C@@H]1CC(=O)[C@]2([C@@H](O1)O[C@@H]3[C@H]([C@@H]([C@@H]([C@@H]([C@H]3O2)[NH2+]C)O)[NH2+]C)O)O fail clinical trials due to toxicity?,0,C[C@@H]1CC(=O)[C@]2([C@@H](O1)O[C@@H]3[C@H]([C@@H]([C@@H]([C@@H]([C@H]3O2)[NH2+]C)O)[NH2+]C)O)O
+"Given the SMILES CC(C)/[NH+]=C(\N)/[NH+]=C(\N)/Nc1ccc(cc1)Cl, determine whether the compound exhibits clinical trial toxicity.",0,CC(C)/[NH+]=C(\N)/[NH+]=C(\N)/Nc1ccc(cc1)Cl
+Evaluate the clinical trial toxicity of the molecule encoded as C[N+]1(C2CCC1CC(C2)OC(=O)C(c3ccccc3)O)C.,0,C[N+]1(C2CCC1CC(C2)OC(=O)C(c3ccccc3)O)C
+Predict the clinical trial toxicity outcome for the molecule with SMILES: COCCO.,0,COCCO
+What is the clinical trial toxicity classification for the compound CCOC(=O)[C@H](CCc1ccccc1)[NH2+][C@@H](C)C(=O)N2[C@H]3CCC[C@H]3C[C@H]2C(=O)[O-]?,0,CCOC(=O)[C@H](CCc1ccccc1)[NH2+][C@@H](C)C(=O)N2[C@H]3CCC[C@H]3C[C@H]2C(=O)[O-]
+Can you assess whether c1ccc(cc1)COC(=O)c2ccccc2 corresponds to a clinically toxic compound?,0,c1ccc(cc1)COC(=O)c2ccccc2
+Evaluate the clinical trial toxicity of the molecule encoded as C(=O)([O-])P(=O)([O-])[O-].,0,C(=O)([O-])P(=O)([O-])[O-]
+"Given the SMILES CC(C)[N+]1([C@@H]2CC[C@@H]1CC(C2)OC(=O)C(CO)c3ccccc3)C, determine whether the compound exhibits clinical trial toxicity.",0,CC(C)[N+]1([C@@H]2CC[C@@H]1CC(C2)OC(=O)C(CO)c3ccccc3)C
+Predict the clinical trial toxicity outcome for the molecule with SMILES: CC(C)CC(C1(CCC1)c2ccc(cc2)Cl)[NH+](C)C.,0,CC(C)CC(C1(CCC1)c2ccc(cc2)Cl)[NH+](C)C
+Classify the molecule CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](c3ccsc3)C(=O)[O-])C(=O)[O-])C with respect to clinical trial toxicity.,0,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](c3ccsc3)C(=O)[O-])C(=O)[O-])C
+Did the compound represented by c1cc(c(cc1Cl)Cl)COC(Cn2ccnc2)c3ccc(cc3Cl)Cl fail clinical trials due to toxicity?,0,c1cc(c(cc1Cl)Cl)COC(Cn2ccnc2)c3ccc(cc3Cl)Cl
+"From the SMILES c1cc(ccc1[C@@H]2[C@H](C(=O)N2c3ccc(cc3)F)CC[C@@H](c4ccc(cc4)F)O)O, predict the binary clinical trial toxicity label.",0,c1cc(ccc1[C@@H]2[C@H](C(=O)N2c3ccc(cc3)F)CC[C@@H](c4ccc(cc4)F)O)O
+What is the clinical trial toxicity classification for the compound C([C@@H]([C@@H]1C(=C(C(=O)O1)O)[O-])O)O?,0,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)[O-])O)O
+Classify the molecule CC(=O)c1ccc2c(c1)N(c3ccccc3S2)CCC[NH+]4CCC(CC4)CCO with respect to clinical trial toxicity.,0,CC(=O)c1ccc2c(c1)N(c3ccccc3S2)CCC[NH+]4CCC(CC4)CCO
+Classify the molecule CCCCC(=O)N(Cc1ccc(cc1)c2ccccc2c3[n-]nnn3)[C@@H](C(C)C)C(=O)[O-] with respect to clinical trial toxicity.,0,CCCCC(=O)N(Cc1ccc(cc1)c2ccccc2c3[n-]nnn3)[C@@H](C(C)C)C(=O)[O-]
+Does the structure CC(C)(C)[NH2+]CC(c1ccc(c(c1)CO)O)O indicate failure in clinical trials due to toxicity?,0,CC(C)(C)[NH2+]CC(c1ccc(c(c1)CO)O)O
+Does the structure c1(c(nc(c(n1)Cl)N)N)C(=O)NC(=[NH2+])N indicate failure in clinical trials due to toxicity?,0,c1(c(nc(c(n1)Cl)N)N)C(=O)NC(=[NH2+])N
+Does the structure CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl indicate failure in clinical trials due to toxicity?,1,CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl
+"For the molecule c1cc(ccc1C[C@@H](C(=O)[O-])[NH3+])N(CCCl)CCCl, return whether it failed clinical trials because of toxicity.",0,c1cc(ccc1C[C@@H](C(=O)[O-])[NH3+])N(CCCl)CCCl
+Can you assess whether C[NH2+]C[C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O corresponds to a clinically toxic compound?,0,C[NH2+]C[C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O
+Classify the molecule Cl[Cu]Cl with respect to clinical trial toxicity.,0,Cl[Cu]Cl
+Can you assess whether C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)NC(C)(C)C)CC[C@@H]4[C@@]3(C=CC(=O)N4)C corresponds to a clinically toxic compound?,0,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)NC(C)(C)C)CC[C@@H]4[C@@]3(C=CC(=O)N4)C
+What is the clinical trial toxicity classification for the compound c1ccc(cc1)C[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSCCC(=O)N[C@H](C(=O)N2)Cc3ccc(cc3)O)C(=O)N4CCC[C@H]4C(=O)N[C@H](CCCNC(=[NH2+])N)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N?,0,c1ccc(cc1)C[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSCCC(=O)N[C@H](C(=O)N2)Cc3ccc(cc3)O)C(=O)N4CCC[C@H]4C(=O)N[C@H](CCCNC(=[NH2+])N)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N
+Does the structure CC(C)(Cc1ccc(cc1)Cl)[NH3+] indicate failure in clinical trials due to toxicity?,0,CC(C)(Cc1ccc(cc1)Cl)[NH3+]
+Classify the molecule CCn1cc(c(=O)c2c1cc(c(c2)F)N3CC[NH2+]CC3)C(=O)[O-] with respect to clinical trial toxicity.,0,CCn1cc(c(=O)c2c1cc(c(c2)F)N3CC[NH2+]CC3)C(=O)[O-]
+Classify the molecule [N+](=O)([O-])[O-] with respect to clinical trial toxicity.,0,[N+](=O)([O-])[O-]
+Can you assess whether Cn1c2ccccc2c(n1)C(=O)NC3CC4CCCC(C3)[NH+]4C corresponds to a clinically toxic compound?,0,Cn1c2ccccc2c(n1)C(=O)NC3CC4CCCC(C3)[NH+]4C
+What is the clinical trial toxicity classification for the compound CC(=O)OCC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C?,0,CC(=O)OCC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C
+Evaluate the clinical trial toxicity of the molecule encoded as Cc1cn(c(=O)[nH]c1=O)[C@@H]2C[C@H]([C@@H](O2)CO)O.,0,Cc1cn(c(=O)[nH]c1=O)[C@@H]2C[C@H]([C@@H](O2)CO)O
+Does the structure CC(=O)[N-]S(=O)(=O)c1ccc(cc1)N indicate failure in clinical trials due to toxicity?,0,CC(=O)[N-]S(=O)(=O)c1ccc(cc1)N
+Classify the molecule c1ccc2c(c1)cccc2CC3=[NH+]CCN3 with respect to clinical trial toxicity.,0,c1ccc2c(c1)cccc2CC3=[NH+]CCN3
+"From the SMILES CC(C)[NH+](CCC(c1ccccc1)(c2ccccn2)C(=O)N)C(C)C, predict the binary clinical trial toxicity label.",0,CC(C)[NH+](CCC(c1ccccc1)(c2ccccn2)C(=O)N)C(C)C
+Predict the clinical trial toxicity outcome for the molecule with SMILES: c1cc(ccc1SC(P(=O)([O-])[O-])P(=O)([O-])[O-])Cl.,0,c1cc(ccc1SC(P(=O)([O-])[O-])P(=O)([O-])[O-])Cl
+"From the SMILES C[C@]12CCC(=O)C=C1[C@H](C[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3C[C@@H]5[C@]4(OC(O5)(C)C)C(=O)CO)C)O)F, predict the binary clinical trial toxicity label.",0,C[C@]12CCC(=O)C=C1[C@H](C[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3C[C@@H]5[C@]4(OC(O5)(C)C)C(=O)CO)C)O)F
+What is the clinical trial toxicity classification for the compound C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@]2(C#C)O)O?,0,C[C@]12CC[C@@H]3c4ccc(cc4CC[C@H]3[C@@H]1CC[C@]2(C#C)O)O
+"Given the SMILES CCCS(=O)(=O)NC1=C(C(=C(C=C1)F)C(=O)C2=CNC3=NC=C(C=C23)C4=CC=C(C=C4)Cl)F, determine whether the compound exhibits clinical trial toxicity.",1,CCCS(=O)(=O)NC1=C(C(=C(C=C1)F)C(=O)C2=CNC3=NC=C(C=C23)C4=CC=C(C=C4)Cl)F
+"From the SMILES CC[NH+](CC)CCOC(=O)c1ccc(cc1)N, predict the binary clinical trial toxicity label.",0,CC[NH+](CC)CCOC(=O)c1ccc(cc1)N
+Predict the clinical trial toxicity outcome for the molecule with SMILES: CC/C(=C(\c1ccccc1)/c2ccc(cc2)OCC[NH+](C)C)/c3ccccc3.,0,CC/C(=C(\c1ccccc1)/c2ccc(cc2)OCC[NH+](C)C)/c3ccccc3
+Does the structure c1cc2c(cc1Cl)[nH]c(=O)o2 indicate failure in clinical trials due to toxicity?,0,c1cc2c(cc1Cl)[nH]c(=O)o2
+Can you assess whether C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)NC4=C(C=CC(=C4)C(F)(F)F)C(F)(F)F)CC[C@@H]5[C@@]3(C=CC(=O)N5)C corresponds to a clinically toxic compound?,1,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)NC4=C(C=CC(=C4)C(F)(F)F)C(F)(F)F)CC[C@@H]5[C@@]3(C=CC(=O)N5)C
+What is the clinical trial toxicity classification for the compound CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)C(c3ccccc3)C(=O)[O-])C(=O)[O-])C?,0,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)C(c3ccccc3)C(=O)[O-])C(=O)[O-])C
+Classify the molecule CC(C)(C)NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2C[NH+]1C[C@H]([C@H](Cc3ccccc3)NC(=O)[C@H](CC(=O)N)NC(=O)c4ccc5ccccc5n4)O with respect to clinical trial toxicity.,0,CC(C)(C)NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2C[NH+]1C[C@H]([C@H](Cc3ccccc3)NC(=O)[C@H](CC(=O)N)NC(=O)c4ccc5ccccc5n4)O
+"From the SMILES Cc1ccc(c(c1)[C@H](CC[NH+](C(C)C)C(C)C)c2ccccc2)O, predict the binary clinical trial toxicity label.",0,Cc1ccc(c(c1)[C@H](CC[NH+](C(C)C)C(C)C)c2ccccc2)O
+Does the structure CC(C)c1cccc(c1OCOP(=O)([O-])[O-])C(C)C indicate failure in clinical trials due to toxicity?,0,CC(C)c1cccc(c1OCOP(=O)([O-])[O-])C(C)C
+Evaluate the clinical trial toxicity of the molecule encoded as C[NH+]1[C@@H]2CC[C@H]1C[C@H](C2)OC(=O)C(CO)c3ccccc3.,0,C[NH+]1[C@@H]2CC[C@H]1C[C@H](C2)OC(=O)C(CO)c3ccccc3
+Classify the molecule CN1CCN(CC1)C2=CC3=C(C=C2)N/C(=C/4\C(=C5C(=NC4=O)C=CC=C5F)N)/N3 with respect to clinical trial toxicity.,1,CN1CCN(CC1)C2=CC3=C(C=C2)N/C(=C/4\C(=C5C(=NC4=O)C=CC=C5F)N)/N3
+Classify the molecule Cc1c(c(c(c2c1OC(CC2)(C)CCCC(C)CCCC(C)CCCC(C)C)C)OC(=O)C)C with respect to clinical trial toxicity.,0,Cc1c(c(c(c2c1OC(CC2)(C)CCCC(C)CCCC(C)CCCC(C)C)C)OC(=O)C)C
+Classify the molecule c1ccc(cc1)C(=O)NCC(=O)[O-] with respect to clinical trial toxicity.,0,c1ccc(cc1)C(=O)NCC(=O)[O-]
+Did the compound represented by CC(C)(C)[NH2+]C[C@@H](COc1c(nsn1)N2CCOCC2)O fail clinical trials due to toxicity?,0,CC(C)(C)[NH2+]C[C@@H](COc1c(nsn1)N2CCOCC2)O
+Predict the clinical trial toxicity outcome for the molecule with SMILES: CCC(CC)O[C@@H]1C=C(C[C@@H]([C@H]1NC(=O)C)[NH3+])C(=O)OCC.,0,CCC(CC)O[C@@H]1C=C(C[C@@H]([C@H]1NC(=O)C)[NH3+])C(=O)OCC
+"From the SMILES Cn1c(nnn1)SCC2=C(N3[C@@H]([C@@](C3=O)(NC(=O)CSCC#N)OC)SC2)C(=O)[O-], predict the binary clinical trial toxicity label.",0,Cn1c(nnn1)SCC2=C(N3[C@@H]([C@@](C3=O)(NC(=O)CSCC#N)OC)SC2)C(=O)[O-]
+"For the molecule CCc1nn(c(=O)n1CCOc2ccccc2)CCC[NH+]3CCN(CC3)c4cccc(c4)Cl, return whether it failed clinical trials because of toxicity.",0,CCc1nn(c(=O)n1CCOc2ccccc2)CCC[NH+]3CCN(CC3)c4cccc(c4)Cl
+Does the structure CCC(C(c1ccc(c(c1)O)O)O)[NH2+]C(C)C indicate failure in clinical trials due to toxicity?,0,CCC(C(c1ccc(c(c1)O)O)O)[NH2+]C(C)C
+Did the compound represented by CC(=O)c1ccc(c(c1)OC)OCCC[NH+]2CCC(CC2)c3c4ccc(cc4on3)F fail clinical trials due to toxicity?,0,CC(=O)c1ccc(c(c1)OC)OCCC[NH+]2CCC(CC2)c3c4ccc(cc4on3)F
+Evaluate the clinical trial toxicity of the molecule encoded as C1C[NH+]=C(N[C@H]1[C@H]2C(=O)NC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N/C(=C/NC(=O)N)/C(=O)N2)CNC(=O)C[C@H](CCC[NH3+])[NH3+])CO)[NH3+])N.,0,C1C[NH+]=C(N[C@H]1[C@H]2C(=O)NC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N/C(=C/NC(=O)N)/C(=O)N2)CNC(=O)C[C@H](CCC[NH3+])[NH3+])CO)[NH3+])N
+Predict the clinical trial toxicity outcome for the molecule with SMILES: C[C@H]1CN(CC[C@@]1(C)C2=CC(=CC=C2)O)C[C@H](C(C)C)NC(=O)[C@H]3CC4=C(CN3)C=C(C=C4)O.,1,C[C@H]1CN(CC[C@@]1(C)C2=CC(=CC=C2)O)C[C@H](C(C)C)NC(=O)[C@H]3CC4=C(CN3)C=C(C=C4)O
+Does the structure COc1c2c(cc(c1N3C[C@@H]4CCC[NH2+][C@@H]4C3)F)c(=O)c(cn2C5CC5)C(=O)[O-] indicate failure in clinical trials due to toxicity?,0,COc1c2c(cc(c1N3C[C@@H]4CCC[NH2+][C@@H]4C3)F)c(=O)c(cn2C5CC5)C(=O)[O-]
+Did the compound represented by C[N+]1(CCc2cc(c(cc2[C@H]1Cc3cc(c(c(c3)OC)OC)OC)OC)OC)CCCOC(=O)CC/C=C/CCC(=O)OCCC[N+]4(CCc5cc(c(cc5[C@H]4Cc6cc(c(c(c6)OC)OC)OC)OC)OC)C fail clinical trials due to toxicity?,0,C[N+]1(CCc2cc(c(cc2[C@H]1Cc3cc(c(c(c3)OC)OC)OC)OC)OC)CCCOC(=O)CC/C=C/CCC(=O)OCCC[N+]4(CCc5cc(c(cc5[C@H]4Cc6cc(c(c(c6)OC)OC)OC)OC)OC)C
+What is the clinical trial toxicity classification for the compound CCCCOc1ccc(cc1)C(=O)CC[NH+]2CCCCC2?,0,CCCCOc1ccc(cc1)C(=O)CC[NH+]2CCCCC2
+Can you assess whether C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)O)C)/C)O)OC)C)C)/C)OC corresponds to a clinically toxic compound?,0,C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)O)C)/C)O)OC)C)C)/C)OC
+Evaluate the clinical trial toxicity of the molecule encoded as C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=O)CO)O)N)O.Cl.,1,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=O)CO)O)N)O.Cl
+Evaluate the clinical trial toxicity of the molecule encoded as CC(=O)Nc1nnc(s1)S(=O)(=O)N.,0,CC(=O)Nc1nnc(s1)S(=O)(=O)N
+Evaluate the clinical trial toxicity of the molecule encoded as c1ccc(cc1)/N=N/c2ccc(nc2N)N.,0,c1ccc(cc1)/N=N/c2ccc(nc2N)N
+"From the SMILES Cc1c(ccc2c1c(nc(n2)N)N)CNc3cc(c(c(c3)OC)OC)OC, predict the binary clinical trial toxicity label.",0,Cc1c(ccc2c1c(nc(n2)N)N)CNc3cc(c(c(c3)OC)OC)OC
+Predict the clinical trial toxicity outcome for the molecule with SMILES: c1cn(c(=O)nc1N)C[C@@H](CO)OCP(=O)([O-])[O-].,0,c1cn(c(=O)nc1N)C[C@@H](CO)OCP(=O)([O-])[O-]
+Predict the clinical trial toxicity outcome for the molecule with SMILES: c1ccc(cc1)C2C(=O)c3ccccc3C2=O.,0,c1ccc(cc1)C2C(=O)c3ccccc3C2=O
+Classify the molecule CC(C)[NH2+]C(C)Cc1ccc(cc1)[123I] with respect to clinical trial toxicity.,0,CC(C)[NH2+]C(C)Cc1ccc(cc1)[123I]
+Did the compound represented by c1cc(c(c(c1)C(=O)c2ccc(cc2)Br)N)CC(=O)[O-] fail clinical trials due to toxicity?,0,c1cc(c(c(c1)C(=O)c2ccc(cc2)Br)N)CC(=O)[O-]
+"Given the SMILES Cc1c(c(c(c(c1C(=O)[O-])I)NC(=O)C)I)C(=O)NC, determine whether the compound exhibits clinical trial toxicity.",0,Cc1c(c(c(c(c1C(=O)[O-])I)NC(=O)C)I)C(=O)NC
+Does the structure Cc1cc(c2ccccc2c1OP(=O)([O-])[O-])OP(=O)([O-])[O-] indicate failure in clinical trials due to toxicity?,0,Cc1cc(c2ccccc2c1OP(=O)([O-])[O-])OP(=O)([O-])[O-]
+Predict the clinical trial toxicity outcome for the molecule with SMILES: c1cc(c(cc1Cl)Cl)CO/N=C(/Cn2ccnc2)\c3ccc(cc3Cl)Cl.,0,c1cc(c(cc1Cl)Cl)CO/N=C(/Cn2ccnc2)\c3ccc(cc3Cl)Cl
+Evaluate the clinical trial toxicity of the molecule encoded as C#CC1(CCCCC1)OC(=O)N.,0,C#CC1(CCCCC1)OC(=O)N
+"From the SMILES CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC=C4c5cccnc5)C)C, predict the binary clinical trial toxicity label.",0,CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CC=C4c5cccnc5)C)C
+Did the compound represented by C[C@H](CCC(=O)[O-])[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C fail clinical trials due to toxicity?,0,C[C@H](CCC(=O)[O-])[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C
+Predict the clinical trial toxicity outcome for the molecule with SMILES: CCOCCn1c2ccccc2nc1N3CCC[NH+](CC3)C.,0,CCOCCn1c2ccccc2nc1N3CCC[NH+](CC3)C
+Evaluate the clinical trial toxicity of the molecule encoded as C[NH2+]/C(=C\[N+](=O)[O-])/NCCSCc1ccc(o1)C[NH+](C)C.,0,C[NH2+]/C(=C\[N+](=O)[O-])/NCCSCc1ccc(o1)C[NH+](C)C
+"Given the SMILES CC([C@H]1CC[C@@H](CC1)C(=O)N[C@@H](C(=O)[O-])Cc2ccccc2)C, determine whether the compound exhibits clinical trial toxicity.",0,CC([C@H]1CC[C@@H](CC1)C(=O)N[C@@H](C(=O)[O-])Cc2ccccc2)C
+Can you assess whether C[C@H](/C=C/[C@H](C1CC1)O)[C@H]2CC[C@@H]\\3[C@@]2(CCC/C3=C\\C=C/4\\C[C@H](C[C@@H](C4=C)O)O)C corresponds to a clinically toxic compound?,0,C[C@H](/C=C/[C@H](C1CC1)O)[C@H]2CC[C@@H]\\3[C@@]2(CCC/C3=C\\C=C/4\\C[C@H](C[C@@H](C4=C)O)O)C
+Predict the clinical trial toxicity outcome for the molecule with SMILES: CO/N=C/1\CN(CC1C[NH3+])c2c(cc3c(=O)c(cn(c3n2)C4CC4)C(=O)[O-])F.,0,CO/N=C/1\CN(CC1C[NH3+])c2c(cc3c(=O)c(cn(c3n2)C4CC4)C(=O)[O-])F
+Evaluate the clinical trial toxicity of the molecule encoded as CN/C(=C\[N+](=O)[O-])/[NH2+]CCSCc1ccc(o1)C[NH+](C)C.,0,CN/C(=C\[N+](=O)[O-])/[NH2+]CCSCc1ccc(o1)C[NH+](C)C
+Does the structure CC(C)(C)[NH2+]C[C@@H](COc1ccccc1C2CCCC2)O indicate failure in clinical trials due to toxicity?,0,CC(C)(C)[NH2+]C[C@@H](COc1ccccc1C2CCCC2)O
+"Given the SMILES CC(C)(c1ccccc1CC[C@H](c2cccc(c2)/C=C/c3ccc4ccc(cc4n3)Cl)SCC5(CC5)CC(=O)[O-])O, determine whether the compound exhibits clinical trial toxicity.",0,CC(C)(c1ccccc1CC[C@H](c2cccc(c2)/C=C/c3ccc4ccc(cc4n3)Cl)SCC5(CC5)CC(=O)[O-])O
+Evaluate the clinical trial toxicity of the molecule encoded as C[NH+](C)CCCN1c2ccccc2Sc3c1cc(cc3)C(F)(F)F.,0,C[NH+](C)CCCN1c2ccccc2Sc3c1cc(cc3)C(F)(F)F
+"For the molecule C(C(F)(F)F)(Cl)Br, return whether it failed clinical trials because of toxicity.",0,C(C(F)(F)F)(Cl)Br
+"Given the SMILES CC(=O)c1ccc2c(c1)N(c3ccccc3S2)CCCN4CC[NH+](CC4)CCO, determine whether the compound exhibits clinical trial toxicity.",0,CC(=O)c1ccc2c(c1)N(c3ccccc3S2)CCCN4CC[NH+](CC4)CCO
+Does the structure [C@H]([C@@H]([C@@H](C(=O)[O-])O)O)([C@H](C(=O)[O-])O)O indicate failure in clinical trials due to toxicity?,0,[C@H]([C@@H]([C@@H](C(=O)[O-])O)O)([C@H](C(=O)[O-])O)O
+What is the clinical trial toxicity classification for the compound CCC[NH+]1CCCC[C@H]1C(=O)Nc2c(cccc2C)C?,0,CCC[NH+]1CCCC[C@H]1C(=O)Nc2c(cccc2C)C
+Predict the clinical trial toxicity outcome for the molecule with SMILES: CC(CN1c2ccccc2CCc3c1cccc3)C[NH+](C)C.,0,CC(CN1c2ccccc2CCc3c1cccc3)C[NH+](C)C
+Evaluate the clinical trial toxicity of the molecule encoded as Cc1c(nc[nH]1)CSCCN/C(=N/C#N)/NC.,0,Cc1c(nc[nH]1)CSCCN/C(=N/C#N)/NC
+"From the SMILES C1CCCN(CCC1)CC[NH+]=C(N)N, predict the binary clinical trial toxicity label.",0,C1CCCN(CCC1)CC[NH+]=C(N)N
+What is the clinical trial toxicity classification for the compound CN(c1c(c(c(c(c1I)C(=O)NC(CO)C(CO)O)I)C(=O)NC(CO)C(CO)O)I)C(=O)CC(=O)N(C)c2c(c(c(c(c2I)C(=O)NC(CO)C(CO)O)I)C(=O)NC(CO)C(CO)O)I?,0,CN(c1c(c(c(c(c1I)C(=O)NC(CO)C(CO)O)I)C(=O)NC(CO)C(CO)O)I)C(=O)CC(=O)N(C)c2c(c(c(c(c2I)C(=O)NC(CO)C(CO)O)I)C(=O)NC(CO)C(CO)O)I
+Can you assess whether CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O.OS(=O)(=O)O corresponds to a clinically toxic compound?,1,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O.OS(=O)(=O)O
+Classify the molecule Cc1cnc(c(c1OC)C)CS(=O)c2[nH]c3cc(ccc3n2)OC with respect to clinical trial toxicity.,0,Cc1cnc(c(c1OC)C)CS(=O)c2[nH]c3cc(ccc3n2)OC
+"From the SMILES c1ccnc(c1)[C@H](c2ccc(cc2)Cl)OC3CC[NH+](CC3)CCCC(=O)[O-], predict the binary clinical trial toxicity label.",0,c1ccnc(c1)[C@H](c2ccc(cc2)Cl)OC3CC[NH+](CC3)CCCC(=O)[O-]
+What is the clinical trial toxicity classification for the compound CCCCCCCC/C=C\CCCCCCCC(=O)[O-]?,0,CCCCCCCC/C=C\CCCCCCCC(=O)[O-]
+"For the molecule Cc1cc(nc(n1)O[C@H](C(=O)[O-])C(c2ccccc2)(c3ccccc3)OC)C, return whether it failed clinical trials because of toxicity.",0,Cc1cc(nc(n1)O[C@H](C(=O)[O-])C(c2ccccc2)(c3ccccc3)OC)C
+"From the SMILES C1[C@H]([C@@H]2[C@H](O1)[C@H](CO2)O[N+](=O)[O-])O[N+](=O)[O-], predict the binary clinical trial toxicity label.",0,C1[C@H]([C@@H]2[C@H](O1)[C@H](CO2)O[N+](=O)[O-])O[N+](=O)[O-]
+"For the molecule CC1=C(C(C(=C(N1)C)C(=O)OCC(C)C)c2ccccc2[N+](=O)[O-])C(=O)OC, return whether it failed clinical trials because of toxicity.",0,CC1=C(C(C(=C(N1)C)C(=O)OCC(C)C)c2ccccc2[N+](=O)[O-])C(=O)OC
+Did the compound represented by Cc1ccnc2c1NC(=O)c3cccnc3N2C4CC4 fail clinical trials due to toxicity?,0,Cc1ccnc2c1NC(=O)c3cccnc3N2C4CC4
+Predict the clinical trial toxicity outcome for the molecule with SMILES: CN(C)C(=[NH2+])NC(=[NH2+])N.,0,CN(C)C(=[NH2+])NC(=[NH2+])N
+Can you assess whether OCl(=O)(=O)=O corresponds to a clinically toxic compound?,0,OCl(=O)(=O)=O
+Predict the clinical trial toxicity outcome for the molecule with SMILES: CCC1=C2C=C(C=CC2=NC3=C1CN4C3=CC5=C(C4=O)COC(=O)[C@@]5(CC)O)OC(=O)N6CCC(CC6)N7CCCCC7.,1,CCC1=C2C=C(C=CC2=NC3=C1CN4C3=CC5=C(C4=O)COC(=O)[C@@]5(CC)O)OC(=O)N6CCC(CC6)N7CCCCC7
+"For the molecule C(=O)(N)N, return whether it failed clinical trials because of toxicity.",0,C(=O)(N)N
+"For the molecule CC(=O)O[C@H]1[C@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(C[C@@H]([C@H](C4)O)[NH+]5CCOCC5)C)C)[N+]6(CCCC6)CC=C, return whether it failed clinical trials because of toxicity.",0,CC(=O)O[C@H]1[C@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(C[C@@H]([C@H](C4)O)[NH+]5CCOCC5)C)C)[N+]6(CCCC6)CC=C
+Classify the molecule CC[C@@H](CO)NC(=O)[C@H]1C[NH+]([C@@H]2Cc3cn(c4c3c(ccc4)C2=C1)C)C with respect to clinical trial toxicity.,0,CC[C@@H](CO)NC(=O)[C@H]1C[NH+]([C@@H]2Cc3cn(c4c3c(ccc4)C2=C1)C)C
+Does the structure c1c2=N/C(=C/3\C=CON3)/N=c2c4c(n1)CCOC4 indicate failure in clinical trials due to toxicity?,0,c1c2=N/C(=C/3\C=CON3)/N=c2c4c(n1)CCOC4
+Classify the molecule C(CNCC[NH2+]CCN)[NH3+] with respect to clinical trial toxicity.,0,C(CNCC[NH2+]CCN)[NH3+]
+Classify the molecule c1ccc(cc1)C(c2ccc(cc2)Cl)N3CC[NH+](CC3)CCOCC(=O)[O-] with respect to clinical trial toxicity.,0,c1ccc(cc1)C(c2ccc(cc2)Cl)N3CC[NH+](CC3)CCOCC(=O)[O-]
+"Given the SMILES S=[Se]=S, determine whether the compound exhibits clinical trial toxicity.",0,S=[Se]=S
+Evaluate the clinical trial toxicity of the molecule encoded as C[NH+](C)CCOC(=O)C(c1ccccc1)C2(CCCC2)O.,0,C[NH+](C)CCOC(=O)C(c1ccccc1)C2(CCCC2)O
+Did the compound represented by CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C(=O)[O-])/C)/C fail clinical trials due to toxicity?,0,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C(=O)[O-])/C)/C
+Predict the clinical trial toxicity outcome for the molecule with SMILES: c1ccc2c(c1)c(c(c(=O)o2)Cc3c(c4ccccc4oc3=O)[O-])[O-].,0,c1ccc2c(c1)c(c(c(=O)o2)Cc3c(c4ccccc4oc3=O)[O-])[O-]
+Predict the clinical trial toxicity outcome for the molecule with SMILES: C[C@H](Cn1cnc2c1ncnc2N)OCP(=O)([O-])[O-].,0,C[C@H](Cn1cnc2c1ncnc2N)OCP(=O)([O-])[O-]
+"From the SMILES COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC.Cl, predict the binary clinical trial toxicity label.",1,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC.Cl
+Can you assess whether Cc1cn(c(=O)[nH]c1=O)[C@H]2C[C@@H]([C@H](O2)CO)N=[N+]=[N-] corresponds to a clinically toxic compound?,0,Cc1cn(c(=O)[nH]c1=O)[C@H]2C[C@@H]([C@H](O2)CO)N=[N+]=[N-]
+What is the clinical trial toxicity classification for the compound c1c(nc(s1)[NH+]=C(N)N)CSCCC(=NS(=O)(=O)N)N?,0,c1c(nc(s1)[NH+]=C(N)N)CSCCC(=NS(=O)(=O)N)N
+Classify the molecule CC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C)C#C with respect to clinical trial toxicity.,0,CC(=O)O[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@H]34)C)C#C
+"Given the SMILES C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)OC(=O)c5ccccc5)C)O)F)C, determine whether the compound exhibits clinical trial toxicity.",0,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)OC(=O)c5ccccc5)C)O)F)C
+Did the compound represented by CC1(O[C@@H]2CO[C@@]3([C@H]([C@@H]2O1)OC(O3)(C)C)COS(=O)(=O)N)C fail clinical trials due to toxicity?,0,CC1(O[C@@H]2CO[C@@]3([C@H]([C@@H]2O1)OC(O3)(C)C)COS(=O)(=O)N)C
+Did the compound represented by CN1c2c([nH]c(nc2=O)N)NC[C@@H]1CNc3ccc(cc3)C(=O)N[C@@H](CCC(=O)[O-])C(=O)[O-] fail clinical trials due to toxicity?,0,CN1c2c([nH]c(nc2=O)N)NC[C@@H]1CNc3ccc(cc3)C(=O)N[C@@H](CCC(=O)[O-])C(=O)[O-]
+What is the clinical trial toxicity classification for the compound COc1c2c(ccc(=O)o2)cc3c1occ3?,0,COc1c2c(ccc(=O)o2)cc3c1occ3
+Classify the molecule C(CC(=O)[O-])CO with respect to clinical trial toxicity.,0,C(CC(=O)[O-])CO
+"From the SMILES CCCCc1c(c2cc(ccc2o1)NS(=O)(=O)C)C(=O)c3ccc(cc3)OCCC[NH+](CCCC)CCCC, predict the binary clinical trial toxicity label.",0,CCCCc1c(c2cc(ccc2o1)NS(=O)(=O)C)C(=O)c3ccc(cc3)OCCC[NH+](CCCC)CCCC
+Does the structure C[C@H]1[C@@H](C(=O)N1S(=O)(=O)[O-])NC(=O)/C(=N\OC(C)(C)C(=O)[O-])/c2csc(n2)N indicate failure in clinical trials due to toxicity?,0,C[C@H]1[C@@H](C(=O)N1S(=O)(=O)[O-])NC(=O)/C(=N\OC(C)(C)C(=O)[O-])/c2csc(n2)N
+Evaluate the clinical trial toxicity of the molecule encoded as c1ccc2c(c1)cnnc2NN.,0,c1ccc2c(c1)cnnc2NN
+"Given the SMILES CCCCNc1cc(cc(c1Oc2ccccc2)S(=O)(=O)N)C(=O)[O-], determine whether the compound exhibits clinical trial toxicity.",0,CCCCNc1cc(cc(c1Oc2ccccc2)S(=O)(=O)N)C(=O)[O-]
+Classify the molecule CCO with respect to clinical trial toxicity.,0,CCO
+Does the structure C[NH2+]CCCN1c2ccccc2CCc3c1cccc3 indicate failure in clinical trials due to toxicity?,0,C[NH2+]CCCN1c2ccccc2CCc3c1cccc3
+"Given the SMILES CNC1=[NH+]c2ccc(cc2C(=[N+](C1)[O-])c3ccccc3)Cl, determine whether the compound exhibits clinical trial toxicity.",0,CNC1=[NH+]c2ccc(cc2C(=[N+](C1)[O-])c3ccccc3)Cl
+Can you assess whether CCc1cc(ccn1)C(=S)N corresponds to a clinically toxic compound?,0,CCc1cc(ccn1)C(=S)N
+Predict the clinical trial toxicity outcome for the molecule with SMILES: C(CCC(=O)[O-])CC[NH3+].,0,C(CCC(=O)[O-])CC[NH3+]
+Can you assess whether CC(C)C[C@@H](CC(=O)[O-])C[NH3+] corresponds to a clinically toxic compound?,0,CC(C)C[C@@H](CC(=O)[O-])C[NH3+]
+Can you assess whether C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)CCC5=CC(=O)C=C[C@]35C)O corresponds to a clinically toxic compound?,0,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)CCC5=CC(=O)C=C[C@]35C)O
+Evaluate the clinical trial toxicity of the molecule encoded as CC(C)Cc1ccc(cc1)C(C)C(=O)[O-].,0,CC(C)Cc1ccc(cc1)C(C)C(=O)[O-]
+Predict the clinical trial toxicity outcome for the molecule with SMILES: C1CC(=O)NC(=O)C1N2CC3=C(C2=O)C=CC=C3N.,1,C1CC(=O)NC(=O)C1N2CC3=C(C2=O)C=CC=C3N
+"From the SMILES C(OC(C(F)(F)F)C(F)(F)F)F, predict the binary clinical trial toxicity label.",0,C(OC(C(F)(F)F)C(F)(F)F)F
+Classify the molecule c1cc(c(cc1F)F)n2cc(c(=O)c3c2nc(c(c3)F)N4C[C@@H]5[C@H](C4)[C@H]5[NH3+])C(=O)[O-] with respect to clinical trial toxicity.,0,c1cc(c(cc1F)F)n2cc(c(=O)c3c2nc(c(c3)F)N4C[C@@H]5[C@H](C4)[C@H]5[NH3+])C(=O)[O-]
+Classify the molecule CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=NC(=NC(=C3)N4CCN(CC4)CCO)C with respect to clinical trial toxicity.,1,CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=NC(=NC(=C3)N4CCN(CC4)CCO)C
+Evaluate the clinical trial toxicity of the molecule encoded as C[C@H]1C[C@H]2[C@@H]3CC[C@@H]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)CC4)C)O)C)C(=O)C.,0,C[C@H]1C[C@H]2[C@@H]3CC[C@@H]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)CC4)C)O)C)C(=O)C

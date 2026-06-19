@@ -1,0 +1,152 @@
+question,reactants,products,answer
+What reactants would produce the products C21H34N2O4 in a chemical reaction?,C15H21NO3.C6H13NO,C21H34N2O4,C15H21NO3.C6H13NO
+"Given the following products:
+HBr.C12H14N2O4.C9H16N2.C7H8
+Predict the reactants required for their synthesis.",C12H15BrN2O4.C7H8.C9H16N2,HBr.C12H14N2O4.C9H16N2.C7H8,C12H15BrN2O4.C7H8.C9H16N2
+"Products: H2O.HF.C10H14N2O2.C2H6OS
+Reactants:",C2H6OS.C4H11N.H2O.C6H4FNO2,H2O.HF.C10H14N2O2.C2H6OS,C2H6OS.C4H11N.H2O.C6H4FNO2
+Consider the target products HCl.HCl.HCl.C16H18N8. What reactants would be used to synthesize them?,C6H11N5.C10H8ClN3.HCl.HCl,HCl.HCl.HCl.C16H18N8,C6H11N5.C10H8ClN3.HCl.HCl
+"Based on the listed products (HF.C24H27N3OS2.K+.CO3-2.C3H7NO.K+), predict the reactants involved in their formation.",K+.C3H7NO.C20H19FN2OS2.C4H9N.K+.CO3-2,HF.C24H27N3OS2.K+.CO3-2.C3H7NO.K+,K+.C3H7NO.C20H19FN2OS2.C4H9N.K+.CO3-2
+"From the reaction defined by the products C31H30O6.C4H9O-.HBr.C3H7NO.K+, predict the corresponding reactants.",C4H9O-.C16H16O4.C15H15BrO2.K+.C3H7NO,C31H30O6.C4H9O-.HBr.C3H7NO.K+,C4H9O-.C16H16O4.C15H15BrO2.K+.C3H7NO
+"Using the given reaction specification:
+Products: C4H8O.C17H23ClN2O2Si.Mg+.Br-
+Identify the reactants.",C16H19ClN2O2Si.C4H8O.Br-.CH3Mg+.H,C4H8O.C17H23ClN2O2Si.Mg+.Br-,C16H19ClN2O2Si.C4H8O.Br-.CH3Mg+.H
+"Using the given reaction specification:
+Products: C7H8N4.Na+.ClO2-
+Identify the reactants.",NO2-.Na+.HCl.C7H7N3,C7H8N4.Na+.ClO2-,NO2-.Na+.HCl.C7H7N3
+"For the chemical transformation leading to products HCl.Al+3.C6H5NO2.C9H9NO4.Cl-.Cl-.Cl-, determine the necessary reactants.",C7H7NO3.C6H5NO2.Al+3.Cl-.Cl-.Cl-.C2H3ClO,HCl.Al+3.C6H5NO2.C9H9NO4.Cl-.Cl-.Cl-,C7H7NO3.C6H5NO2.Al+3.Cl-.Cl-.Cl-.C2H3ClO
+"From the reaction defined by the products HCl.CH2Cl2.C6H15N.C20H33NO5S, predict the corresponding reactants.",C6H15N.C19H31NO3.CH3ClO2S.CH2Cl2,HCl.CH2Cl2.C6H15N.C20H33NO5S,C6H15N.C19H31NO3.CH3ClO2S.CH2Cl2
+"In the retrosynthetic analysis of products HCl.C29H32FN3O.C4H9NO.Na+.H2O.H-, what reactants are required?",H2O.C7H6ClF.C22H27N3O.C4H9NO.H-.Na+,HCl.C29H32FN3O.C4H9NO.Na+.H2O.H-,H2O.C7H6ClF.C22H27N3O.C4H9NO.H-.Na+
+"In the retrosynthetic analysis of products C27H23N5O2.C3H7NO.HCl.H-.Na+, what reactants are required?",C3H7NO.H-.Na+.C20H16ClN5O.C7H8O,C27H23N5O2.C3H7NO.HCl.H-.Na+,C3H7NO.H-.Na+.C20H16ClN5O.C7H8O
+"In the retrosynthetic analysis of products CO3-2.K+.C32H44O8.C3H7NO.HBr.K+.C3H6O, what reactants are required?",C3H7NO.C3H6O.C21H31BrO5.K+.CO3-2.K+.C11H14O3,CO3-2.K+.C32H44O8.C3H7NO.HBr.K+.C3H6O,C3H7NO.C3H6O.C21H31BrO5.K+.CO3-2.K+.C11H14O3
+"From the reaction defined by the products HCl.C4H8O2.C6H15N.C12H16F3O6PS, predict the corresponding reactants.",C5H13O4P.C7H4ClF3O2S.C6H15N.C4H8O2,HCl.C4H8O2.C6H15N.C12H16F3O6PS,C5H13O4P.C7H4ClF3O2S.C6H15N.C4H8O2
+"From the reaction defined by the products H4N+.C2H4O2.C6H9N3O2.C3H7NO.C2H3O2-.O, predict the corresponding reactants.",C2H4O.C2H3O2-.C3H7NO.C4H5N3O2.C2H4O2.H4N+,H4N+.C2H4O2.C6H9N3O2.C3H7NO.C2H3O2-.O,C2H4O.C2H3O2-.C3H7NO.C4H5N3O2.C2H4O2.H4N+
+"Given the following products:
+C10H11FO3.C4H8O2.H2.CH4O
+Predict the reactants required for their synthesis.",CH4O.H2.C4H8O2.C10H9FO3.H2,C10H11FO3.C4H8O2.H2.CH4O,CH4O.H2.C4H8O2.C10H9FO3.H2
+"Based on the listed products (HBr.C8H12N2O), predict the reactants involved in their formation.",C5H9BrO.C3H4N2,HBr.C8H12N2O,C5H9BrO.C3H4N2
+"Based on the listed products (Na+.H-.C5H9NO.C12H13ClFNO.HBr), predict the reactants involved in their formation.",Na+.C5H9NO.C7H5BrClF.H-.C5H9NO,Na+.H-.C5H9NO.C12H13ClFNO.HBr,Na+.C5H9NO.C7H5BrClF.H-.C5H9NO
+"Given the following products:
+C4H10O.HCl.C6H15N.C12H20ClNO6S
+Predict the reactants required for their synthesis.",C4H10O.C11H18ClNO4.CH3ClO2S.C6H15N,C4H10O.HCl.C6H15N.C12H20ClNO6S,C4H10O.C11H18ClNO4.CH3ClO2S.C6H15N
+"Products: C6H15N.CH2Cl2.HCl.C11H21NO5S
+Reactants:",C10H19NO3.C6H15N.CH2Cl2.CH3ClO2S,C6H15N.CH2Cl2.HCl.C11H21NO5S,C10H19NO3.C6H15N.CH2Cl2.CH3ClO2S
+Determine the reactants that could give rise to the products C16H15Cl2NO2.HI.,C14H11Cl2NO2.C2H5I,C16H15Cl2NO2.HI,C14H11Cl2NO2.C2H5I
+What reactants would produce the products C4H8O.C4H9O-.K+.HCl.C19H20N2O2 in a chemical reaction?,C19H21ClN2O2.C4H8O.K+.C4H9O-,C4H8O.C4H9O-.K+.HCl.C19H20N2O2,C19H21ClN2O2.C4H8O.K+.C4H9O-
+Determine the reactants that could give rise to the products C20H28FN3O3.HBr.,C16H22FN3O3.C4H7Br,C20H28FN3O3.HBr,C16H22FN3O3.C4H7Br
+"Using the given reaction specification:
+Products: C14H20N2O4.HBr.C28H32N2O4
+Identify the reactants.",C15H22N2O4.C13H11Br.C14H20N2O4,C14H20N2O4.HBr.C28H32N2O4,C15H22N2O4.C13H11Br.C14H20N2O4
+"In the retrosynthetic analysis of products C4H8O2.C10H16N4O.C4H8O2, what reactants are required?",C8H13N3.C4H8O2.C2H3NO.C4H8O2,C4H8O2.C10H16N4O.C4H8O2,C8H13N3.C4H8O2.C2H3NO.C4H8O2
+"Using the given reaction specification:
+Products: C2H4O2.O.C6H10BO6-.Na+.C55H87N5O14Si2.C4H8O
+Identify the reactants.",Na+.C20H28N2O6.C6H10BO6-.C2H4O2.C4H8O.C35H59N3O9Si2,C2H4O2.O.C6H10BO6-.Na+.C55H87N5O14Si2.C4H8O,Na+.C20H28N2O6.C6H10BO6-.C2H4O2.C4H8O.C35H59N3O9Si2
+What reactants would produce the products Na+.C2H4O2.HCl.CH4O.C14H20ClNO.HO-.O.HCl.CH3BN-.Na+ in a chemical reaction?,C12H13ClO2.CH4O.HCl.HO-.C2H7N.Na+.C2H4O2.CH3BN-.HCl.Na+,Na+.C2H4O2.HCl.CH4O.C14H20ClNO.HO-.O.HCl.CH3BN-.Na+,C12H13ClO2.CH4O.HCl.HO-.C2H7N.Na+.C2H4O2.CH3BN-.HCl.Na+
+"From the reaction defined by the products CO3-2.Cs+.HBr.C18H12ClN3O4S.C3H7NO.Cs+, predict the corresponding reactants.",CO3-2.C8H5BrClNOS.Cs+.C3H7NO.C10H8N2O3.Cs+,CO3-2.Cs+.HBr.C18H12ClN3O4S.C3H7NO.Cs+,CO3-2.C8H5BrClNOS.Cs+.C3H7NO.C10H8N2O3.Cs+
+"From the reaction defined by the products C9H9Cl2N3OS, predict the corresponding reactants.",C7H3Cl2NS.C2H6N2O,C9H9Cl2N3OS,C7H3Cl2NS.C2H6N2O
+"For the chemical transformation leading to products HCl.C5H5N.C20H21ClN4O3S, determine the necessary reactants.",C6H4Cl2O2S.C5H5N.C14H18N4O,HCl.C5H5N.C20H21ClN4O3S,C6H4Cl2O2S.C5H5N.C14H18N4O
+"Products: C13H18BrN5O.H4N+.HO-.CH4O.CH2Cl2.HCl
+Reactants:",CH4O.C6H3BrClN3.H4N+.CH2Cl2.C7H16N2O.HO-,C13H18BrN5O.H4N+.HO-.CH4O.CH2Cl2.HCl,CH4O.C6H3BrClN3.H4N+.CH2Cl2.C7H16N2O.HO-
+"Given the following products:
+HCl.C5H9NO.C4H10O.C4H8O2.C3H8O.CHCl3.C22H17F2N7S
+Predict the reactants required for their synthesis.",C18H10ClF2N3S.C4H8N4.C3H8O.C4H8O2.CHCl3.C4H10O.C5H9NO,HCl.C5H9NO.C4H10O.C4H8O2.C3H8O.CHCl3.C22H17F2N7S,C18H10ClF2N3S.C4H8N4.C3H8O.C4H8O2.CHCl3.C4H10O.C5H9NO
+What reactants would produce the products Na+.C23H20Cl2FN5O3.CH2Cl2.O.CHO3- in a chemical reaction?,C19H11Cl2FN4O3.C4H9NO.CH2Cl2.Na+.CHO3-,Na+.C23H20Cl2FN5O3.CH2Cl2.O.CHO3-,C19H11Cl2FN4O3.C4H9NO.CH2Cl2.Na+.CHO3-
+What reactants would produce the products C4H8O.C3H7NO.HBr.Na+.C22H20ClN3O3.H- in a chemical reaction?,C3H7NO.C12H14N2O3.H-.C4H8O.Na+.C10H7BrClN,C4H8O.C3H7NO.HBr.Na+.C22H20ClN3O3.H-,C3H7NO.C12H14N2O3.H-.C4H8O.Na+.C10H7BrClN
+"Based on the listed products (C12H22F6O7S2Si.C7H8), predict the reactants involved in their formation.",C6H6F6O4S2.C6H16O3Si.C7H8,C12H22F6O7S2Si.C7H8,C6H6F6O4S2.C6H16O3Si.C7H8
+"Given the following products:
+HF.C24H21FN4O4.C2H4O2.C2H6OS.H2O
+Predict the reactants required for their synthesis.",C10H14N2.C14H8F2N2O4.C2H6OS.H2O.C2H4O2,HF.C24H21FN4O4.C2H4O2.C2H6OS.H2O,C10H14N2.C14H8F2N2O4.C2H6OS.H2O.C2H4O2
+"Based on the listed products (K+.C18H20N2O3S.CO3-2.K+.C4H8O2.C3H7NO.HBr), predict the reactants involved in their formation.",C3H7NO.C4H2BrNO2S.CO3-2.K+.K+.C14H19NO.C4H8O2,K+.C18H20N2O3S.CO3-2.K+.C4H8O2.C3H7NO.HBr,C3H7NO.C4H2BrNO2S.CO3-2.K+.K+.C14H19NO.C4H8O2
+Consider the target products CH2Cl2.C6H15N.HCl.C6H8O7.C11H16BrNO3S. What reactants would be used to synthesize them?,C7H6BrClO3S.C4H11N.C6H15N.C6H8O7.CH2Cl2,CH2Cl2.C6H15N.HCl.C6H8O7.C11H16BrNO3S,C7H6BrClO3S.C4H11N.C6H15N.C6H8O7.CH2Cl2
+"In the retrosynthetic analysis of products C4H8O2.HI.Cs+.C17H14O.Cs+.C17H14O.Pd.C12H18N2O2.CO3-2.Pd.C17H14O.C4H8O2, what reactants are required?",C8H7IO2.Pd.C17H14O.C4H8O2.Cs+.C17H14O.Pd.C4H8O2.CO3-2.Cs+.C17H14O.C4H12N2,C4H8O2.HI.Cs+.C17H14O.Cs+.C17H14O.Pd.C12H18N2O2.CO3-2.Pd.C17H14O.C4H8O2,C8H7IO2.Pd.C17H14O.C4H8O2.Cs+.C17H14O.Pd.C4H8O2.CO3-2.Cs+.C17H14O.C4H12N2
+"Using the given reaction specification:
+Products: C4H8O.C13H12ClFN2O3.K+.K+.HCl.CO3-2
+Identify the reactants.",K+.C6H9FN2O.CO3-2.C7H4Cl2O2.C4H8O.K+,C4H8O.C13H12ClFN2O3.K+.K+.HCl.CO3-2,K+.C6H9FN2O.CO3-2.C7H4Cl2O2.C4H8O.K+
+"Given the following products:
+HCl.Na+.C4H8O2.C3H7NO.H-.C21H25N5
+Predict the reactants required for their synthesis.",H-.C3H7NO.C4H8O2.C19H23ClN2.Na+.C2H3N3,HCl.Na+.C4H8O2.C3H7NO.H-.C21H25N5,H-.C3H7NO.C4H8O2.C19H23ClN2.Na+.C2H3N3
+What reactants would produce the products C28H33F3N4O6.HF.C2H6OS in a chemical reaction?,C16H13F3N2O4.C12H21FN2O2.C2H6OS,C28H33F3N4O6.HF.C2H6OS,C16H13F3N2O4.C12H21FN2O2.C2H6OS
+"For the chemical transformation leading to products HCl.C12H14ClFN2O, determine the necessary reactants.",C10H13FN2.C2H2Cl2O,HCl.C12H14ClFN2O,C10H13FN2.C2H2Cl2O
+Determine the reactants that could give rise to the products C15H25NO2.C7H12O.H2.,C15H27NO2.C7H12O,C15H25NO2.C7H12O.H2,C15H27NO2.C7H12O
+"Products: C2H3N.C23H27N3O4.Na+.H-
+Reactants:",C4H4O3.C19H23N3O.C2H3N.H-.Na+,C2H3N.C23H27N3O4.Na+.H-,C4H4O3.C19H23N3O.C2H3N.H-.Na+
+Consider the target products HCl.Ca+2.HO-.HO-.H2O.HCl.C4H8O2.C13H14N2O2. What reactants would be used to synthesize them?,H2O.HCl.HO-.Ca+2.C4H8O2.C7H5ClO.HO-.C6H10N2O,HCl.Ca+2.HO-.HO-.H2O.HCl.C4H8O2.C13H14N2O2,H2O.HCl.HO-.Ca+2.C4H8O2.C7H5ClO.HO-.C6H10N2O
+"Products: Na+.CO3-2.HCl.C3H7NO.C18H22ClN3O3.Na+
+Reactants:",C13H11Cl2NO3.CO3-2.C3H7NO.C5H12N2.Na+.Na+,Na+.CO3-2.HCl.C3H7NO.C18H22ClN3O3.Na+,C13H11Cl2NO3.CO3-2.C3H7NO.C5H12N2.Na+.Na+
+"Based on the listed products (C23H17N7O2S2.K+.CO3-2.HBr.C3H7NO.K+), predict the reactants involved in their formation.",CO3-2.K+.C2H2BrN.C21H16N6O2S2.C3H7NO.K+,C23H17N7O2S2.K+.CO3-2.HBr.C3H7NO.K+,CO3-2.K+.C2H2BrN.C21H16N6O2S2.C3H7NO.K+
+"In the retrosynthetic analysis of products HBr.C23H23ClN2O2S, what reactants are required?",C21H17BrClNO2S.C2H7N,HBr.C23H23ClN2O2S,C21H17BrClNO2S.C2H7N
+"Based on the listed products (HCl.C24H27F3IN3O5S.C6H15N.CHCl3), predict the reactants involved in their formation.",C7H3ClF3IO3S.C6H15N.C17H25N3O2.CHCl3,HCl.C24H27F3IN3O5S.C6H15N.CHCl3,C7H3ClF3IO3S.C6H15N.C17H25N3O2.CHCl3
+Consider the target products CH4O.C9H10N3O+.IN.I-. What reactants would be used to synthesize them?,CH4O.IN.CH3I.C8H7N3O,CH4O.C9H10N3O+.IN.I-,CH4O.IN.CH3I.C8H7N3O
+"Products: C16H14O4.CH2Cl2
+Reactants:",CH2Cl2.C15H10O3.CH4O,C16H14O4.CH2Cl2,CH2Cl2.C15H10O3.CH4O
+"Using the given reaction specification:
+Products: HCl.C22H19N5O3.CH4O.CO3-2.C4H8O.Na+.C4H9NO.Na+.Na+.CHO3-
+Identify the reactants.",Na+.CO3-2.CH4O.C4H9NO.C2H3ClO.C20H17N5O2.C4H8O.Na+.Na+.CHO3-,HCl.C22H19N5O3.CH4O.CO3-2.C4H8O.Na+.C4H9NO.Na+.Na+.CHO3-,Na+.CO3-2.CH4O.C4H9NO.C2H3ClO.C20H17N5O2.C4H8O.Na+.Na+.CHO3-
+"From the reaction defined by the products HCl.C5H6N2O4S2.C4H8O, predict the corresponding reactants.",C4H8O.C5H4ClNO4S2.H3N,HCl.C5H6N2O4S2.C4H8O,C4H8O.C5H4ClNO4S2.H3N
+Consider the target products C21H22N2O4S2.HCl. What reactants would be used to synthesize them?,C14H18N2O3S2.C7H5ClO,C21H22N2O4S2.HCl,C14H18N2O3S2.C7H5ClO
+"Using the given reaction specification:
+Products: HCl.C6H15N.C14H21NO4S.CH2Cl2
+Identify the reactants.",CH2Cl2.C5H11NO.C6H15N.C9H11ClO3S,HCl.C6H15N.C14H21NO4S.CH2Cl2,CH2Cl2.C5H11NO.C6H15N.C9H11ClO3S
+"For the chemical transformation leading to products C7H8.C26H20F3N7O, determine the necessary reactants.",C8H4F3NO.C7H8.C18H16N6,C7H8.C26H20F3N7O,C8H4F3NO.C7H8.C18H16N6
+Consider the target products C17H14O.C17H14O.C17H14O.C4H8O2.C12H17ClN4O.CO3-2.Cs+.Cs+.HBr.Pd.Pd. What reactants would be used to synthesize them?,CO3-2.Cs+.Pd.C12H18BrClN4O.C17H14O.C17H14O.C17H14O.C4H8O2.Pd.Cs+,C17H14O.C17H14O.C17H14O.C4H8O2.C12H17ClN4O.CO3-2.Cs+.Cs+.HBr.Pd.Pd,CO3-2.Cs+.Pd.C12H18BrClN4O.C17H14O.C17H14O.C17H14O.C4H8O2.Pd.Cs+
+Consider the target products C16H16O4.C15H14O3. What reactants would be used to synthesize them?,C15H14O3.C16H14O4.H2,C16H16O4.C15H14O3,C15H14O3.C16H14O4.H2
+"Given the following products:
+C17H15NO2S.HCl.C7H8
+Predict the reactants required for their synthesis.",C13H11NOS.C4H5ClO.C7H8,C17H15NO2S.HCl.C7H8,C13H11NOS.C4H5ClO.C7H8
+"Products: Cl-.Cs+.Pd.Cs+.C33H49P.CO3-2.C20H25F2N5O5S2.Pd.C17H14O.HCl.C17H14O.C17H14O.H4N+.C4H8O2
+Reactants:",C8H17N3O4S.Pd.CO3-2.C12H9ClF2N2OS.C4H8O2.H4N+.Pd.C17H14O.C33H49P.C17H14O.Cs+.Cs+.C17H14O.Cl-,Cl-.Cs+.Pd.Cs+.C33H49P.CO3-2.C20H25F2N5O5S2.Pd.C17H14O.HCl.C17H14O.C17H14O.H4N+.C4H8O2,C8H17N3O4S.Pd.CO3-2.C12H9ClF2N2OS.C4H8O2.H4N+.Pd.C17H14O.C33H49P.C17H14O.Cs+.Cs+.C17H14O.Cl-
+Determine the reactants that could give rise to the products HCl.C22H23N3O4.,C6H13NO.C16H11ClN2O3,HCl.C22H23N3O4,C6H13NO.C16H11ClN2O3
+Determine the reactants that could give rise to the products K+.HCl.C23H28F3NO3.H2O.CO3-2.HBr.C3H7NO.K+.,C15H23NO3.HCl.C3H7NO.K+.CO3-2.K+.H2O.C8H6BrF3,K+.HCl.C23H28F3NO3.H2O.CO3-2.HBr.C3H7NO.K+,C15H23NO3.HCl.C3H7NO.K+.CO3-2.K+.H2O.C8H6BrF3
+Determine the reactants that could give rise to the products C3H7NO.HCl.CO3-2.C25H30N2O3S.K+.K+.HCl.,C19H19NO3S.HCl.K+.K+.C3H7NO.CO3-2.C6H12ClN,C3H7NO.HCl.CO3-2.C25H30N2O3S.K+.K+.HCl,C19H19NO3S.HCl.K+.K+.C3H7NO.CO3-2.C6H12ClN
+"For the chemical transformation leading to products C22H15F4N5O2, determine the necessary reactants.",C14H12N4O.C8H3F4NO,C22H15F4N5O2,C14H12N4O.C8H3F4NO
+"Based on the listed products (C10H12ClN3O2S2.HCl.C2H6O.C6H15N.HF), predict the reactants involved in their formation.",HCl.C5H2ClFN2O2S2.C2H6O.C5H11N.C6H15N,C10H12ClN3O2S2.HCl.C2H6O.C6H15N.HF,HCl.C5H2ClFN2O2S2.C2H6O.C5H11N.C6H15N
+Consider the target products HCl.C23H19F2NO3.C8H19N. What reactants would be used to synthesize them?,C8H19N.C15H13F2NO.C8H7ClO2,HCl.C23H19F2NO3.C8H19N,C8H19N.C15H13F2NO.C8H7ClO2
+"From the reaction defined by the products HCl.C13H14N2O2S, predict the corresponding reactants.",C6H6ClNO2S.C7H9N,HCl.C13H14N2O2S,C6H6ClNO2S.C7H9N
+"Using the given reaction specification:
+Products: CO3-2.C5H9NO2.K+.H2O.CuI.C14H15N3O4.K+.C2H6OS.HBr.C4H8O2
+Identify the reactants.",C5H9NO2.CO3-2.C2H6OS.C3H4N2.H2O.CuI.K+.K+.C11H12BrNO4.C4H8O2,CO3-2.C5H9NO2.K+.H2O.CuI.C14H15N3O4.K+.C2H6OS.HBr.C4H8O2,C5H9NO2.CO3-2.C2H6OS.C3H4N2.H2O.CuI.K+.K+.C11H12BrNO4.C4H8O2
+"For the chemical transformation leading to products Br-.C22H25F3N2O5.K+.HCl, determine the necessary reactants.",C8H18N2O2.C14H8ClF3O3.Br-.K+,Br-.C22H25F3N2O5.K+.HCl,C8H18N2O2.C14H8ClF3O3.Br-.K+
+"Given the following products:
+C3H7NO.C20H22N6O2.HCl
+Predict the reactants required for their synthesis.",C3H7NO.C17H14ClN5O2.C3H9N,C3H7NO.C20H22N6O2.HCl,C3H7NO.C17H14ClN5O2.C3H9N
+"Based on the listed products (K+.CH2Cl2.H2O.C16H36N+.HCl.HO-.HO4S-.C14H9ClN2O3S), predict the reactants involved in their formation.",CH2Cl2.K+.HO-.H2O.C16H36N+.C6H5ClO2S.C8H5ClN2O.HO4S-,K+.CH2Cl2.H2O.C16H36N+.HCl.HO-.HO4S-.C14H9ClN2O3S,CH2Cl2.K+.HO-.H2O.C16H36N+.C6H5ClO2S.C8H5ClN2O.HO4S-
+"From the reaction defined by the products HCl.C8H19N.C15H15N3O4.C2H3N, predict the corresponding reactants.",C4H5ClO.C2H3N.C11H11N3O3.C8H19N,HCl.C8H19N.C15H15N3O4.C2H3N,C4H5ClO.C2H3N.C11H11N3O3.C8H19N
+Determine the reactants that could give rise to the products C2H3O2-.HCl.CBO-.CH4O.Na+.H4N+.C10H15NO.,C2H3O2-.Na+.C10H12O2.H4N+.CH4O.CH3BN-.HCl,C2H3O2-.HCl.CBO-.CH4O.Na+.H4N+.C10H15NO,C2H3O2-.Na+.C10H12O2.H4N+.CH4O.CH3BN-.HCl
+"Using the given reaction specification:
+Products: K+.C6H14O4.O.C13H13NO.H4N2.HO-
+Identify the reactants.",C13H11NO2.C6H14O4.H2.H4N2.K+.HO-,K+.C6H14O4.O.C13H13NO.H4N2.HO-,C13H11NO2.C6H14O4.H2.H4N2.K+.HO-
+Determine the reactants that could give rise to the products C11H19NO6.,C10H16O4.CH3NO2,C11H19NO6,C10H16O4.CH3NO2
+Consider the target products C2H3O2-.Na+.C8H16BrN.HBr.Na+.H2O.Na+.CO3-2. What reactants would be used to synthesize them?,Na+.CO3-2.C3H6Br2.C2H3O2-.Na+.C5H11N.H2O.Na+,C2H3O2-.Na+.C8H16BrN.HBr.Na+.H2O.Na+.CO3-2,Na+.CO3-2.C3H6Br2.C2H3O2-.Na+.C5H11N.H2O.Na+
+What reactants would produce the products HCl.C8H19N.C3H7NO.C13H13ClN4.H2O.C7H8 in a chemical reaction?,H2O.C7H8.C8H19N.C4H3Cl2N3.C3H7NO.C9H11N,HCl.C8H19N.C3H7NO.C13H13ClN4.H2O.C7H8,H2O.C7H8.C8H19N.C4H3Cl2N3.C3H7NO.C9H11N
+"From the reaction defined by the products CH4O.C28H28FN3O6S2, predict the corresponding reactants.",C28H26FN3O6S2.H2.CH4O,CH4O.C28H28FN3O6S2,C28H26FN3O6S2.H2.CH4O
+Determine the reactants that could give rise to the products HCl.C34H37Cl2N5O4.HCl.,C24H19Cl3N2O2.C10H19N3O2.HCl,HCl.C34H37Cl2N5O4.HCl,C24H19Cl3N2O2.C10H19N3O2.HCl
+Consider the target products K+.HI.C3H7NO.CO3-2.K+.C18H20N4O2. What reactants would be used to synthesize them?,CO3-2.K+.K+.C3H7NO.C16H16N4O2.C2H5I,K+.HI.C3H7NO.CO3-2.K+.C18H20N4O2,CO3-2.K+.K+.C3H7NO.C16H16N4O2.C2H5I
+"Given the following products:
+C17H13N3S.HCl.H2O.HO-.Na+.HCl
+Predict the reactants required for their synthesis.",HO-.C11H8N2S.C6H6ClN.Na+.H2O.HCl,C17H13N3S.HCl.H2O.HO-.Na+.HCl,HO-.C11H8N2S.C6H6ClN.Na+.H2O.HCl
+"Products: HCl.C6H15N.C7H11ClN4
+Reactants:",C6H15N.C3H9N.C4H3Cl2N3,HCl.C6H15N.C7H11ClN4,C6H15N.C3H9N.C4H3Cl2N3
+"In the retrosynthetic analysis of products Na+.H4O4P2.HO-.NO2-.Na+.H2O.C9H7NO2S.HN, what reactants are required?",NO2-.H2O.H4O4P2.Na+.HO-.C9H8N2O2S.Na+,Na+.H4O4P2.HO-.NO2-.Na+.H2O.C9H7NO2S.HN,NO2-.H2O.H4O4P2.Na+.HO-.C9H8N2O2S.Na+
+What reactants would produce the products C4H8O.O.Na+.C6H6BrNO.Cl2OS.H4N+.H4B-.Cl- in a chemical reaction?,Cl2OS.C4H8O.Na+.H2.Cl-.C6H4BrNO2.H4N+.H4B-,C4H8O.O.Na+.C6H6BrNO.Cl2OS.H4N+.H4B-.Cl-,Cl2OS.C4H8O.Na+.H2.Cl-.C6H4BrNO2.H4N+.H4B-
+"Products: CO3-2.C6H12O6.C5H9BrO3.C6H12O2.Na+.Na+.O4P-3
+Reactants:",C5H7BrO3.O4P-3.Na+.H2.CO3-2.Na+.C6H12O6.C6H12O2,CO3-2.C6H12O6.C5H9BrO3.C6H12O2.Na+.Na+.O4P-3,C5H7BrO3.O4P-3.Na+.H2.CO3-2.Na+.C6H12O6.C6H12O2
+"For the chemical transformation leading to products C17H23N3O.HCl.HCl, determine the necessary reactants.",C7H14ClN.C10H10N2O.HCl,C17H23N3O.HCl.HCl,C7H14ClN.C10H10N2O.HCl
+"Products: Cl2OS.C7H6N2O4.HCl.C23H22F3N5O3.HCl.C10H5ClF3N
+Reactants:",C17H9ClF3N3O3.C7H6N2O4.Cl2OS.C6H14N2.HCl.C10H5ClF3N,Cl2OS.C7H6N2O4.HCl.C23H22F3N5O3.HCl.C10H5ClF3N,C17H9ClF3N3O3.C7H6N2O4.Cl2OS.C6H14N2.HCl.C10H5ClF3N
+"For the chemical transformation leading to products C22H28N+.IN.CH4O.I-, determine the necessary reactants.",C21H25N.IN.CH3I.CH4O,C22H28N+.IN.CH4O.I-,C21H25N.IN.CH3I.CH4O
+"In the retrosynthetic analysis of products Li+.C13H6F3IN2O4.C6H18NSi2-.HF.C4H8O, what reactants are required?",C7H2F3NO4.C6H5FIN.C6H18NSi2-.C4H8O.Li+,Li+.C13H6F3IN2O4.C6H18NSi2-.HF.C4H8O,C7H2F3NO4.C6H5FIN.C6H18NSi2-.C4H8O.Li+
+"Given the following products:
+C4H8O.C26H23Cl2N3O
+Predict the reactants required for their synthesis.",C26H21Cl2N3O.C4H8O.H2,C4H8O.C26H23Cl2N3O,C26H21Cl2N3O.C4H8O.H2
+"Based on the listed products (Br-.C24H29NO6.K+.CH4O), predict the reactants involved in their formation.",C20H18O6.C4H11N.CH4O.K+.Br-,Br-.C24H29NO6.K+.CH4O,C20H18O6.C4H11N.CH4O.K+.Br-
+"Products: HCl.C11H23NO3S.CH2Cl2
+Reactants:",CH2Cl2.CH3ClO2S.C10H21NO,HCl.C11H23NO3S.CH2Cl2,CH2Cl2.CH3ClO2S.C10H21NO
+"In the retrosynthetic analysis of products CuI.C3H8O.C2H6O2.C15H20ClNO2S.CO3-2.Cs+.HI.Cs+, what reactants are required?",C13H15ClINO2.C3H8O.Cs+.C2H6O2.Cs+.CuI.C2H6S.CO3-2,CuI.C3H8O.C2H6O2.C15H20ClNO2S.CO3-2.Cs+.HI.Cs+,C13H15ClINO2.C3H8O.Cs+.C2H6O2.Cs+.CuI.C2H6S.CO3-2
+"In the retrosynthetic analysis of products HCl.C14H6Cl2F3IN4, what reactants are required?",C11H4Cl3F3N2.C3H3IN2,HCl.C14H6Cl2F3IN4,C11H4Cl3F3N2.C3H3IN2
+Consider the target products C17H22F2N2O3S.C3H7NO.HBr.H2O.C4H8O2.Na+.H-. What reactants would be used to synthesize them?,H-.C4H8O2.C7H5BrF2.Na+.C3H7NO.H2O.C10H18N2O3S,C17H22F2N2O3S.C3H7NO.HBr.H2O.C4H8O2.Na+.H-,H-.C4H8O2.C7H5BrF2.Na+.C3H7NO.H2O.C10H18N2O3S
+"From the reaction defined by the products C2H3O2-.C4H8O2.H2O.Pd+2.C17H17ClN2O2.C2H3O2-.Cs+.C44H32P2.Cs+.HCl.CO3-2, predict the corresponding reactants.",Pd+2.C2H3O2-.C9H11N.H2O.C4H8O2.CO3-2.Cs+.Cs+.C44H32P2.C8H7Cl2NO2.C2H3O2-,C2H3O2-.C4H8O2.H2O.Pd+2.C17H17ClN2O2.C2H3O2-.Cs+.C44H32P2.Cs+.HCl.CO3-2,Pd+2.C2H3O2-.C9H11N.H2O.C4H8O2.CO3-2.Cs+.Cs+.C44H32P2.C8H7Cl2NO2.C2H3O2-
+"Given the following products:
+C2H6O.C11H16O2.HO-.HBr.Na+.H2O
+Predict the reactants required for their synthesis.",C4H9Br.C7H8O2.H2O.C2H6O.Na+.HO-,C2H6O.C11H16O2.HO-.HBr.Na+.H2O,C4H9Br.C7H8O2.H2O.C2H6O.Na+.HO-
+Determine the reactants that could give rise to the products C2H6O.C21H26O4.,C21H24O4.H2.C2H6O,C2H6O.C21H26O4,C21H24O4.H2.C2H6O
+Consider the target products H4B-.Na+.C2H6O.C9H12O2.HCl. What reactants would be used to synthesize them?,Na+.C2H6O.H2.H4B-.HCl.C9H10O2,H4B-.Na+.C2H6O.C9H12O2.HCl,Na+.C2H6O.H2.H4B-.HCl.C9H10O2

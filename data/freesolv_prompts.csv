@@ -1,0 +1,66 @@
+prompt,gt,smiles
+How favorable is hydration for CCCOC=O?,0.3441007568427267,CCCOC=O
+What is the hydration free energy of CC(=O)C in water?,0.0007818906491953,CC(=O)C
+What is the hydration free energy of CCc1cccnc1?,-0.2046892489666302,CCc1cccnc1
+What is the hydration free energy of COCOC?,0.22706023427675,COCOC
+Predict the hydration free energy (FreeSolv) for the molecule with SMILES: c1ccc(cc1)N,-0.4387702940985836,c1ccc(cc1)N
+Predict the hydration free energy (FreeSolv) for the molecule with SMILES: Cc1ccccc1N,-0.4491738961044481,Cc1ccccc1N
+"From the SMILES c1ccc2c(c1)cccn2, predict the FreeSolv value.",-0.4985910056323048,c1ccc2c(c1)cccn2
+How favorable is hydration for c1ccc2c(c1)Oc3ccc(cc3O2)Cl?,0.1828449257518255,c1ccc2c(c1)Oc3ccc(cc3O2)Cl
+"From the SMILES CCCC(=O)CCC, predict the FreeSolv value.",0.2296611347782162,CCCC(=O)CCC
+What is the hydration free energy of C(Cl)(Cl)(Cl)Cl?,1.0099312852180602,C(Cl)(Cl)(Cl)Cl
+"For the molecule c1ccc(cc1)n2c(=O)c(c(cn2)N)Cl, return its hydration free energy.",-3.284155442702548,c1ccc(cc1)n2c(=O)c(c(cn2)N)Cl
+"Given the SMILES c1ccnc(c1)Cl, compute its solvation free energy.",-0.1526712389373072,c1ccnc(c1)Cl
+"From the SMILES C(CCl)CCl, predict the FreeSolv value.",0.4975538864292294,C(CCl)CCl
+Estimate the FreeSolv value for CCCCC[N+](=O)[O-].,0.2556701397928777,CCCCC[N+](=O)[O-]
+Estimate the FreeSolv value for C1COCCO1.,-0.3269315725355391,C1COCCO1
+"For the molecule C(Cl)Cl, return its hydration free energy.",0.6484061155142659,C(Cl)Cl
+What is the hydration free energy of CN1CCCCC1 in water?,-0.0200253133625338,CN1CCCCC1
+What is the hydration free energy of c1c(=O)[nH]c(=O)[nH]c1Cl in water?,-3.1281014126145794,c1c(=O)[nH]c(=O)[nH]c1Cl
+Predict the hydration free energy (FreeSolv) for the molecule with SMILES: C[C@H](C(F)(F)F)O,-0.1032541294094506,C[C@H](C(F)(F)F)O
+Estimate the FreeSolv value for C(=C(Cl)Cl)Cl.,0.8746844591418207,C(=C(Cl)Cl)Cl
+Estimate the FreeSolv value for CC(C)OC.,0.4663430804116356,CC(C)OC
+Provide the solvation free energy for the compound CC(C)COC(=O)C(C)C.,0.5495718964585523,CC(C)COC(=O)C(C)C
+"From the SMILES CCCCCCCCC(=O)C, predict the FreeSolv value.",0.3805133638632528,CCCCCCCCC(=O)C
+"For the molecule Cc1ccc(cc1)C, return its hydration free energy.",0.7810520410890393,Cc1ccc(cc1)C
+Estimate the FreeSolv value for Cc1c[nH]cn1.,-1.6820007337994016,Cc1c[nH]cn1
+What is the hydration free energy of CN(C)CCOC(c1ccccc1)c2ccccc2?,-1.44011698716305,CN(C)CCOC(c1ccccc1)c2ccccc2
+What is the hydration free energy of c1c(cc(cc1Cl)Cl)Cl?,0.7862538420919717,c1c(cc(cc1Cl)Cl)Cl
+Predict the hydration free energy (FreeSolv) for the molecule with SMILES: CC(=O)Oc1ccccc1C(=O)O,-1.5961710172510188,CC(=O)Oc1ccccc1C(=O)O
+"From the SMILES CC/C=C\C, predict the FreeSolv value.",1.3298420468983962,CC/C=C\C
+Provide the solvation free energy for the compound c1ccc(cc1)C(F)(F)F.,0.9241015686696774,c1ccc(cc1)C(F)(F)F
+Predict the hydration free energy (FreeSolv) for the molecule with SMILES: C=C(Cl)Cl,1.0541465937429846,C=C(Cl)Cl
+Report the predicted FreeSolv property for C1C=CC[C@@H]2[C@@H]1C(=O)N(C2=O)SC(Cl)(Cl)Cl.,-1.3542872706146671,C1C=CC[C@@H]2[C@@H]1C(=O)N(C2=O)SC(Cl)(Cl)Cl
+Estimate the FreeSolv value for Cc1cccc(c1C)C.,0.6744151205289274,Cc1cccc(c1C)C
+Provide the solvation free energy for the compound CCSC.,0.598989005986409,CCSC
+"From the SMILES c1ccc(c(c1)O)F, predict the FreeSolv value.",-0.3867522840692606,c1ccc(c(c1)O)F
+Provide the solvation free energy for the compound CCCCCCBr.,1.0359402902327215,CCCCCCBr
+What is the hydration free energy of c1ccc2c(c1)Cc3ccccc3C2?,0.0059836916521276,c1ccc2c(c1)Cc3ccccc3C2
+Predict the hydration free energy (FreeSolv) for the molecule with SMILES: CCCCC#C,1.0645501957488492,CCCCC#C
+"From the SMILES C(C(F)(F)F)Cl, predict the FreeSolv value.",1.004729484215128,C(C(F)(F)F)Cl
+Provide the solvation free energy for the compound CC(C)CO[N+](=O)[O-].,0.5001547869306955,CC(C)CO[N+](=O)[O-]
+How favorable is hydration for c1ccc2cc(ccc2c1)O?,-1.120206225482714,c1ccc2cc(ccc2c1)O
+"For the molecule CCCC(C)(C)C, return its hydration free energy.",1.7381834256285815,CCCC(C)(C)C
+Estimate the FreeSolv value for CCC(=O)Nc1ccc(c(c1)Cl)Cl.,-1.034376508934331,CCC(=O)Nc1ccc(c(c1)Cl)Cl
+"For the molecule CCC, return its hydration free energy.",1.5093041814995602,CCC
+"From the SMILES CCCc1ccccc1, predict the FreeSolv value.",0.8512763546286254,CCCc1ccccc1
+What is the hydration free energy of c1ccc2c(c1)C(=O)c3cccc(c3C2=O)N in water?,-1.4661259921777114,c1ccc2c(c1)C(=O)c3cccc(c3C2=O)N
+Estimate the FreeSolv value for CCc1ccccc1C.,0.7680475385817086,CCc1ccccc1C
+"For the molecule Cc1cc2ccccc2cc1C, return its hydration free energy.",0.2660737417987423,Cc1cc2ccccc2cc1C
+"Given the SMILES C(C(CO)O)O, compute its solvation free energy.",-2.503885292262704,C(C(CO)O)O
+Report the predicted FreeSolv property for S.,0.8070610461037009,S
+What is the hydration free energy of c1ccc2c(c1)C(=O)c3cccc(c3C2=O)NCCO in water?,-2.706755531377064,c1ccc2c(c1)C(=O)c3cccc(c3C2=O)NCCO
+Predict the hydration free energy (FreeSolv) for the molecule with SMILES: COP(=S)(OC)Oc1ccc(cc1)[N+](=O)[O-],-0.8809233793478286,COP(=S)(OC)Oc1ccc(cc1)[N+](=O)[O-]
+"Given the SMILES C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)O, compute its solvation free energy.",-5.635369496027945,C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)O
+"For the molecule CCCc1ccc(cc1)O, return its hydration free energy.",-0.3659450800575314,CCCc1ccc(cc1)O
+Provide the solvation free energy for the compound CC#C.,0.864280857135956,CC#C
+Provide the solvation free energy for the compound c1cc(ccc1C#N)O.,-1.6559917287847403,c1cc(ccc1C#N)O
+Predict the hydration free energy (FreeSolv) for the molecule with SMILES: C[C@H](CC(C)C)O,0.0189881941594583,C[C@H](CC(C)C)O
+Provide the solvation free energy for the compound c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)c2c(c(c(c(c2Cl)Cl)Cl)Cl)Cl.,0.2140557317694193,c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)c2c(c(c(c(c2Cl)Cl)Cl)Cl)Cl
+Report the predicted FreeSolv property for [C@@H](C(F)(F)F)(Cl)Br.,0.9605141756902036,[C@@H](C(F)(F)F)(Cl)Br
+"Given the SMILES c1cc(ccc1Br)Br, compute its solvation free energy.",0.3909169658691174,c1cc(ccc1Br)Br
+Predict the hydration free energy (FreeSolv) for the molecule with SMILES: CC(C)C(C)C,1.5977347985494093,CC(C)C(C)C
+Predict the hydration free energy (FreeSolv) for the molecule with SMILES: COc1cccc(c1)O,-1.0031657029167371,COc1cccc(c1)O
+Estimate the FreeSolv value for c1cc(c(c(c1)Cl)c2c(cc(cc2Cl)Cl)Cl)Cl.,0.4793475829189663,c1cc(c(c(c1)Cl)c2c(cc(cc2Cl)Cl)Cl)Cl
+"From the SMILES c1cnccc1C=O, predict the FreeSolv value.",-0.8315062698199717,c1cnccc1C=O
+"Given the SMILES CCc1ccccc1, compute its solvation free energy.",0.7836529415905055,CCc1ccccc1

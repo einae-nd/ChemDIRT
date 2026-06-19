@@ -1,0 +1,153 @@
+prompt,gt,smiles
+Classify the molecule O(C)c1ccc(cc1)C1(N=C(C)C(=N1)N)c1cc(ccc1)-c1cccnc1 with respect to its BACE inhibitory activity.,0,O(C)c1ccc(cc1)C1(N=C(C)C(=N1)N)c1cc(ccc1)-c1cccnc1
+"Given the SMILES Fc1cc(cc(F)c1)CC(NC(=O)C(N1CCC(NC(=O)C)(C(CC)C)C1=O)CCc1ccccc1)C(O)C1[NH2+]CC(Oc2cccnc2)C1, determine if it has BACE inhibition properties.",1,Fc1cc(cc(F)c1)CC(NC(=O)C(N1CCC(NC(=O)C)(C(CC)C)C1=O)CCc1ccccc1)C(O)C1[NH2+]CC(Oc2cccnc2)C1
+Classify the molecule S(=O)(=O)(N1C(C)=C(C(=O)N[C@H]([C@H](O)C[NH2+]C2CC2)Cc2ccccc2)[C@@H](CC)C(C(=O)NOCc2ccccc2)=C1C)C with respect to its BACE inhibitory activity.,0,S(=O)(=O)(N1C(C)=C(C(=O)N[C@H]([C@H](O)C[NH2+]C2CC2)Cc2ccccc2)[C@@H](CC)C(C(=O)NOCc2ccccc2)=C1C)C
+What is the BACE property classification for the compound Fc1cc(cc(F)c1)CC(NC(=O)C(N1CCC(C(O)CCC)C1=O)CCc1ccccc1)C(O)C1[NH2+]CC(OCCC)C1?,1,Fc1cc(cc(F)c1)CC(NC(=O)C(N1CCC(C(O)CCC)C1=O)CCc1ccccc1)C(O)C1[NH2+]CC(OCCC)C1
+Predict the BACE inhibitor property for the molecule with SMILES: Clc1cc2nc(n(c2cc1)C(CC(=O)NC(C(=O)[O-])COC(C)(C)C)CC)N,0,Clc1cc2nc(n(c2cc1)C(CC(=O)NC(C(=O)[O-])COC(C)(C)C)CC)N
+Evaluate the BACE activity of the molecule encoded as O1C2COCCC2(N=C1N)c1cc(NC(=O)c2ncccc2)ccc1.,0,O1C2COCCC2(N=C1N)c1cc(NC(=O)c2ncccc2)ccc1
+Evaluate the BACE activity of the molecule encoded as O=C1N(C)C(=NC1(C1CCCCC1)c1ccccc1)N.,0,O=C1N(C)C(=NC1(C1CCCCC1)c1ccccc1)N
+Is the compound represented by S1C[C@H](NC(=O)[C@@H](NC(=O)[C@@H]2[NH2+]CCC[C@@H]2SC\C=C\C1)C)[C@@H](O)C[C@H](C(=O)NCCCC)C a BACE inhibitor?,0,S1C[C@H](NC(=O)[C@@H](NC(=O)[C@@H]2[NH2+]CCC[C@@H]2SC\C=C\C1)C)[C@@H](O)C[C@H](C(=O)NCCCC)C
+Predict the BACE inhibitor property for the molecule with SMILES: Clc1cn(nc1C(=O)Nc1cc(C2(N=C(OCC2(F)F)N)C)c(F)cc1)C,0,Clc1cn(nc1C(=O)Nc1cc(C2(N=C(OCC2(F)F)N)C)c(F)cc1)C
+What is the BACE property classification for the compound Fc1cc(cc(F)c1)CC(NC(=O)C(N1CCC(NC(=O)C)(C(CC)C)C1=O)CCc1ccccc1)[C@H](O)[C@H]1[NH2+]Cc2c(C1)cccc2OC?,0,Fc1cc(cc(F)c1)CC(NC(=O)C(N1CCC(NC(=O)C)(C(CC)C)C1=O)CCc1ccccc1)[C@H](O)[C@H]1[NH2+]Cc2c(C1)cccc2OC
+"Given the SMILES Fc1ccc(cc1OC)CC(NC(=O)C)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2, determine if it has BACE inhibition properties.",1,Fc1ccc(cc1OC)CC(NC(=O)C)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2
+"Given the SMILES O1CCN(CC1)C(=O)CN1C(C)=C(C(=O)N[C@H]([C@H](O)C[NH2+]C2CC2)Cc2ccccc2)[C@H](C)C(C(OCc2ccccc2)=O)=C1C, determine if it has BACE inhibition properties.",0,O1CCN(CC1)C(=O)CN1C(C)=C(C(=O)N[C@H]([C@H](O)C[NH2+]C2CC2)Cc2ccccc2)[C@H](C)C(C(OCc2ccccc2)=O)=C1C
+What is the BACE property classification for the compound Clc1cc2nc(n(c2cc1)C(CC(=O)N(CC1CCCCC1)C)CC)N?,0,Clc1cc2nc(n(c2cc1)C(CC(=O)N(CC1CCCCC1)C)CC)N
+"For the molecule Brc1cc2c(SCC[C@@H]2OC(=O)[C@@H]2[NH2+]C[C@]3(C2)c2c(NC3=O)cccc2)cc1, return whether it is a BACE inhibitor or not.",0,Brc1cc2c(SCC[C@@H]2OC(=O)[C@@H]2[NH2+]C[C@]3(C2)c2c(NC3=O)cccc2)cc1
+"Given the SMILES O=C1N(C)C(=NC(C1)(C)C1CC1c1cc(ccc1)-c1ccccc1)N, determine if it has BACE inhibition properties.",0,O=C1N(C)C(=NC(C1)(C)C1CC1c1cc(ccc1)-c1ccccc1)N
+What is the BACE property classification for the compound S1(=O)(=O)N(CCCC1)c1cc(cc(c1)/C(=N\OC)/C)C(=O)NC([C@@H](O)C[NH2+]Cc1cc(OC)ccc1)Cc1cc(F)cc(F)c1?,1,S1(=O)(=O)N(CCCC1)c1cc(cc(c1)/C(=N\OC)/C)C(=O)NC([C@@H](O)C[NH2+]Cc1cc(OC)ccc1)Cc1cc(F)cc(F)c1
+"From the SMILES O1CCCC1C(=O)NC(Cc1cc2OCOc2cc1)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2, predict the binary BACE property.",1,O1CCCC1C(=O)NC(Cc1cc2OCOc2cc1)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2
+Is the compound represented by Clc1ccc(nc1)C(=O)Nc1cc(ccc1)C1(N=C(N)N(C)C1=O)C a BACE inhibitor?,0,Clc1ccc(nc1)C(=O)Nc1cc(ccc1)C1(N=C(N)N(C)C1=O)C
+"From the SMILES FC(F)Oc1ccc(cc1)[C@@]1(N=C(N)N(C)C1=O)c1cc(ccc1)C#CCOC, predict the binary BACE property.",1,FC(F)Oc1ccc(cc1)[C@@]1(N=C(N)N(C)C1=O)c1cc(ccc1)C#CCOC
+Is the compound represented by O1[C@@H]2COCC[C@@]2(N=C1N)c1cc(ccc1)-c1cncnc1 a BACE inhibitor?,0,O1[C@@H]2COCC[C@@]2(N=C1N)c1cc(ccc1)-c1cncnc1
+Evaluate the BACE activity of the molecule encoded as O(CCC)c1cc(ccc1)-c1cc(ccc1)C1CC1C1(N=C(N)N(C)C(=O)C1)C.,0,O(CCC)c1cc(ccc1)-c1cc(ccc1)C1CC1C1(N=C(N)N(C)C(=O)C1)C
+Can you assess whether Clc1ccc(cc1)C1(CCCC1)c1nc(sc1)N corresponds to a BACE inhibitor?,0,Clc1ccc(cc1)C1(CCCC1)c1nc(sc1)N
+"Given the SMILES FC(F)Oc1ccc(cc1)[C@@]1(N=C(N)N(C)C1=O)c1cc(ccc1)C#CC(C)C, determine if it has BACE inhibition properties.",1,FC(F)Oc1ccc(cc1)[C@@]1(N=C(N)N(C)C1=O)c1cc(ccc1)C#CC(C)C
+"From the SMILES Clc1cccc(-c2cc3c(Oc4c(cc(OC)cc4)C34N=C(OC4)N)cc2)c1F, predict the binary BACE property.",0,Clc1cccc(-c2cc3c(Oc4c(cc(OC)cc4)C34N=C(OC4)N)cc2)c1F
+What is the BACE property classification for the compound O=C1N(C)C(=NC1(c1ccccc1)c1ccccc1)N?,0,O=C1N(C)C(=NC1(c1ccccc1)c1ccccc1)N
+What is the BACE property classification for the compound O1CCC(CC1)C1(N=C(C)C(=N1)N)c1cc(ccc1)-c1cc(OC)ccc1?,0,O1CCC(CC1)C1(N=C(C)C(=N1)N)c1cc(ccc1)-c1cc(OC)ccc1
+Classify the molecule O(C)C1CC(N=C1N)(c1cc(ccc1)-c1cccnc1)c1ccc(OC)cc1 with respect to its BACE inhibitory activity.,0,O(C)C1CC(N=C1N)(c1cc(ccc1)-c1cccnc1)c1ccc(OC)cc1
+"From the SMILES O1CC2(N=C1N)c1cc(ccc1Oc1c2cc(OC)cc1)-c1cncnc1, predict the binary BACE property.",0,O1CC2(N=C1N)c1cc(ccc1Oc1c2cc(OC)cc1)-c1cncnc1
+"For the molecule Fc1ccc(cc1)C[C@H](NC(=O)C)[C@H](O)C[NH2+][C@H]1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2, return whether it is a BACE inhibitor or not.",1,Fc1ccc(cc1)C[C@H](NC(=O)C)[C@H](O)C[NH2+][C@H]1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2
+Classify the molecule O(C)c1cc(ccc1)C[NH2+]C[C@@H](O)[C@@H](NC(=O)[C@@H](N1CC[C@](NC(=O)C)([C@H](CC)C)C1=O)CCc1ccccc1)Cc1ccccc1 with respect to its BACE inhibitory activity.,1,O(C)c1cc(ccc1)C[NH2+]C[C@@H](O)[C@@H](NC(=O)[C@@H](N1CC[C@](NC(=O)C)([C@H](CC)C)C1=O)CCc1ccccc1)Cc1ccccc1
+Does the structure Clc1cc(N(S(=O)(=O)C)c2cc(ccc2)C(=O)NC(Cc2ccccc2)C(O)C[NH2+]C(C(=O)NC2CCCCC2)C)cc(Cl)c1 act as a BACE inhibitor?,1,Clc1cc(N(S(=O)(=O)C)c2cc(ccc2)C(=O)NC(Cc2ccccc2)C(O)C[NH2+]C(C(=O)NC2CCCCC2)C)cc(Cl)c1
+Evaluate the BACE activity of the molecule encoded as s1ccnc1-c1cc(ccc1)CC(NC(=O)C(O)C)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2.,1,s1ccnc1-c1cc(ccc1)CC(NC(=O)C(O)C)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2
+Does the structure O=C1N(CCC1)c1cc(ccc1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]C(C(=O)NC1CCCCC1)C act as a BACE inhibitor?,0,O=C1N(CCC1)c1cc(ccc1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]C(C(=O)NC1CCCCC1)C
+Classify the molecule O=C1N(C)C(=NC1(c1cc(ccc1)-c1cc(ccc1)C#N)c1ccncc1)N with respect to its BACE inhibitory activity.,1,O=C1N(C)C(=NC1(c1cc(ccc1)-c1cc(ccc1)C#N)c1ccncc1)N
+Is the compound represented by S(=O)(=O)(N(C)c1cc(cc(c1)C(=O)NC(C(O)CC(C(=O)NC1CC1)C)COCc1cc(F)cc(F)c1)C(=O)NC(C)c1ccccc1)C a BACE inhibitor?,0,S(=O)(=O)(N(C)c1cc(cc(c1)C(=O)NC(C(O)CC(C(=O)NC1CC1)C)COCc1cc(F)cc(F)c1)C(=O)NC(C)c1ccccc1)C
+Classify the molecule Fc1ncccc1-c1cc(ccc1)C1(N=C(N)N(C)C1=O)c1cc(C)c(OC)cc1 with respect to its BACE inhibitory activity.,1,Fc1ncccc1-c1cc(ccc1)C1(N=C(N)N(C)C1=O)c1cc(C)c(OC)cc1
+What is the BACE property classification for the compound S(=O)(=O)(N(C)c1cc2cc(c1)CCCC(OCCOC)c1cc(COCC(NC2=O)C(O)CC(C(C)C)C(=O)NCC(C)C)ccc1)C?,0,S(=O)(=O)(N(C)c1cc2cc(c1)CCCC(OCCOC)c1cc(COCC(NC2=O)C(O)CC(C(C)C)C(=O)NCC(C)C)ccc1)C
+Classify the molecule O=C1N(Cc2ccc(cc2)CNC(=O)NCCCC)C(N[C@@]1(CC(C)C)C)=N with respect to its BACE inhibitory activity.,0,O=C1N(Cc2ccc(cc2)CNC(=O)NCCCC)C(N[C@@]1(CC(C)C)C)=N
+Does the structure O1c2ncc(cc2C([NH2+]CC(O)C(NC(=O)C)Cc2ccccc2)CC12CCC2)CC(C)(C)C act as a BACE inhibitor?,1,O1c2ncc(cc2C([NH2+]CC(O)C(NC(=O)C)Cc2ccccc2)CC12CCC2)CC(C)(C)C
+Does the structure Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCCCC1)c1cc(ccc1)-c1occc1 act as a BACE inhibitor?,0,Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCCCC1)c1cc(ccc1)-c1occc1
+Is the compound represented by O=C(N[C@H]([C@@H](O)C[C@H](C(=O)NCCCC)C)Cc1ccccc1)[C@H]1C[C@H](CCC1)C(NC(=O)C)(C)C a BACE inhibitor?,0,O=C(N[C@H]([C@@H](O)C[C@H](C(=O)NCCCC)C)Cc1ccccc1)[C@H]1C[C@H](CCC1)C(NC(=O)C)(C)C
+What is the BACE property classification for the compound S1(=O)C[C@@H](Cc2cc(OC(C(F)(F)F)C(F)(F)F)c(N)c(F)c2)[C@H](O)[C@@H]([NH2+]Cc2cc(ccc2)C(C)(C)C)C1?,1,S1(=O)C[C@@H](Cc2cc(OC(C(F)(F)F)C(F)(F)F)c(N)c(F)c2)[C@H](O)[C@@H]([NH2+]Cc2cc(ccc2)C(C)(C)C)C1
+"For the molecule S1(=O)(=O)C[C@@H](Cc2cc(F)c3NCC4(CCC(F)(F)CC4)c3c2)[C@H](O)[C@@H]([NH2+]Cc2cc(ccc2)C(C)(C)C)C1, return whether it is a BACE inhibitor or not.",0,S1(=O)(=O)C[C@@H](Cc2cc(F)c3NCC4(CCC(F)(F)CC4)c3c2)[C@H](O)[C@@H]([NH2+]Cc2cc(ccc2)C(C)(C)C)C1
+Can you assess whether Fc1c2c(ccc1)C(N=C2N)(c1cc(nc(c1)C)C)c1cc(ccc1)-c1cncnc1 corresponds to a BACE inhibitor?,0,Fc1c2c(ccc1)C(N=C2N)(c1cc(nc(c1)C)C)c1cc(ccc1)-c1cncnc1
+"Given the SMILES O=C1N(C)C(=NC(=C1)CCc1cc(ccc1)-c1ccccc1)N, determine if it has BACE inhibition properties.",0,O=C1N(C)C(=NC(=C1)CCc1cc(ccc1)-c1ccccc1)N
+"Given the SMILES Brc1ccc(cc1C(C)(C)C)C1([NH2+]CC(O)C(NC(=O)C)Cc2cc(F)cc(F)c2)CCCCC1, determine if it has BACE inhibition properties.",0,Brc1ccc(cc1C(C)(C)C)C1([NH2+]CC(O)C(NC(=O)C)Cc2cc(F)cc(F)c2)CCCCC1
+Evaluate the BACE activity of the molecule encoded as Clc1cc2CC([NH+]=C(N[C@@H](Cc3ccccc3)C=3NC(=O)c4c(N=3)ccnc4)c2cc1)(C)C.,0,Clc1cc2CC([NH+]=C(N[C@@H](Cc3ccccc3)C=3NC(=O)c4c(N=3)ccnc4)c2cc1)(C)C
+"For the molecule Fc1ncccc1-c1cc(ccc1)C1(N=C(N)N(C)C1=O)c1cc(nc(c1)CC)CC, return whether it is a BACE inhibitor or not.",1,Fc1ncccc1-c1cc(ccc1)C1(N=C(N)N(C)C1=O)c1cc(nc(c1)CC)CC
+"Given the SMILES O1CCCCOc2nc(cc(c2)C(=O)NC(Cc2cc1ccc2)C(O)C[NH2+]C1(CC1)c1cc(ccc1)C(C)C)COC, determine if it has BACE inhibition properties.",1,O1CCCCOc2nc(cc(c2)C(=O)NC(Cc2cc1ccc2)C(O)C[NH2+]C1(CC1)c1cc(ccc1)C(C)C)COC
+Is the compound represented by Fc1c2c(ccc1)C(N=C2N)(C=1C=C(C)C(=O)N(C=1)CC)c1cc(ccc1)-c1cncnc1 a BACE inhibitor?,1,Fc1c2c(ccc1)C(N=C2N)(C=1C=C(C)C(=O)N(C=1)CC)c1cc(ccc1)-c1cncnc1
+Predict the BACE inhibitor property for the molecule with SMILES: Fc1ccc(cc1OC(F)(F)F)CC(NC(=O)C)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2,1,Fc1ccc(cc1OC(F)(F)F)CC(NC(=O)C)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2
+"Given the SMILES S1(=O)(=O)CC(Cc2cc(O[C@H](COCCOC)C(F)(F)F)c(N)c(F)c2)C(O)C([NH2+]Cc2cc(ccc2)C(C)(C)C)C1, determine if it has BACE inhibition properties.",1,S1(=O)(=O)CC(Cc2cc(O[C@H](COCCOC)C(F)(F)F)c(N)c(F)c2)C(O)C([NH2+]Cc2cc(ccc2)C(C)(C)C)C1
+Does the structure Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCCCC1)c1cc(ccc1)C1CCCC1=O act as a BACE inhibitor?,0,Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCCCC1)c1cc(ccc1)C1CCCC1=O
+What is the BACE property classification for the compound FC(F)(F)c1cc(ccc1OC)C1(N=C(N)N(C)C1=O)c1cc(ccc1)-c1cccnc1?,1,FC(F)(F)c1cc(ccc1OC)C1(N=C(N)N(C)C1=O)c1cc(ccc1)-c1cccnc1
+Is the compound represented by Clc1ccc(nc1)C(=O)Nc1cc(C2(N=C(N)C3(CC2)CC3)C)c(F)cc1 a BACE inhibitor?,1,Clc1ccc(nc1)C(=O)Nc1cc(C2(N=C(N)C3(CC2)CC3)C)c(F)cc1
+Evaluate the BACE activity of the molecule encoded as Fc1cc(cc(F)c1)C[C@H](NC(=O)c1c2cc(ccc2n(c1)C(=O)N(CCCC)C)C#N)[C@H](O)C[NH2+]Cc1cc(OC)ccc1.,1,Fc1cc(cc(F)c1)C[C@H](NC(=O)c1c2cc(ccc2n(c1)C(=O)N(CCCC)C)C#N)[C@H](O)C[NH2+]Cc1cc(OC)ccc1
+Does the structure Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCC(NC=O)CC1)c1cc(ccc1)C(C)(C)C act as a BACE inhibitor?,0,Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCC(NC=O)CC1)c1cc(ccc1)C(C)(C)C
+"Given the SMILES O(C(C)(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@H]([C@@H](O)C[C@H](C(=O)NCC(C)C)C)CC(C)C, determine if it has BACE inhibition properties.",0,O(C(C)(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@H]([C@@H](O)C[C@H](C(=O)NCC(C)C)C)CC(C)C
+Evaluate the BACE activity of the molecule encoded as S(=O)(=O)(N(C)c1cc2cc(c1)C(=O)NCCCCCCOCC(NC2=O)C(O)C[NH2+]Cc1cc(ccc1)C(C)C)C.,1,S(=O)(=O)(N(C)c1cc2cc(c1)C(=O)NCCCCCCOCC(NC2=O)C(O)C[NH2+]Cc1cc(ccc1)C(C)C)C
+Evaluate the BACE activity of the molecule encoded as s1ccnc1-c1cc(ccc1)CC(NC(=O)[C@H]1OCCC1)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2.,1,s1ccnc1-c1cc(ccc1)CC(NC(=O)[C@H]1OCCC1)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2
+"Given the SMILES Fc1ccc(F)cc1-c1cc(ccc1)[C@]1(N=C(N)N(C)C1=O)c1ccncc1, determine if it has BACE inhibition properties.",1,Fc1ccc(F)cc1-c1cc(ccc1)[C@]1(N=C(N)N(C)C1=O)c1ccncc1
+Is the compound represented by S1(=O)(=O)N(c2cc(cc3c2n(cc3CC)C1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]C)C a BACE inhibitor?,1,S1(=O)(=O)N(c2cc(cc3c2n(cc3CC)C1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]C)C
+"For the molecule O1c2ncc(cc2C([NH2+]CC(O)C(NC(=O)C)Cc2cc3OCCOc3cc2)CC12CCC2)CC(C)(C)C, return whether it is a BACE inhibitor or not.",1,O1c2ncc(cc2C([NH2+]CC(O)C(NC(=O)C)Cc2cc3OCCOc3cc2)CC12CCC2)CC(C)(C)C
+What is the BACE property classification for the compound S(=O)(=O)(N(C)c1cc(cc(c1)C(=O)NC(C(O)C[C@@H](C(=O)NC(C(C)C)C(=O)NCc1ccccc1)C)COc1cc(F)cc(F)c1)C(=O)NC(C)c1ccccc1)C?,1,S(=O)(=O)(N(C)c1cc(cc(c1)C(=O)NC(C(O)C[C@@H](C(=O)NC(C(C)C)C(=O)NCc1ccccc1)C)COc1cc(F)cc(F)c1)C(=O)NC(C)c1ccccc1)C
+Evaluate the BACE activity of the molecule encoded as S(=O)(=O)(N(Cc1ccccc1)C)c1cc(ccc1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]C(C(=O)NC1CCCCC1)C.,0,S(=O)(=O)(N(Cc1ccccc1)C)c1cc(ccc1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]C(C(=O)NC1CCCCC1)C
+Is the compound represented by Clc1cc(Cl)cnc1C(=O)Nc1cc(C2(N=C(N)COC2)C)c(F)cc1 a BACE inhibitor?,1,Clc1cc(Cl)cnc1C(=O)Nc1cc(C2(N=C(N)COC2)C)c(F)cc1
+"Given the SMILES O=C1N(Cc2ccc(cc2)CNC(=O)Nc2ccc(cc2)C#N)C(N[C@@]1(CC(C)C)C)=N, determine if it has BACE inhibition properties.",0,O=C1N(Cc2ccc(cc2)CNC(=O)Nc2ccc(cc2)C#N)C(N[C@@]1(CC(C)C)C)=N
+"From the SMILES Oc1ccc(cc1-c1nccc(c1)C#CC)C1(N=C(C)C(=N1)N)C1CC1, predict the binary BACE property.",0,Oc1ccc(cc1-c1nccc(c1)C#CC)C1(N=C(C)C(=N1)N)C1CC1
+Can you assess whether FC(F)(F)c1cc(ccc1)C[NH2+]CC(O)C(NC(=O)c1cc(N2CCCC2=O)c2c(n(cc2)CC)c1)Cc1ccccc1 corresponds to a BACE inhibitor?,1,FC(F)(F)c1cc(ccc1)C[NH2+]CC(O)C(NC(=O)c1cc(N2CCCC2=O)c2c(n(cc2)CC)c1)Cc1ccccc1
+"Given the SMILES S1(=O)(=O)CC(Cc2cc3c([nH]cc3)cc2)C(O)C([NH2+]Cc2cc(ccc2)C(C)(C)C)C1, determine if it has BACE inhibition properties.",0,S1(=O)(=O)CC(Cc2cc3c([nH]cc3)cc2)C(O)C([NH2+]Cc2cc(ccc2)C(C)(C)C)C1
+"For the molecule Fc1cc(cc(F)c1)CC(NC(=O)C(N1CCC(NC(=O)C)(C(CC)C)C1=O)CCc1ccccc1)C(O)C1[NH2+]CC(O)C1, return whether it is a BACE inhibitor or not.",1,Fc1cc(cc(F)c1)CC(NC(=O)C(N1CCC(NC(=O)C)(C(CC)C)C1=O)CCc1ccccc1)C(O)C1[NH2+]CC(O)C1
+Classify the molecule Clc1cc2CC([NH+]=C(N[C@@H](Cc3ccccc3)C3=NOC(=O)[N-]3)c2cc1)(C)C with respect to its BACE inhibitory activity.,0,Clc1cc2CC([NH+]=C(N[C@@H](Cc3ccccc3)C3=NOC(=O)[N-]3)c2cc1)(C)C
+Can you assess whether O1CCC(OC(=O)[C@@H]2[NH2+]C[C@]3(C2)c2c(NC3=O)cccc2)CC1 corresponds to a BACE inhibitor?,0,O1CCC(OC(=O)[C@@H]2[NH2+]C[C@]3(C2)c2c(NC3=O)cccc2)CC1
+What is the BACE property classification for the compound Fc1ccc(NC(=O)c2ncc(cc2)C#N)cc1[C@]1(N=C(OC[C@@H]1F)N)CF?,1,Fc1ccc(NC(=O)c2ncc(cc2)C#N)cc1[C@]1(N=C(OC[C@@H]1F)N)CF
+Is the compound represented by S1(=O)(=O)CC(Cc2cc(CC)c(N)c(F)c2)C(O)C([NH2+]Cc2cc(ccc2)C(C)(C)C)C1 a BACE inhibitor?,0,S1(=O)(=O)CC(Cc2cc(CC)c(N)c(F)c2)C(O)C([NH2+]Cc2cc(ccc2)C(C)(C)C)C1
+What is the BACE property classification for the compound FCC\C=C\c1cc(ccc1)[C@]1(N=C(N)N(C)C1=O)c1ccc(OC(F)F)cc1?,1,FCC\C=C\c1cc(ccc1)[C@]1(N=C(N)N(C)C1=O)c1ccc(OC(F)F)cc1
+"From the SMILES FC(F)Oc1ccc(cc1)[C@@]1(N=C(N)N(C)C1=O)c1cc(ccc1)C#CCCO, predict the binary BACE property.",1,FC(F)Oc1ccc(cc1)[C@@]1(N=C(N)N(C)C1=O)c1cc(ccc1)C#CCCO
+"For the molecule Clc1ccccc1-c1cc(ccc1)C[NH+]1CCC2(N(S(=O)(=O)NC2)c2cc(F)ccc2)CC1C, return whether it is a BACE inhibitor or not.",0,Clc1ccccc1-c1cc(ccc1)C[NH+]1CCC2(N(S(=O)(=O)NC2)c2cc(F)ccc2)CC1C
+"From the SMILES O(C)c1ccccc1C[NH2+]CC(O)C(NC(=O)c1c2cccnc2n(c1)C(=O)N(CCCC)C)Cc1ccccc1, predict the binary BACE property.",0,O(C)c1ccccc1C[NH2+]CC(O)C(NC(=O)c1c2cccnc2n(c1)C(=O)N(CCCC)C)Cc1ccccc1
+Does the structure S1(=O)(=O)N([C@]2(C[C@@H]([N@H+](CC2)Cc2cc(OC(C)C)c(O)cc2)C)CN1C)c1cc(F)ccc1 act as a BACE inhibitor?,1,S1(=O)(=O)N([C@]2(C[C@@H]([N@H+](CC2)Cc2cc(OC(C)C)c(O)cc2)C)CN1C)c1cc(F)ccc1
+Does the structure Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCCN(O)C1)c1cc(ccc1)C(C)(C)C act as a BACE inhibitor?,0,Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCCN(O)C1)c1cc(ccc1)C(C)(C)C
+"From the SMILES O=C1N(C)C(=N[C@@]1(c1cc(ccc1)-c1cncnc1)c1cc(ncc1)C)N, predict the binary BACE property.",1,O=C1N(C)C(=N[C@@]1(c1cc(ccc1)-c1cncnc1)c1cc(ncc1)C)N
+Evaluate the BACE activity of the molecule encoded as S(=O)(=O)(N(C)c1cc2cc(c1)C(=O)NCCC\C=C\COCC(NC2=O)C(O)C[NH2+]Cc1cc(ccc1)C(C)C)C.,0,S(=O)(=O)(N(C)c1cc2cc(c1)C(=O)NCCC\C=C\COCC(NC2=O)C(O)C[NH2+]Cc1cc(ccc1)C(C)C)C
+"From the SMILES Clc1cc2nc(n(c2cc1)CCCC(=O)NCC[NH+]1CCOCC1)N, predict the binary BACE property.",0,Clc1cc2nc(n(c2cc1)CCCC(=O)NCC[NH+]1CCOCC1)N
+What is the BACE property classification for the compound Clc1cc2nc(n(c2cc1)CCCC(=O)N(Cc1cc(F)ccc1)C)N?,0,Clc1cc2nc(n(c2cc1)CCCC(=O)N(Cc1cc(F)ccc1)C)N
+Evaluate the BACE activity of the molecule encoded as O1CCCCOc2nc(cc(c2)C(=O)NC(Cc2cc1ccc2)C(O)C[NH2+]Cc1cc(ccc1)C(C)C)C.,1,O1CCCCOc2nc(cc(c2)C(=O)NC(Cc2cc1ccc2)C(O)C[NH2+]Cc1cc(ccc1)C(C)C)C
+Is the compound represented by S1(=O)(=O)N(CCCC1)c1cc(cc(NCC)c1OC)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]Cc1cc(ccc1)C(F)(F)F a BACE inhibitor?,1,S1(=O)(=O)N(CCCC1)c1cc(cc(NCC)c1OC)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]Cc1cc(ccc1)C(F)(F)F
+Evaluate the BACE activity of the molecule encoded as S(=O)(=O)(C(CCC)CCC)C[C@@H](NC(OCc1ccccc1)=O)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(OC)ccc1)Cc1ccccc1.,0,S(=O)(=O)(C(CCC)CCC)C[C@@H](NC(OCc1ccccc1)=O)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(OC)ccc1)Cc1ccccc1
+"Given the SMILES Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCC(CC1)CCO)c1cc(ccc1)C(C)(C)C, determine if it has BACE inhibition properties.",0,Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCC(CC1)CCO)c1cc(ccc1)C(C)(C)C
+Can you assess whether O(C)c1ccc(cc1)C1(N=C(C)C(=N1)N)c1cc(ccc1)-c1cncnc1 corresponds to a BACE inhibitor?,0,O(C)c1ccc(cc1)C1(N=C(C)C(=N1)N)c1cc(ccc1)-c1cncnc1
+Evaluate the BACE activity of the molecule encoded as Clc1cc(cnc1)-c1cc(ccc1)C12N=C(OC1COCC2)N.,0,Clc1cc(cnc1)-c1cc(ccc1)C12N=C(OC1COCC2)N
+Classify the molecule FC1(F)COC(=NC1(C)c1cc(NC(=O)c2ncc(OCC#C)nc2)ccc1F)N with respect to its BACE inhibitory activity.,1,FC1(F)COC(=NC1(C)c1cc(NC(=O)c2ncc(OCC#C)nc2)ccc1F)N
+Is the compound represented by Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCC(=O)NC1)c1cc(ccc1)C(C)(C)C a BACE inhibitor?,1,Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCC(=O)NC1)c1cc(ccc1)C(C)(C)C
+Evaluate the BACE activity of the molecule encoded as S1(=O)(=O)N(CCCC1)c1cc(cc(NCC)c1)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(ccc1)C(F)(F)F)Cc1ccccc1.,1,S1(=O)(=O)N(CCCC1)c1cc(cc(NCC)c1)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(ccc1)C(F)(F)F)Cc1ccccc1
+"Given the SMILES Fc1ncccc1-c1cc(ccc1)[C@]1([NH+]=C(N2C1=NCCC2)N)c1cc2OC(F)(F)Oc2cc1, determine if it has BACE inhibition properties.",0,Fc1ncccc1-c1cc(ccc1)[C@]1([NH+]=C(N2C1=NCCC2)N)c1cc2OC(F)(F)Oc2cc1
+Evaluate the BACE activity of the molecule encoded as Clc1cc(cc(Cl)c1)-c1cc2c(OC(CC23N=C(N)N(C)C3=O)(C)C)cc1.,1,Clc1cc(cc(Cl)c1)-c1cc2c(OC(CC23N=C(N)N(C)C3=O)(C)C)cc1
+Predict the BACE inhibitor property for the molecule with SMILES: O1CC2(N=C1N)c1cc(ccc1Oc1c2cc(OC)cc1)-c1ccc(cc1)C,0,O1CC2(N=C1N)c1cc(ccc1Oc1c2cc(OC)cc1)-c1ccc(cc1)C
+Does the structure Fc1cc(cc(F)c1)CC(NC(=O)c1cc(cc(c1)C(=O)N(CCC)CCC)C(=O)C)C(O)C[NH2+]Cc1cc(OC)ccc1 act as a BACE inhibitor?,1,Fc1cc(cc(F)c1)CC(NC(=O)c1cc(cc(c1)C(=O)N(CCC)CCC)C(=O)C)C(O)C[NH2+]Cc1cc(OC)ccc1
+"From the SMILES O(CCC)c1cc(ccc1)-c1ccc(cc1)C1CC1C=1N=C(N)N(C)C(=O)C=1, predict the binary BACE property.",0,O(CCC)c1cc(ccc1)-c1ccc(cc1)C1CC1C=1N=C(N)N(C)C(=O)C=1
+Classify the molecule FC(F)(F)c1nccc(c1)C1(N=C(N)c2c1cccc2)c1cc(ccc1)-c1cncnc1 with respect to its BACE inhibitory activity.,0,FC(F)(F)c1nccc(c1)C1(N=C(N)c2c1cccc2)c1cc(ccc1)-c1cncnc1
+"From the SMILES FC(F)Oc1ccc(cc1C)[C@@]1(N=C(N)N(C)C1=O)c1cc(ccc1)C#CC1CC1, predict the binary BACE property.",1,FC(F)Oc1ccc(cc1C)[C@@]1(N=C(N)N(C)C1=O)c1cc(ccc1)C#CC1CC1
+"From the SMILES Fc1cc(cc(F)c1)C[C@H](NC(=O)c1cc(cc(c1)C)C(=O)N(CCC)CCC)[C@@H](O)C[NH2+]Cc1cc(OC)ccc1, predict the binary BACE property.",0,Fc1cc(cc(F)c1)C[C@H](NC(=O)c1cc(cc(c1)C)C(=O)N(CCC)CCC)[C@@H](O)C[NH2+]Cc1cc(OC)ccc1
+Is the compound represented by Fc1cc(cc(F)c1)CC(NC(=O)C(N1CCC(C(C)C)C1=O)CCc1ccccc1)C(O)C[NH2+]Cc1cc(OC)ccc1 a BACE inhibitor?,1,Fc1cc(cc(F)c1)CC(NC(=O)C(N1CCC(C(C)C)C1=O)CCc1ccccc1)C(O)C[NH2+]Cc1cc(OC)ccc1
+Evaluate the BACE activity of the molecule encoded as Fc1ccc(cc1C#N)CC(NC(=O)C)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2.,1,Fc1ccc(cc1C#N)CC(NC(=O)C)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2
+Can you assess whether S(=O)(=O)(N(C)c1cc(cc(c1)C(=O)N[C@H]([C@H](O)C[NH2+]C1CC1)Cc1ccccc1)C(=O)N[C@H](C)c1ccccc1)C corresponds to a BACE inhibitor?,1,S(=O)(=O)(N(C)c1cc(cc(c1)C(=O)N[C@H]([C@H](O)C[NH2+]C1CC1)Cc1ccccc1)C(=O)N[C@H](C)c1ccccc1)C
+Is the compound represented by S1(=O)(=O)N(CCCC1)c1cc(cc(NCC)c1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]C1CCc2c1cc(OC)cc2 a BACE inhibitor?,1,S1(=O)(=O)N(CCCC1)c1cc(cc(NCC)c1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]C1CCc2c1cc(OC)cc2
+Can you assess whether S1(=O)(=O)N(c2cc(cc3c2n(cc3CC)CC1)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(OC)ccc1)Cc1ccccc1)C corresponds to a BACE inhibitor?,1,S1(=O)(=O)N(c2cc(cc3c2n(cc3CC)CC1)C(=O)N[C@H]([C@H](O)C[NH2+]Cc1cc(OC)ccc1)Cc1ccccc1)C
+Can you assess whether S1(=O)CC(Cc2cc(OC(COC)C(F)(F)F)c(N)c(F)c2)C(O)C([NH2+]Cc2cn(nc2)CC(C)(C)C)C1 corresponds to a BACE inhibitor?,1,S1(=O)CC(Cc2cc(OC(COC)C(F)(F)F)c(N)c(F)c2)C(O)C([NH2+]Cc2cn(nc2)CC(C)(C)C)C1
+Predict the BACE inhibitor property for the molecule with SMILES: Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCC(NC(OC)=O)CC1)c1cc(ccc1)C(C)(C)C,0,Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCC(NC(OC)=O)CC1)c1cc(ccc1)C(C)(C)C
+"From the SMILES O(C)c1cc(ccc1)-c1cc(ccc1)C1(N=C(C)C(=N1)N)c1ccncc1, predict the binary BACE property.",0,O(C)c1cc(ccc1)-c1cc(ccc1)C1(N=C(C)C(=N1)N)c1ccncc1
+Does the structure O=C1N(C)C(=NC(=C1)[C@H]1C[C@H]1c1ccc(cc1)-c1cc(ccc1)C)N act as a BACE inhibitor?,0,O=C1N(C)C(=NC(=C1)[C@H]1C[C@H]1c1ccc(cc1)-c1cc(ccc1)C)N
+What is the BACE property classification for the compound Fc1cc(cc(F)c1)-c1cc(ccc1)C1(N=C(N)N(C)C1=O)c1ccncc1?,1,Fc1cc(cc(F)c1)-c1cc(ccc1)C1(N=C(N)N(C)C1=O)c1ccncc1
+Can you assess whether Fc1cc(cc(F)c1)CC(NC(=O)C(N1CCC(NC(=O)C)(C(CC)C)C1=O)CCc1ccccc1)C(O)C[NH2+]Cc1cc(OC)ccc1 corresponds to a BACE inhibitor?,1,Fc1cc(cc(F)c1)CC(NC(=O)C(N1CCC(NC(=O)C)(C(CC)C)C1=O)CCc1ccccc1)C(O)C[NH2+]Cc1cc(OC)ccc1
+Does the structure O=C1N(CCC1)C(C)(C)C1CC(CCC1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]Cc1cc(ccc1)C(C)C act as a BACE inhibitor?,1,O=C1N(CCC1)C(C)(C)C1CC(CCC1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]Cc1cc(ccc1)C(C)C
+Classify the molecule O=C1N(C)C(N[C@@]1(CC1CCCCC1)CCC1CCCCC1)=N with respect to its BACE inhibitory activity.,0,O=C1N(C)C(N[C@@]1(CC1CCCCC1)CCC1CCCCC1)=N
+Evaluate the BACE activity of the molecule encoded as Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CC1)c1occ(n1)C(C)(C)C.,0,Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CC1)c1occ(n1)C(C)(C)C
+"From the SMILES Fc1cc(cc(F)c1)C[C@H](NC(=O)c1cc(cc(c1)C)C(=O)N(CCC)CCC)[C@H](O)[C@@H]1[NH2+]CC[N@@H+](C1)Cc1ccccc1, predict the binary BACE property.",0,Fc1cc(cc(F)c1)C[C@H](NC(=O)c1cc(cc(c1)C)C(=O)N(CCC)CCC)[C@H](O)[C@@H]1[NH2+]CC[N@@H+](C1)Cc1ccccc1
+"From the SMILES O=C1N(C)C(=N[C@]1(c1cc(nc(c1)C)C)c1cc(ccc1)-c1cncnc1)N, predict the binary BACE property.",0,O=C1N(C)C(=N[C@]1(c1cc(nc(c1)C)C)c1cc(ccc1)-c1cncnc1)N
+"Given the SMILES Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCCCC1)c1onc(c1)CC(C)(C)C, determine if it has BACE inhibition properties.",0,Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCCCC1)c1onc(c1)CC(C)(C)C
+Predict the BACE inhibitor property for the molecule with SMILES: Fc1c2c(ccc1)C(N=C2N)(C=1C=C(C)C(=O)N(C=1)CC)c1cc(ccc1)-c1cc(cnc1)C#N,1,Fc1c2c(ccc1)C(N=C2N)(C=1C=C(C)C(=O)N(C=1)CC)c1cc(ccc1)-c1cc(cnc1)C#N
+Predict the BACE inhibitor property for the molecule with SMILES: S1(=O)CC(Cc2cc(O)c(N)c(F)c2)C(O)C([NH2+]Cc2cc(ccc2)C(C)(C)C)C1,0,S1(=O)CC(Cc2cc(O)c(N)c(F)c2)C(O)C([NH2+]Cc2cc(ccc2)C(C)(C)C)C1
+Classify the molecule Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCC(CC1)C)c1cc(ccc1)C(C)(C)C with respect to its BACE inhibitory activity.,1,Fc1cc(cc(F)c1)CC(NC(=O)C)C(O)C[NH2+]C1(CCC(CC1)C)c1cc(ccc1)C(C)(C)C
+"From the SMILES S1(=O)(=O)N(c2cc(cc3c2n(cc3CC)CC1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]C1CCCCC1)CC, predict the binary BACE property.",1,S1(=O)(=O)N(c2cc(cc3c2n(cc3CC)CC1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]C1CCCCC1)CC
+"For the molecule s1cc(nc1N)C(Cc1cc([N+](=O)[O-])ccc1OC)c1ccc(OC)cc1, return whether it is a BACE inhibitor or not.",0,s1cc(nc1N)C(Cc1cc([N+](=O)[O-])ccc1OC)c1ccc(OC)cc1
+Classify the molecule FC(F)Oc1ccc(cc1)[C@@]1(N=C(N)N(C)C1=O)c1cc(ccc1)C#C[C@H](O)C with respect to its BACE inhibitory activity.,1,FC(F)Oc1ccc(cc1)[C@@]1(N=C(N)N(C)C1=O)c1cc(ccc1)C#C[C@H](O)C
+Predict the BACE inhibitor property for the molecule with SMILES: O=C(NCC1CCCCC1)CCc1cc2cc(ccc2nc1N)-c1ccccc1C,1,O=C(NCC1CCCCC1)CCc1cc2cc(ccc2nc1N)-c1ccccc1C
+"For the molecule O1C[C@H](NC(=O)c2cc(cc(c2)[C@@H](O)[NH2+][C@H](C\C=C\C1)c1ccccc1)C)[C@H](O)C[NH2+]Cc1cc(ccc1)C(C)C, return whether it is a BACE inhibitor or not.",1,O1C[C@H](NC(=O)c2cc(cc(c2)[C@@H](O)[NH2+][C@H](C\C=C\C1)c1ccccc1)C)[C@H](O)C[NH2+]Cc1cc(ccc1)C(C)C
+Does the structure n1cc(cnc1)-c1cc(ccc1)C1(N=C(C(C)C)C(=N1)N)c1ccccc1 act as a BACE inhibitor?,0,n1cc(cnc1)-c1cc(ccc1)C1(N=C(C(C)C)C(=N1)N)c1ccccc1
+Evaluate the BACE activity of the molecule encoded as O1c2ncc(cc2C([NH2+]CC(O)C(NC(=O)c2cccnc2)Cc2cc3OCOc3cc2)CC12CCC2)CC(C)(C)C.,1,O1c2ncc(cc2C([NH2+]CC(O)C(NC(=O)c2cccnc2)Cc2cc3OCOc3cc2)CC12CCC2)CC(C)(C)C
+Evaluate the BACE activity of the molecule encoded as Clc1cc(cc(Cl)c1NC(=O)C)CNC(NC(=O)Cn1c2cc(ccc2cc1)C#N)=N.,1,Clc1cc(cc(Cl)c1NC(=O)C)CNC(NC(=O)Cn1c2cc(ccc2cc1)C#N)=N
+Predict the BACE inhibitor property for the molecule with SMILES: O=C(N1CCC(CC1)c1ccccc1)C1C[NH2+]CC1c1ccccc1,0,O=C(N1CCC(CC1)c1ccccc1)C1C[NH2+]CC1c1ccccc1
+Classify the molecule Fc1cc(cc(F)c1)CC(NC(=O)c1cc(cc(c1)C)C(=O)N(CCC)CCC)[C@@H](O)C[NH2+]Cc1cc(OC)ccc1 with respect to its BACE inhibitory activity.,1,Fc1cc(cc(F)c1)CC(NC(=O)c1cc(cc(c1)C)C(=O)N(CCC)CCC)[C@@H](O)C[NH2+]Cc1cc(OC)ccc1
+Does the structure O=C(NCC=C)c1ccc(cc1)-c1n(Cc2nc(N)ccc2)c(cc1)-c1ccccc1 act as a BACE inhibitor?,0,O=C(NCC=C)c1ccc(cc1)-c1n(Cc2nc(N)ccc2)c(cc1)-c1ccccc1
+"For the molecule S(=O)(=O)(N(c1ccccc1)c1cc(cnc1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]Cc1cc(ccc1)C(F)(F)F)C, return whether it is a BACE inhibitor or not.",1,S(=O)(=O)(N(c1ccccc1)c1cc(cnc1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]Cc1cc(ccc1)C(F)(F)F)C
+Does the structure FC(F)Oc1ccc(cc1)[C@@]1(N=C(N)N(C)C1=O)c1cc(ccc1)CCC act as a BACE inhibitor?,1,FC(F)Oc1ccc(cc1)[C@@]1(N=C(N)N(C)C1=O)c1cc(ccc1)CCC
+What is the BACE property classification for the compound O(CCC)c1cc(cc(N2CCCC2=O)c1)C(=O)N[C@H]([C@H](O)C[NH2+][C@H](C(=O)NC1CCCCC1)C)Cc1ccccc1?,0,O(CCC)c1cc(cc(N2CCCC2=O)c1)C(=O)N[C@H]([C@H](O)C[NH2+][C@H](C(=O)NC1CCCCC1)C)Cc1ccccc1
+"Given the SMILES S1(=O)(=O)CC(Cc2cc(OCCC)ccc2)C(O)C([NH2+]Cc2cc(ccc2)C(C)C)C1, determine if it has BACE inhibition properties.",0,S1(=O)(=O)CC(Cc2cc(OCCC)ccc2)C(O)C([NH2+]Cc2cc(ccc2)C(C)C)C1
+Can you assess whether Fc1cc(ccc1)CC(NC(=O)C)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2 corresponds to a BACE inhibitor?,1,Fc1cc(ccc1)CC(NC(=O)C)C(O)C[NH2+]C1CC2(Oc3ncc(cc13)CC(C)(C)C)CCC2
+"For the molecule S1c2c(cc(cc2)-c2cncnc2)C2(N=C(N)N(C)C2=O)CC1(C)C, return whether it is a BACE inhibitor or not.",1,S1c2c(cc(cc2)-c2cncnc2)C2(N=C(N)N(C)C2=O)CC1(C)C
+"For the molecule n1cc(ccc1)-c1cc(ccc1)C1(N=C(C)C(=N1)N)c1ccccc1, return whether it is a BACE inhibitor or not.",0,n1cc(ccc1)-c1cc(ccc1)C1(N=C(C)C(=N1)N)c1ccccc1
+"For the molecule OC(C(NC(=O)C1CC(CCC1)C(NC(=O)C)C(C)C)Cc1ccccc1)CC(C(=O)NCCCC)C, return whether it is a BACE inhibitor or not.",0,OC(C(NC(=O)C1CC(CCC1)C(NC(=O)C)C(C)C)Cc1ccccc1)CC(C(=O)NCCCC)C
+"For the molecule O1C2CCCCC2(N=C1N)c1cc(NC(=O)c2ncccc2)ccc1, return whether it is a BACE inhibitor or not.",0,O1C2CCCCC2(N=C1N)c1cc(NC(=O)c2ncccc2)ccc1
+Predict the BACE inhibitor property for the molecule with SMILES: S(=O)(=O)(CC(NC(OCn1nc(cc1C)C)=O)C(=O)NC(C(O)CC(C(=O)NC(C(C)C)C(=O)NCC(C)C)C)CC(C)C)C,1,S(=O)(=O)(CC(NC(OCn1nc(cc1C)C)=O)C(=O)NC(C(O)CC(C(=O)NC(C(C)C)C(=O)NCC(C)C)C)CC(C)C)C
+Classify the molecule Fc1ncccc1-c1cc(ccc1)C1(N=C(N)N(C)C1=O)c1cn(nc1)C1CCCC1 with respect to its BACE inhibitory activity.,1,Fc1ncccc1-c1cc(ccc1)C1(N=C(N)N(C)C1=O)c1cn(nc1)C1CCCC1
+Predict the BACE inhibitor property for the molecule with SMILES: S(=O)(=O)(N(C)c1cc(cc(c1)COC(=O)[C@]([NH3+])(Cc1ccccc1)C)C(=O)N[C@H](C)c1ccc(F)cc1)C,1,S(=O)(=O)(N(C)c1cc(cc(c1)COC(=O)[C@]([NH3+])(Cc1ccccc1)C)C(=O)N[C@H](C)c1ccc(F)cc1)C
+Can you assess whether Fc1cc(cc(F)c1)C[C@H](NC(=O)C)[C@H](O)C[NH2+]C1(CC1)c1cc(ccc1)C(CF)(C)C corresponds to a BACE inhibitor?,0,Fc1cc(cc(F)c1)C[C@H](NC(=O)C)[C@H](O)C[NH2+]C1(CC1)c1cc(ccc1)C(CF)(C)C
+"For the molecule O=C1N(C)C(=NC1(c1cc(ccc1)-c1cncnc1)c1cn(nc1)CCC(C)(C)C)N, return whether it is a BACE inhibitor or not.",1,O=C1N(C)C(=NC1(c1cc(ccc1)-c1cncnc1)c1cn(nc1)CCC(C)(C)C)N
+"From the SMILES S1(=O)(=O)Nc2cc(cc3c2n(cc3CC)CCC1)C(=O)NC(Cc1ccccc1)C(O)CNc1ccc(OC)cc1, predict the binary BACE property.",1,S1(=O)(=O)Nc2cc(cc3c2n(cc3CC)CCC1)C(=O)NC(Cc1ccccc1)C(O)CNc1ccc(OC)cc1
+Is the compound represented by O(C)c1cc(ccc1)-c1cc(ccc1)CCc1nc(N)ccc1 a BACE inhibitor?,0,O(C)c1cc(ccc1)-c1cc(ccc1)CCc1nc(N)ccc1
+"For the molecule O1C[C@@]2(N=C1N)c1cc(ccc1Oc1c2cc(OC)cc1)-c1cncnc1, return whether it is a BACE inhibitor or not.",0,O1C[C@@]2(N=C1N)c1cc(ccc1Oc1c2cc(OC)cc1)-c1cncnc1
+Can you assess whether S1(=O)(=O)CC(Cc2cc(OCCC)ccc2)C(O)C([NH2+]Cc2cc(ccc2)C(C)(C)C)C1 corresponds to a BACE inhibitor?,0,S1(=O)(=O)CC(Cc2cc(OCCC)ccc2)C(O)C([NH2+]Cc2cc(ccc2)C(C)(C)C)C1
+What is the BACE property classification for the compound Fc1cc(cc(F)c1)CC(NC(=O)c1c2cc(F)ccc2n(c1)C(=O)N(CCCC)C)C(O)C[NH2+]Cc1cc(OC)ccc1?,1,Fc1cc(cc(F)c1)CC(NC(=O)c1c2cc(F)ccc2n(c1)C(=O)N(CCCC)C)C(O)C[NH2+]Cc1cc(OC)ccc1

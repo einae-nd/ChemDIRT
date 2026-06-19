@@ -1,0 +1,168 @@
+question,answer
+"In the reaction where 1 Na+, 1 C4H8O, 1 H-, 1 C6H2F3NO2, 1 C5H4N2S yield HF, C11H5F2N3O2S, H-, Na+, C4H8O, what is the required stoichiometric coefficient for C11H5F2N3O2S?",1
+"Based on the listed reactants (3 C6H15N, 3 CH2Cl2, 3 C26H23NO3S, 3 C4H5ClO) and products (C30H27NO4S, C6H15N, HCl, CH2Cl2), compute the stoichiometric quantity of HCl.",3
+"Based on the listed reactants (4 C6H5Cl2NO, 4 C12H14ClNO3, 4 H2) and products (C6H5Cl2NO, C12H16ClNO3), compute the stoichiometric quantity of C12H16ClNO3.",4
+"Consider the reaction with reactants 1 Cl-, 1 HCl, 1 C6H12O, 1 C8H10 forming products HCl, Cl-, C14H22O. What stoichiometric quantity corresponds to C14H22O?",1
+"Determine how many stoichiometric units of HCl are produced from the reaction involving 5 C5H12O2, 5 H-, 5 H2O, 5 Na+, 5 C7H4ClN3S, 5 C4H8O.",5
+"Reactants: 5 C6H10ClNO, 5 CH2Cl2, 5 HCl, 5 C22H22N2O, 5 C6H15N
+Products: C6H15N, HCl, CH2Cl2, C28H31N3O2, HCl
+What is the stoichiometric coefficient of C28H31N3O2?",5
+"From the reaction defined by reactants 4 H2, 4 C21H26N2O3S, 4 H4B-, 4 Na+ and products Na+, C21H28N2O3S, H4B-, calculate the stoichiometric quantity of C21H28N2O3S.",4
+"In the reaction where 2 H4B-, 2 CH4O, 2 C17H17NO4, 2 H2, 2 H2O, 2 H2, 2 Na+ yield CH4O, H2, C17H19NO4, H2O, H4B-, Na+, what is the required stoichiometric coefficient for C17H19NO4?",2
+"Given the following reaction:
+Reactants: 5 C2H4BrNO, 5 C18H13ClF3N3O2, 5 K+, 5 K+, 5 C3H6O, 5 CO3-2
+Products: K+, C20H16ClF3N4O3, CO3-2, K+, C3H6O, HBr
+Determine the stoichiometric amount of C20H16ClF3N4O3.",5
+"Based on the listed reactants (4 C3H7NO, 4 C12H14ClF3, 4 Cs+, 4 C17H21NO3, 4 CO3-2, 4 Cs+) and products (CO3-2, C29H34F3NO3, C3H7NO, Cs+, Cs+, HCl), compute the stoichiometric quantity of HCl.",4
+"From the reaction defined by reactants 5 C7H6FN, 5 K+, 5 HO-, 5 C5H9NO, 5 C13H16N2 and products K+, C20H22FN3, C5H9NO, HO-, calculate the stoichiometric quantity of C20H22FN3.",5
+"For the chemical transformation involving 4 C8H19N, 4 C17H20N2, 4 H2O, 4 C3H7BrO, 4 C4H8O2 → HBr, H2O, C8H19N, C20H26N2O, C4H8O2, what is the stoichiometric coefficient associated with C20H26N2O?",4
+"In the reaction where 3 HCl, 3 C7H8, 3 C6H13NO2S, 3 C8H19N, 3 C16H15NO2S yield C22H28N2O4S2, HCl, C7H8, C8H19N, what is the required stoichiometric coefficient for C22H28N2O4S2?",3
+"Determine how many stoichiometric units of C21H26N4O3 are produced from the reaction involving 5 C15H21NO3, 5 C6H5N3.",5
+"Consider the reaction with reactants 2 C2H2IN, 2 C2H5O-, 2 C11H13NO2, 2 C2H6O, 2 Na+ forming products C2H5O-, Na+, C13H14N2O2, HI, C2H6O. What stoichiometric quantity corresponds to C13H14N2O2?",2
+"From the reaction defined by reactants 3 Na+, 3 CO3-2, 3 Na+, 3 C7H8O2, 3 C7H4ClFO, 3 C4H9NO, 3 CH2Cl2, 3 H2O and products Na+, CO3-2, CH2Cl2, H2O, Na+, HF, C14H11ClO3, C4H9NO, calculate the stoichiometric quantity of HF.",3
+"Using the given reaction specification:
+Reactants: 2 C2H6OS, 2 Cs+, 2 Cs+, 2 HCl, 2 C4H2ClIN2, 2 CO3-2, 2 H2O, 2 C20H15N3O
+Products: Cs+, HCl, CO3-2, C24H16IN5O, Cs+, C2H6OS, HCl, H2O
+Identify the stoichiometric amount of C24H16IN5O.",2
+"Determine how many stoichiometric units of C18H23NO4 are produced from the reaction involving 2 C7H13BrO2, 2 C11H10NO2-, 2 C10H9NO2, 2 O.",2
+"Consider the reaction with reactants 3 H2O, 3 Pd+2, 3 C2H3O2-, 3 CHO3-, 3 Na+, 3 C20H19BrN2O2, 3 C6H14N2, 3 C2H3O2-, 3 Na+, 3 C4H9O-, 3 C7H8 forming products C7H8, C4H9O-, C2H3O2-, Pd+2, CHO3-, Na+, C2H3O2-, H2O, HBr, C26H32N4O2, Na+. What stoichiometric quantity corresponds to HBr?",3
+"From the reaction defined by reactants 5 C2H3N, 5 C8H5ClF3NO, 5 C6H15N, 5 C10H14O5, 5 CKN and products C2H3N, HCl, C6H15N, CKN, C18H18F3NO6, calculate the stoichiometric quantity of HCl.",5
+"Using the given reaction specification:
+Reactants: 4 Na+, 4 CHO3-, 4 H2O, 4 HCl, 4 C9H7ClN4, 4 C13H10FN3O
+Products: H2O, CHO3-, HCl, HCl, C22H16FN7O, Na+
+Identify the stoichiometric amount of C22H16FN7O.",4
+"In the reaction where 2 H-, 2 C7H7Br, 2 C11H10Cl2N2O, 2 C3H7NO, 2 C4H8O2, 2 Na+ yield C3H7NO, C4H8O2, H-, C18H16Cl2N2O, HBr, Na+, what is the required stoichiometric coefficient for HBr?",2
+"What is the balanced stoichiometric coefficient for HBr in the reaction with reactants 5 H-, 5 C8H6BrNO, 5 C3H7NO, 5 Na+, 5 H4N+, 5 Cl-, 5 C9H11NO3 and products C3H7NO, HBr, H-, C17H16N2O4, Na+, Cl-, H4N+?",5
+"In the reaction where 3 C12H11BrN4O2, 3 H3N yield HBr, C12H13N5O2, what is the required stoichiometric coefficient for C12H13N5O2?",3
+"Using the given reaction specification:
+Reactants: 5 C3H6O, 5 C11H8N2
+Products: C14H14N2O
+Identify the stoichiometric amount of C14H14N2O.",5
+"From the reaction defined by reactants 5 C5H9Br, 5 C3H6O, 5 K+, 5 C3H2O2, 5 CO3-2, 5 K+ and products HBr, K+, C3H6O, CO3-2, K+, C8H10O2, calculate the stoichiometric quantity of C8H10O2.",5
+"In the reaction where 2 C10H17Br, 2 CH4O, 2 C8H10S, 2 Na yield CH4O, HBr, Na, C18H26S, what is the required stoichiometric coefficient for HBr?",2
+"Consider the reaction with reactants 5 C10H15NO2, 5 C3H5ClO3, 5 C5H9ClO3, 5 C3H9N forming products C10H15NO2, C8H17NO3, C3H5ClO3, HCl. What stoichiometric quantity corresponds to HCl?",5
+"What is the balanced stoichiometric coefficient for HBr in the reaction with reactants 3 K+, 3 K+, 3 C3H6BrCl, 3 C7H5ClO2, 3 C2H3N, 3 CO3-2 and products K+, HBr, K+, C2H3N, CO3-2, C10H10Cl2O2?",3
+"Determine how many stoichiometric units of C15H21NO2S are produced from the reaction involving 1 C3H5Br, 1 C12H17NO2S.",1
+"Using the given reaction specification:
+Reactants: 4 C4H8O2, 4 CN-, 4 H2O, 4 C2H6O, 4 K+, 4 C, 4 C7H5Br2F
+Products: H2O, C8H5BrFN, CBr-, C4H8O2, K+, C2H6O
+Identify the stoichiometric amount of CBr-.",4
+"Using the given reaction specification:
+Reactants: 1 Na+, 1 CH4O, 1 HCl, 1 C8H8N2O3, 1 H2, 1 H4B-
+Products: C8H10N2O3, HCl, CH4O, Na+, H4B-
+Identify the stoichiometric amount of C8H10N2O3.",1
+"Using the given reaction specification:
+Reactants: 4 CH3O-, 4 C2H6O4P-, 4 Na+, 4 H, 4 CH4O, 4 C10H12O4, 4 C2HF3O2
+Products: Na+, C2HF3O2, CH4O, C12H19O7P, O-, CH3O-
+Identify the stoichiometric amount of O-.",4
+"Determine how many stoichiometric units of C28H31N5O are produced from the reaction involving 4 C11H18N2, 4 C2H6O, 4 C17H14ClN3O.",4
+"What is the balanced stoichiometric coefficient for C12H18BrN3 in the reaction with reactants 4 C6H14N2, 4 C7H8O3S, 4 C4H8O2, 4 H2O, 4 C6H5Br2N and products C12H18BrN3, H2O, C4H8O2, C7H8O3S, HBr?",4
+"In the reaction where 2 C3H7NO, 2 H-, 2 C18H16F3NO3, 2 HCl, 2 Na+, 2 C6H12ClN, 2 H2O yield Na+, C3H7NO, H2O, H-, HCl, HCl, C24H27F3N2O3, what is the required stoichiometric coefficient for C24H27F3N2O3?",2
+"Determine how many stoichiometric units of HF are produced from the reaction involving 4 Cs+, 4 C7H6BrN3, 4 H2O, 4 CO3-2, 4 Cs+, 4 C4H9NO, 4 Br-, 4 C5H4FN.",4
+"Consider the reaction with reactants 4 CHO3-, 4 HF, 4 Na+, 4 C5H5N, 4 CH2Cl2, 4 C14H17NO3 forming products CHO3-, C5H5N, CH2Cl2, C14H18FNO3, Na+. What stoichiometric quantity corresponds to C14H18FNO3?",4
+"Using the given reaction specification:
+Reactants: 4 C2H4O2, 4 CH4O, 4 C12H16N2O2, 4 C10H17NO3
+Products: CH4O, C22H33N3O4, O, C2H4O2
+Identify the stoichiometric amount of C22H33N3O4.",4
+"What is the balanced stoichiometric coefficient for C18H14F3N5O3 in the reaction with reactants 1 C10H5ClF3N3, 1 C8H10N2O3 and products HCl, C18H14F3N5O3?",1
+"Consider the reaction with reactants 2 H-, 2 C4H10O, 2 C21H20ClNO2, 2 H2, 2 H-, 2 H-, 2 Li+, 2 Al+3, 2 H- forming products O, H-, C4H10O, Li+, H-, H-, C21H22ClNO, H-, Al+3. What stoichiometric quantity corresponds to C21H22ClNO?",2
+"Based on the listed reactants (3 C4H8O, 3 C12H27ClSn, 3 C4H9Li, 3 C10H9NS) and products (HCl, C4H8O, C22H35NSSn, C4H9Li), compute the stoichiometric quantity of HCl.",3
+"Using the given reaction specification:
+Reactants: 3 H2O, 3 H2, 3 H4B-, 3 CH4O, 3 C10H11NO, 3 Na+
+Products: H2O, CH4O, C10H13NO, H4B-, Na+
+Identify the stoichiometric amount of C10H13NO.",3
+"For the chemical transformation involving 2 C11H8FIS, 2 Br-, 2 CH3Mg+ → C12H11FS, Br-, IMg+, what is the stoichiometric coefficient associated with C12H11FS?",2
+"For the chemical transformation involving 4 C10H8ClN, 4 H-, 4 Na+, 4 C3H7NO, 4 C6H5NO3 → C3H7NO, Na+, C16H12N2O3, H-, HCl, what is the stoichiometric coefficient associated with HCl?",4
+"What is the balanced stoichiometric coefficient for C11H16O7 in the reaction with reactants 2 C6H9ClO3, 2 C5H8O4 and products C11H16O7, HCl?",2
+"Consider the reaction with reactants 4 CH4O, 4 H2, 4 H3B, 4 C4H8O, 4 C8H7NO4 forming products C4H8O, C8H9NO3, CH4O, O, H3B. What stoichiometric quantity corresponds to C8H9NO3?",4
+"Based on the listed reactants (3 C12H12N2O2, 3 H-, 3 Na+, 3 C3H7NO, 3 H4N+, 3 CH3I, 3 Cl-, 3 H2O) and products (C3H7NO, HI, H-, C13H14N2O2, H2O, Cl-, H4N+, Na+), compute the stoichiometric quantity of C13H14N2O2.",3
+"In the reaction where 1 C3H7NO, 1 C10H20N2O, 1 C8H19N, 1 HCl, 1 C9H8FNO2, 1 HCl yield C8H19N, HCl, HCl, C3H7NO, HF, C19H27N3O3, what is the required stoichiometric coefficient for HF?",1
+"From the reaction defined by reactants 4 C18H16BrFOS, 4 C5H13NO and products HBr, C23H28FNO2S, calculate the stoichiometric quantity of HBr.",4
+"In the reaction where 2 Na+, 2 C6H14, 2 C2H6O, 2 C2H6S, 2 HO, 2 HO-, 2 H2O2, 2 C8H16O, 2 H3B, 2 H2O yield C2H6O, H2O, Na+, O-, H2O2, C2H6S, C6H14, C8H18O2, H3B, what is the required stoichiometric coefficient for C8H18O2?",2
+"Using the given reaction specification:
+Reactants: 5 C7H8O3S, 5 CO3-2, 5 C3H7NO, 5 K+, 5 H2O, 5 K+, 5 C6H4BrFN2O2
+Products: H2O, K+, C3H7NO, CO3-2, K+, C13H11BrN2O5S, HF
+Identify the stoichiometric amount of C13H11BrN2O5S.",5
+"Using the given reaction specification:
+Reactants: 4 C4H8O, 4 C10H13NO3, 4 H2O, 4 Na+, 4 C8H7ClO, 4 HO-
+Products: C4H8O, H2O, HCl, HO-, Na+, C18H19NO4
+Identify the stoichiometric amount of HCl.",4
+"Based on the listed reactants (2 C15H18O5, 2 CH2Cl2) and products (C15H16O5, H2, CH2Cl2), compute the stoichiometric quantity of C15H16O5.",2
+"What is the balanced stoichiometric coefficient for C22H34N6S2 in the reaction with reactants 1 C19H31ClN4, 1 C3H4N2S2, 1 HCl and products HCl, C22H34N6S2, HCl?",1
+"What is the balanced stoichiometric coefficient for N2 in the reaction with reactants 4 C23H17F4N3O, 4 CH4O, 4 H2 and products C23H19F4NO, N2, CH4O?",4
+"From the reaction defined by reactants 3 H2O, 3 C3H7NO, 3 Na+, 3 C2H5I, 3 H-, 3 C10H9NO2 and products HI, C12H13NO2, H-, C3H7NO, H2O, Na+, calculate the stoichiometric quantity of C12H13NO2.",3
+"Given the following reaction:
+Reactants: 4 Zn+2, 4 C4H9Li, 4 H2O, 4 C7H3BrF4O, 4 C6H14, 4 Cl-, 4 C4H8O, 4 C15H16F2N2, 4 Cl-
+Products: Cl-, Zn+2, C4H9Li, Cl-, HBr, C22H18F6N2O, H2O, C4H8O, C6H14
+Determine the stoichiometric amount of HBr.",4
+"For the chemical transformation involving 3 C7H6FNO2S, 3 C5H5N, 3 C3H5ClO2 → HCl, C10H10FNO4S, C5H5N, what is the stoichiometric coefficient associated with C10H10FNO4S?",3
+"From the reaction defined by reactants 3 C5H5N, 3 C4H11NO, 3 H-, 3 C6H4F2N2O2, 3 Na+ and products H-, C5H5N, C10H14FN3O3, Na+, HF, calculate the stoichiometric quantity of HF.",3
+"In the reaction where 3 H, 3 CH3Li, 3 C13H22O4 yield C14H26O4, Li, what is the required stoichiometric coefficient for Li?",3
+"From the reaction defined by reactants 2 H2, 2 C7H8, 2 C2H6S, 2 C19H31NO5, 2 HCl, 2 H3B, 2 CH4O, 2 C18H31NO4S and products CH4O, HCl, C19H33NO5, H3B, C18H31NO4S, C7H8, C2H6S, calculate the stoichiometric quantity of C19H33NO5.",2
+"Reactants: 1 C5H3Br2N, 1 CH3O-, 1 C3H7NO, 1 Na+, 1 O
+Products: C3H7NO, Na+, BrO-, C6H6BrNO
+What is the stoichiometric coefficient of C6H6BrNO?",1
+"Consider the reaction with reactants 1 C2H6O, 1 CH2Cl2, 1 H3B, 1 Na, 1 C4H8O, 1 H2, 1 C17H16O3 forming products Na, C17H18O3, C4H8O, CH2Cl2, C2H6O, H3B. What stoichiometric quantity corresponds to C17H18O3?",1
+"For the chemical transformation involving 3 H2, 3 C12H12F4N2O3, 3 CHCl3, 3 H2O, 3 CH4O → CHCl3, H2O, CH4O, C12H14F4N2O3, what is the stoichiometric coefficient associated with C12H14F4N2O3?",3
+"Reactants: 4 C4H3ClO2S2, 4 C17H18FN5S
+Products: C21H20FN5O2S3, HCl
+What is the stoichiometric coefficient of C21H20FN5O2S3?",4
+"Based on the listed reactants (1 C8H19N, 1 C2HF3O2, 1 C2H3N, 1 C18H21FN4O3S, 1 C10H9ClN2O2) and products (C28H29FN6O5S, HCl, C2H3N, C8H19N, C2HF3O2), compute the stoichiometric quantity of HCl.",1
+"Given the following reaction:
+Reactants: 5 K+, 5 C6H4Cl2, 5 K+, 5 C7H7I, 5 Cu, 5 CO3-2, 5 C12H9N
+Products: Cu, K+, HI, CO3-2, K+, C19H15N, C6H4Cl2
+Determine the stoichiometric amount of C19H15N.",5
+"From the reaction defined by reactants 4 C4H11N, 4 C8H7ClN2O4, 4 C2H6O and products C12H17N3O4, C2H6O, HCl, calculate the stoichiometric quantity of HCl.",4
+"Reactants: 4 C4H4O3, 4 C7H10N2, 4 C7H10N2, 4 CH2Cl2
+Products: C7H10N2, C11H14N2O3, CH2Cl2
+What is the stoichiometric coefficient of C11H14N2O3?",4
+"Consider the reaction with reactants 5 C10H16O2S, 5 C13H21ClN4 forming products C23H36N4O2S, HCl. What stoichiometric quantity corresponds to C23H36N4O2S?",5
+"From the reaction defined by reactants 4 C15H18ClNO2, 4 C11H17NO2 and products C26H34N2O4, HCl, calculate the stoichiometric quantity of C26H34N2O4.",4
+"Consider the reaction with reactants 4 C8H8O3, 4 C3H6O, 4 K+, 4 C2H4Br2, 4 K+, 4 CO3-2 forming products HBr, CO3-2, C10H11BrO3, K+, C3H6O, K+. What stoichiometric quantity corresponds to HBr?",4
+"In the reaction where 3 Cs+, 3 C31H29BrFNO4S, 3 C3H7NO, 3 C4H8O2, 3 CO3-2, 3 Cs+ yield CO3-2, C31H28FNO4S, HBr, C4H8O2, Cs+, Cs+, C3H7NO, what is the required stoichiometric coefficient for HBr?",3
+"Using the given reaction specification:
+Reactants: 5 C26H23N3O3S, 5 CH2Cl2, 5 C3H7NO, 5 CH4O, 5 C2H4Br2, 5 K+, 5 K+, 5 CO3-2, 5 H2O
+Products: HBr, C3H7NO, H2O, CH2Cl2, K+, CO3-2, CH4O, C28H26BrN3O3S, K+
+Identify the stoichiometric amount of HBr.",5
+"Reactants: 1 Cl-, 1 C16H7BrF4N2O2, 1 C5H9ClO, 1 C3H7Mg+, 1 C4H8O
+Products: Cl-, BrCl, C21H16F4N2O3, C4H8O, C3H7Mg+
+What is the stoichiometric coefficient of C21H16F4N2O3?",1
+"In the reaction where 3 HCl, 3 C13H12ClN5O3, 3 C8H12N2, 3 C4H10O yield HCl, HCl, C21H23N7O3, C4H10O, what is the required stoichiometric coefficient for C21H23N7O3?",3
+"Based on the listed reactants (2 I-, 2 C5H11N, 2 K+, 2 C23H29ClFN3O7S3, 2 C3H7NO) and products (I-, K+, HCl, C28H39FN4O7S3, C3H7NO), compute the stoichiometric quantity of HCl.",2
+"For the chemical transformation involving 4 C3H4N2, 4 H2O, 4 CH2Cl2, 4 C6H5F3O2, 4 C9H21ClSi, 4 C7H10O2 → H2O, C3H4N2, CH2Cl2, C15H25F3O2Si, C7H10O2, HCl, what is the stoichiometric coefficient associated with HCl?",4
+"What is the balanced stoichiometric coefficient for C12H24N2O in the reaction with reactants 1 C6H11NO, 1 C6H13N, 1 HCl and products HCl, C12H24N2O?",1
+"Using the given reaction specification:
+Reactants: 1 C9H10ClFO, 1 C3H7NO, 1 CO3-2, 1 Na+, 1 Na+, 1 C10H15NO2, 1 H2O
+Products: Na+, C19H24FNO3, H2O, C3H7NO, Na+, HCl, CO3-2
+Identify the stoichiometric amount of HCl.",1
+"In the reaction where 2 C11H18IN3O2, 2 C7H4ClNS yield HI, C18H21ClN4O2S, what is the required stoichiometric coefficient for HI?",2
+"Given the following reaction:
+Reactants: 5 H3B, 5 H2O, 5 C9H11NO2, 5 C4H8O, 5 H2, 5 C4H8O, 5 HCl
+Products: H3B, C9H13NO, C4H8O, C4H8O, H2O, O, HCl
+Determine the stoichiometric amount of O.",5
+"Determine how many stoichiometric units of C8H7N3OS are produced from the reaction involving 5 C4H6N2, 5 C3H7NO, 5 K+, 5 K+, 5 CO3-2, 5 C4H2BrNOS.",5
+"From the reaction defined by reactants 2 Na+, 2 CHO3-, 2 C6H5I, 2 C16H15N3O and products HI, CHO3-, C22H19N3O, Na+, calculate the stoichiometric quantity of C22H19N3O.",2
+"Consider the reaction with reactants 1 C31H33N3O2, 1 C3H7I forming products HI, C34H39N3O2. What stoichiometric quantity corresponds to C34H39N3O2?",1
+"Based on the listed reactants (1 C6H15N, 1 CH2Cl2, 1 C14H16ClN3O2, 1 C7H8ClN, 1 HCl) and products (C21H23ClN4O2, HCl, C6H15N, HCl, CH2Cl2), compute the stoichiometric quantity of C21H23ClN4O2.",1
+"In the reaction where 4 C19H19NO3S, 4 C5H11NO2 yield C5H11NO2, H2, C19H17NO3S, what is the required stoichiometric coefficient for H2?",4
+"For the chemical transformation involving 1 C19H16ClN3O2S, 1 C2H7N, 1 CH2Cl2, 1 C6H15N, 1 HCl → CH2Cl2, HCl, C21H22N4O2S, HCl, C6H15N, what is the stoichiometric coefficient associated with C21H22N4O2S?",1
+"From the reaction defined by reactants 4 C3H5BrO2, 4 C24H20F3N5O2 and products HBr, C27H24F3N5O4, calculate the stoichiometric quantity of HBr.",4
+"Consider the reaction with reactants 2 C9H13N, 2 C8H6ClNO3, 2 H2O, 2 C4H8O forming products HCl, H2O, C4H8O, C17H18N2O3. What stoichiometric quantity corresponds to HCl?",2
+"Consider the reaction with reactants 1 C5H6N+, 1 H2O, 1 ClCrO3-, 1 C12H10F4N2O, 1 C2H3N forming products C12H8F4N2O, ClCrO3-, C2H3N, C5H6N+, H2, H2O. What stoichiometric quantity corresponds to H2?",1
+"Given the following reaction:
+Reactants: 3 C9H20O, 3 HCl, 3 C15H16ClNO3, 3 CH2Cl2
+Products: CH2Cl2, C24H36ClNO4, HCl
+Determine the stoichiometric amount of C24H36ClNO4.",3
+"From the reaction defined by reactants 2 H2O, 2 C10H6Cl2N2, 2 H4N2, 2 C4H10O, 2 CH3NO2 and products C10H9ClN4, CH3NO2, C4H10O, H2O, HCl, calculate the stoichiometric quantity of HCl.",2
+"What is the balanced stoichiometric coefficient for HCl in the reaction with reactants 4 H2O, 4 Cl-, 4 Cl-, 4 Na+, 4 Cl-, 4 C2HF3O2, 4 In+3, 4 C6H5Br, 4 HO-, 4 C6H5ClO2S, 4 CHF3O3S and products C2HF3O2, Cl-, HCl, Cl-, HO-, In+3, Na+, Cl-, C12H9BrO2S, CHF3O3S, H2O?",4
+"Given the following reaction:
+Reactants: 2 C10H18O2, 2 H2, 2 N2, 2 C2H6O
+Products: C10H20O2, N2, C2H6O
+Determine the stoichiometric amount of C10H20O2.",2
+"Determine how many stoichiometric units of C8H9ClO are produced from the reaction involving 3 C7H6O, 3 C8H7ClO, 3 H2.",3
+"Given the following reaction:
+Reactants: 2 C15H14Cl2N4O, 2 HCl, 2 C3H6O, 2 HCl
+Products: C6H6ClN, C3H6O, C9H9Cl2N3O, HCl
+Determine the stoichiometric amount of C6H6ClN.",2
+"What is the balanced stoichiometric coefficient for C16H15NO in the reaction with reactants 1 C7H4BrN, 1 C9H12O and products C16H15NO, HBr?",1
+"Determine how many stoichiometric units of C21H20FN3O2 are produced from the reaction involving 1 H4B-, 1 Na+, 1 CH4O, 1 C13H10N2O3, 1 C8H10FN.",1

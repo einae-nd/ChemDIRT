@@ -1,0 +1,101 @@
+prompt,gt,smiles
+Is the compound Cc1c(C#N)c(N)nc(S)c1C#N active against HIV?,0,Cc1c(C#N)c(N)nc(S)c1C#N
+Is the compound CC(CC1(O)C(=O)Nc2ccccc21)=NO active against HIV?,0,CC(CC1(O)C(=O)Nc2ccccc21)=NO
+"For the molecule O=C(O)c1ccccc1CC1Cc2ccccc2C1, return whether it is an HIV inhibitor or not.",0,O=C(O)c1ccccc1CC1Cc2ccccc2C1
+What is the HIV property classification for the compound COc1cc(CC(=O)c2ccc3c(c2)OCO3)cc(OC)c1OC?,0,COc1cc(CC(=O)c2ccc3c(c2)OCO3)cc(OC)c1OC
+Evaluate the HIV activity of the molecule encoded as CN1CC(c2ccccc2)N(CCCCN2CC(c3ccccc3)N(C)CC2c2ccccc2)CC1c1ccccc1.,0,CN1CC(c2ccccc2)N(CCCCN2CC(c3ccccc3)N(C)CC2c2ccccc2)CC1c1ccccc1
+Evaluate the HIV activity of the molecule encoded as CCCCc1c2c(nc3c1CCc1cc(C=O)c(N)nc1-3)C(=Cc1ccccc1)CCC2.Cl.,0,CCCCc1c2c(nc3c1CCc1cc(C=O)c(N)nc1-3)C(=Cc1ccccc1)CCC2.Cl
+Evaluate the HIV activity of the molecule encoded as C=C(C=NN(C)C)CC1c2c(O)ccc3cccc(c23)N1S(=O)(=O)c1ccc(C)cc1.,0,C=C(C=NN(C)C)CC1c2c(O)ccc3cccc(c23)N1S(=O)(=O)c1ccc(C)cc1
+Is the compound COc1ccc(CCN2COc3ccc4ccc(=O)oc4c3C2)cc1OC active against HIV?,0,COc1ccc(CCN2COc3ccc4ccc(=O)oc4c3C2)cc1OC
+Predict the HIV inhibitor property for the molecule with SMILES: CCn1cc(C(=O)O)c(=O)c2cc3c(cc21)CCO3,0,CCn1cc(C(=O)O)c(=O)c2cc3c(cc21)CCO3
+Evaluate the HIV activity of the molecule encoded as CCOC(=O)c1cc(C2CCN(c3ccccc3)C2=O)c(C(=O)C=C(C)O)[nH]1.,0,CCOC(=O)c1cc(C2CCN(c3ccccc3)C2=O)c(C(=O)C=C(C)O)[nH]1
+Evaluate the HIV activity of the molecule encoded as O=c1c(Sc2c(O)c3ccccc3c3ccccc3c2=O)c(O)c2ccccc2c2ccccc12.,0,O=c1c(Sc2c(O)c3ccccc3c3ccccc3c2=O)c(O)c2ccccc2c2ccccc12
+Classify the molecule Br.CN(C)CCSc1nccc(-c2ccc(-c3ccnc(SCCN(C)C)n3)s2)n1 with respect to its HIV inhibitory activity.,0,Br.CN(C)CCSc1nccc(-c2ccc(-c3ccnc(SCCN(C)C)n3)s2)n1
+"Given the SMILES Cn1c2ccccc2n2c3nc4ccccc4nc3c(C#N)c12, determine if it has HIV inhibition properties.",0,Cn1c2ccccc2n2c3nc4ccccc4nc3c(C#N)c12
+Does the structure O=C(CC(=O)C(=O)CC(=O)OCc1ccccc1)OCc1ccccc1 inhibit HIV?,0,O=C(CC(=O)C(=O)CC(=O)OCc1ccccc1)OCc1ccccc1
+Evaluate the HIV activity of the molecule encoded as CCOC(=O)c1cn(-c2ccccc2)c(=S)n2c1nc1ccccc12.,0,CCOC(=O)c1cn(-c2ccccc2)c(=S)n2c1nc1ccccc12
+"Given the SMILES CC(C)C(=O)Oc1cc2c(=O)oc3c(OC(=O)C(C)C)c(OC(=O)C(C)C)cc4c(=O)oc(c1OC(=O)C(C)C)c2c34, determine if it has HIV inhibition properties.",0,CC(C)C(=O)Oc1cc2c(=O)oc3c(OC(=O)C(C)C)c(OC(=O)C(C)C)cc4c(=O)oc(c1OC(=O)C(C)C)c2c34
+What is the HIV property classification for the compound CN1CN(c2ccccc2)C2(CCNCC2)C1=O?,0,CN1CN(c2ccccc2)C2(CCNCC2)C1=O
+Evaluate the HIV activity of the molecule encoded as CC(=O)OCC12C(OC(C)=O)CC(C)C3(CC(c4ccoc4)OC3=O)C1CCC(O)C21CO1.,0,CC(=O)OCC12C(OC(C)=O)CC(C)C3(CC(c4ccoc4)OC3=O)C1CCC(O)C21CO1
+Can you assess whether CCCCCCCCOCC(COC(=O)CCCCCCC)OC(=O)CCCCCCC corresponds to an HIV inhibitor?,0,CCCCCCCCOCC(COC(=O)CCCCCCC)OC(=O)CCCCCCC
+Evaluate the HIV activity of the molecule encoded as OCCN1OCCCC1c1ccccc1.,0,OCCN1OCCCC1c1ccccc1
+"Given the SMILES CCOc1ccccc1N=NC1C(=O)N(C(=O)CC(=O)Nc2ccccc2Cl)N=C1C, determine if it has HIV inhibition properties.",0,CCOc1ccccc1N=NC1C(=O)N(C(=O)CC(=O)Nc2ccccc2Cl)N=C1C
+Evaluate the HIV activity of the molecule encoded as Cc1cc(N(CCC#N)CCC#N)ccc1C(N=Nc1ccc(C(=O)O)cc1)=NNC(=O)c1ccccc1.,0,Cc1cc(N(CCC#N)CCC#N)ccc1C(N=Nc1ccc(C(=O)O)cc1)=NNC(=O)c1ccccc1
+Classify the molecule O=c1oc2c(cc1O)oc(=O)c1cc(O)c(O)c(O)c12 with respect to its HIV inhibitory activity.,0,O=c1oc2c(cc1O)oc(=O)c1cc(O)c(O)c(O)c12
+Is the compound O=C1NC(N2CCOCC2)=NC1=Cc1ccc(O)cc1 active against HIV?,0,O=C1NC(N2CCOCC2)=NC1=Cc1ccc(O)cc1
+What is the HIV property classification for the compound COc1ccc(C(=O)C(C(=O)C(=O)NC2C3CC4CC(C3)CC2C4)c2ccc(OC)cc2)cc1?,0,COc1ccc(C(=O)C(C(=O)C(=O)NC2C3CC4CC(C3)CC2C4)c2ccc(OC)cc2)cc1
+"For the molecule CN(C)c1ccc(C=Nc2ccc(S(N)(=O)=O)cc2)cc1, return whether it is an HIV inhibitor or not.",0,CN(C)c1ccc(C=Nc2ccc(S(N)(=O)=O)cc2)cc1
+Can you assess whether CCN(CC)CCOc1cccc(C=C(C#N)c2ccccc2)c1 corresponds to an HIV inhibitor?,0,CCN(CC)CCOc1cccc(C=C(C#N)c2ccccc2)c1
+What is the HIV property classification for the compound COc1ccc2c(c1)NC(=O)C(O)(Cc1ccccc1)C2=O?,0,COc1ccc2c(c1)NC(=O)C(O)(Cc1ccccc1)C2=O
+Evaluate the HIV activity of the molecule encoded as Cl.Cn1c2ccccc2c(=O)c2c([N+](=O)[O-])ccc(NCCN)c21.,0,Cl.Cn1c2ccccc2c(=O)c2c([N+](=O)[O-])ccc(NCCN)c21
+Can you assess whether O=C(O)C1Cc2ccccc2OC1=O corresponds to an HIV inhibitor?,0,O=C(O)C1Cc2ccccc2OC1=O
+Does the structure CC(CC(=O)Nc1ccc(C)c(C)c1)=NNC(N)=S inhibit HIV?,0,CC(CC(=O)Nc1ccc(C)c(C)c1)=NNC(N)=S
+"From the SMILES COc1cccc2c1N(COC(C)=O)C(=O)C1C=CC(C)(C)OC21, predict the binary HIV property.",0,COc1cccc2c1N(COC(C)=O)C(=O)C1C=CC(C)(C)OC21
+"For the molecule Cc1ccnc(NS(=O)(=O)c2ccc(N=Nc3c(N)n(C)c(=O)n(C)c3=O)cc2)n1, return whether it is an HIV inhibitor or not.",0,Cc1ccnc(NS(=O)(=O)c2ccc(N=Nc3c(N)n(C)c(=O)n(C)c3=O)cc2)n1
+Does the structure C1COCCOCCOCCOCCOCCO1.C[Sn](C)(Cl)Cl inhibit HIV?,0,C1COCCOCCOCCOCCOCCO1.C[Sn](C)(Cl)Cl
+What is the HIV property classification for the compound CCOP(=O)(OCC)C1CCCCOC1=O?,0,CCOP(=O)(OCC)C1CCCCOC1=O
+"From the SMILES Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=[N+]([O-])C2, predict the binary HIV property.",0,Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=[N+]([O-])C2
+Classify the molecule Cc1ccc(S(=O)(=O)NN=C2C3C(CC2(C)C)C2(C)CCCC3(C)C2O)cc1 with respect to its HIV inhibitory activity.,0,Cc1ccc(S(=O)(=O)NN=C2C3C(CC2(C)C)C2(C)CCCC3(C)C2O)cc1
+Is the compound CNC(=O)OC(C)CN1c2ccccc2Sc2ccccc21 active against HIV?,0,CNC(=O)OC(C)CN1c2ccccc2Sc2ccccc21
+What is the HIV property classification for the compound CC(C)OC(=S)Nc1ccc(Cl)c(C=NOC(C)(C)C)c1?,1,CC(C)OC(=S)Nc1ccc(Cl)c(C=NOC(C)(C)C)c1
+What is the HIV property classification for the compound Clc1ccc(NC2=NCCCS2)c2ccccc12?,0,Clc1ccc(NC2=NCCCS2)c2ccccc12
+Classify the molecule CC(=O)N(CCCCNC(=O)C(F)(F)F)CCCNC(=O)C(F)(F)F with respect to its HIV inhibitory activity.,0,CC(=O)N(CCCCNC(=O)C(F)(F)F)CCCNC(=O)C(F)(F)F
+What is the HIV property classification for the compound CSc1c(C(=O)Nc2ccc(Cl)cc2)c(N)n(N)c(=O)c1C#N?,0,CSc1c(C(=O)Nc2ccc(Cl)cc2)c(N)n(N)c(=O)c1C#N
+What is the HIV property classification for the compound O=[N+]([O-])C(=C1NCCS1)C(Cl)=C(Cl)Cl?,0,O=[N+]([O-])C(=C1NCCS1)C(Cl)=C(Cl)Cl
+Can you assess whether NS(=O)(=O)c1ccc(NC(=S)NC=C2C(=O)Nc3ccccc3C2=O)cc1 corresponds to an HIV inhibitor?,0,NS(=O)(=O)c1ccc(NC(=S)NC=C2C(=O)Nc3ccccc3C2=O)cc1
+What is the HIV property classification for the compound N#CC(NC12CC3CC(CC(C3)C1)C2)c1ccccc1C(F)(F)F?,0,N#CC(NC12CC3CC(CC(C3)C1)C2)c1ccccc1C(F)(F)F
+Can you assess whether CC(C)OP(=O)(NC(=S)c1ccccc1)OC(C)C corresponds to an HIV inhibitor?,0,CC(C)OP(=O)(NC(=S)c1ccccc1)OC(C)C
+Can you assess whether N#CC1(C#N)C2=C(CCCC2)NC(c2ccc(Br)cc2)C1(C#N)C#N corresponds to an HIV inhibitor?,0,N#CC1(C#N)C2=C(CCCC2)NC(c2ccc(Br)cc2)C1(C#N)C#N
+Can you assess whether Cc1nc2ccccc2c(=O)n1-c1ccccc1Cl corresponds to an HIV inhibitor?,0,Cc1nc2ccccc2c(=O)n1-c1ccccc1Cl
+Is the compound Cc1cn(C2C=CC(COP(=O)(OCC(=O)C(C)(C)C)OCC(=O)C(C)(C)C)O2)c(=O)[nH]c1=O active against HIV?,1,Cc1cn(C2C=CC(COP(=O)(OCC(=O)C(C)(C)C)OCC(=O)C(C)(C)C)O2)c(=O)[nH]c1=O
+Classify the molecule Cc1cc(NS(=O)(=O)c2ccc(Nc3c4ccccc4nc4c(C(=O)N5CCN(CCOS(C)(=O)=O)CC5)cccc34)cc2)no1 with respect to its HIV inhibitory activity.,0,Cc1cc(NS(=O)(=O)c2ccc(Nc3c4ccccc4nc4c(C(=O)N5CCN(CCOS(C)(=O)=O)CC5)cccc34)cc2)no1
+Classify the molecule CC(=O)c1c(C)nc(SSc2nc(C)c(C(C)=O)c(-c3ccc(Cl)cc3)c2C#N)c(C#N)c1-c1ccc(Cl)cc1 with respect to its HIV inhibitory activity.,0,CC(=O)c1c(C)nc(SSc2nc(C)c(C(C)=O)c(-c3ccc(Cl)cc3)c2C#N)c(C#N)c1-c1ccc(Cl)cc1
+Predict the HIV inhibitor property for the molecule with SMILES: CC1C(c2ccccc2)C12C(=O)NC(=O)NC2=O,0,CC1C(c2ccccc2)C12C(=O)NC(=O)NC2=O
+Evaluate the HIV activity of the molecule encoded as O=C(OCCN=c1c2ccccc2ccc2ccccc12)c1ccc([N+](=O)[O-])cc1.,0,O=C(OCCN=c1c2ccccc2ccc2ccccc12)c1ccc([N+](=O)[O-])cc1
+"Given the SMILES Cc1cc(NS(=O)(=O)c2ccc(NC(=O)c3cccc4c(Nc5ccc(S(N)(=O)=O)cc5)c5ccccc5nc34)cc2)no1, determine if it has HIV inhibition properties.",0,Cc1cc(NS(=O)(=O)c2ccc(NC(=O)c3cccc4c(Nc5ccc(S(N)(=O)=O)cc5)c5ccccc5nc34)cc2)no1
+Can you assess whether O=C(CC(=O)C1CCOC1=O)C(=O)Nc1cccc(Cl)c1 corresponds to an HIV inhibitor?,0,O=C(CC(=O)C1CCOC1=O)C(=O)Nc1cccc(Cl)c1
+What is the HIV property classification for the compound Cc1cc(C)c(S(=O)(O)=[OH+])c(C)c1.N[S+]1Cc2nc3ccccc3n2C1c1c(F)cccc1F?,1,Cc1cc(C)c(S(=O)(O)=[OH+])c(C)c1.N[S+]1Cc2nc3ccccc3n2C1c1c(F)cccc1F
+Classify the molecule O=C(O)c1[nH]c(C(=O)O)c(CC(F)(F)C(F)(F)C(F)(F)F)c1CC(F)(F)C(F)(F)C(F)(F)F with respect to its HIV inhibitory activity.,0,O=C(O)c1[nH]c(C(=O)O)c(CC(F)(F)C(F)(F)C(F)(F)F)c1CC(F)(F)C(F)(F)C(F)(F)F
+Is the compound O=C(CC1(O)C(=O)Nc2c(Cl)cc(Cl)cc21)c1ccc2ccccc2c1 active against HIV?,0,O=C(CC1(O)C(=O)Nc2c(Cl)cc(Cl)cc21)c1ccc2ccccc2c1
+"From the SMILES COc1cccc2c1[OH+][Cu-5]13(O)([O+]=C(N)[N-][N+]1=C2)[n+]1ccccc1-c1cccc[n+]13, predict the binary HIV property.",0,COc1cccc2c1[OH+][Cu-5]13(O)([O+]=C(N)[N-][N+]1=C2)[n+]1ccccc1-c1cccc[n+]13
+Evaluate the HIV activity of the molecule encoded as CC(C)(CO)C(O)C(=O)NCCS(=O)(=O)O.,0,CC(C)(CO)C(O)C(=O)NCCS(=O)(=O)O
+Can you assess whether O=C1CN=C(c2ccccn2)c2cc(Cl)ccc2N1CCO corresponds to an HIV inhibitor?,0,O=C1CN=C(c2ccccn2)c2cc(Cl)ccc2N1CCO
+Can you assess whether CCN(CC)CC(=O)NC1c2ccccc2Oc2ccccc21 corresponds to an HIV inhibitor?,0,CCN(CC)CC(=O)NC1c2ccccc2Oc2ccccc21
+"Given the SMILES Cl.N=c1[nH]cc(C2C(CNC(=O)c3cc(Br)c[nH]3)C(CNC(=O)c3cc(Br)c[nH]3)C2c2c[nH]c(=N)[nH]2)[nH]1, determine if it has HIV inhibition properties.",1,Cl.N=c1[nH]cc(C2C(CNC(=O)c3cc(Br)c[nH]3)C(CNC(=O)c3cc(Br)c[nH]3)C2c2c[nH]c(=N)[nH]2)[nH]1
+Does the structure CC(C)(Oc1ccc2c(=O)cc(-c3ccccc3)oc2c1)C(=O)N1CCN(c2ccccc2)CC1 inhibit HIV?,0,CC(C)(Oc1ccc2c(=O)cc(-c3ccccc3)oc2c1)C(=O)N1CCN(c2ccccc2)CC1
+Does the structure CCCCCCCCCC=C(c1cc(Br)c(O)c(C(=O)O)c1)c1cc(Br)c(O)c(C(=O)O)c1.N inhibit HIV?,1,CCCCCCCCCC=C(c1cc(Br)c(O)c(C(=O)O)c1)c1cc(Br)c(O)c(C(=O)O)c1.N
+What is the HIV property classification for the compound c1ccc(N=c2sc3ccccc3sc2=Nc2ccccc2)cc1?,0,c1ccc(N=c2sc3ccccc3sc2=Nc2ccccc2)cc1
+Is the compound N#CC(Cc1ccccc1)C(=O)NN active against HIV?,0,N#CC(Cc1ccccc1)C(=O)NN
+What is the HIV property classification for the compound O=C(NCCCCN1CCCCCC1)C1c2ccccc2-c2ccccc21?,0,O=C(NCCCCN1CCCCCC1)C1c2ccccc2-c2ccccc21
+"Given the SMILES O=C(O)CC1C(=O)OC2C3COC(=O)c4cc(O)c(O)c(O)c4-c4c(cc(O)c(O)c4O)C(=O)OC2C(OC(=O)c2cc(O)c(O)c4c2C1C(O)C(=O)O4)C(OC(=O)c1cc(O)c(O)c(O)c1)O3, determine if it has HIV inhibition properties.",1,O=C(O)CC1C(=O)OC2C3COC(=O)c4cc(O)c(O)c(O)c4-c4c(cc(O)c(O)c4O)C(=O)OC2C(OC(=O)c2cc(O)c(O)c4c2C1C(O)C(=O)O4)C(OC(=O)c1cc(O)c(O)c(O)c1)O3
+Can you assess whether CN1CCC(O)C(CNC23CC4CC(CC(C4)C2)C3)C1.Cl corresponds to an HIV inhibitor?,1,CN1CCC(O)C(CNC23CC4CC(CC(C4)C2)C3)C1.Cl
+"Given the SMILES O=C(CNC1=NCCN1)Nc1ccc(NC(=O)c2ccc(C(=O)Nc3ccc(NC(=O)CNC4=NCCN4)cc3)cc2)cc1, determine if it has HIV inhibition properties.",1,O=C(CNC1=NCCN1)Nc1ccc(NC(=O)c2ccc(C(=O)Nc3ccc(NC(=O)CNC4=NCCN4)cc3)cc2)cc1
+Classify the molecule N#CC(=Cc1ccco1)C(N)=O with respect to its HIV inhibitory activity.,0,N#CC(=Cc1ccco1)C(N)=O
+"For the molecule CNc1ccc(C)cc1S(=O)(=O)c1ccccc1[N+](=O)[O-], return whether it is an HIV inhibitor or not.",1,CNc1ccc(C)cc1S(=O)(=O)c1ccccc1[N+](=O)[O-]
+Predict the HIV inhibitor property for the molecule with SMILES: CC(=O)c1ccc([Se][Se]c2ccc(C(C)=O)cc2)cc1,0,CC(=O)c1ccc([Se][Se]c2ccc(C(C)=O)cc2)cc1
+"From the SMILES COc1cc2nncc(S)c2cc1OC, predict the binary HIV property.",1,COc1cc2nncc(S)c2cc1OC
+"From the SMILES COc1ccc(OC)c(N=Nc2c(O)nc3ccccc3c2O)c1, predict the binary HIV property.",1,COc1ccc(OC)c(N=Nc2c(O)nc3ccccc3c2O)c1
+Can you assess whether CN1c2ccccc2N=Cc2c1oc1ccc3ccccc3c1c2=O corresponds to an HIV inhibitor?,1,CN1c2ccccc2N=Cc2c1oc1ccc3ccccc3c1c2=O
+"Given the SMILES CC12C=CC(C)(C3C(=O)C4C(C(=O)C31)C1(C)C=CC4(C)S1=O)S2=O, determine if it has HIV inhibition properties.",1,CC12C=CC(C)(C3C(=O)C4C(C(=O)C31)C1(C)C=CC4(C)S1=O)S2=O
+Can you assess whether OC1C2CCN(CC2)C1CNC12CC3CC(CC(C3)C1)C2 corresponds to an HIV inhibitor?,1,OC1C2CCN(CC2)C1CNC12CC3CC(CC(C3)C1)C2
+"Given the SMILES N=c1[nH]c2c(ncn2C2CCC(CO)O2)c(=O)n1C(=O)c1ccccc1, determine if it has HIV inhibition properties.",1,N=c1[nH]c2c(ncn2C2CCC(CO)O2)c(=O)n1C(=O)c1ccccc1
+Does the structure CSCCOC(=O)C(=[N+]=[N-])c1ccc([N+](=O)[O-])cc1 inhibit HIV?,0,CSCCOC(=O)C(=[N+]=[N-])c1ccc([N+](=O)[O-])cc1
+"Given the SMILES O=[N+]([O-])c1ccccc1Sc1ccccc1, determine if it has HIV inhibition properties.",1,O=[N+]([O-])c1ccccc1Sc1ccccc1
+Evaluate the HIV activity of the molecule encoded as OC1CN2CCC(O)C2C(O)C1O.,1,OC1CN2CCC(O)C2C(O)C1O
+Predict the HIV inhibitor property for the molecule with SMILES: Cl.NCc1ccc(-c2ccc(CN)s2)s1,1,Cl.NCc1ccc(-c2ccc(CN)s2)s1
+"For the molecule CCCCCCCCCCOCCC(=O)OCC1OC(n2cc(C)c(=O)[nH]c2=O)CC1N=[N+]=[N-], return whether it is an HIV inhibitor or not.",1,CCCCCCCCCCOCCC(=O)OCC1OC(n2cc(C)c(=O)[nH]c2=O)CC1N=[N+]=[N-]
+Does the structure Cc1cc(N=Nc2c(N)c(C)cc(N=Nc3ccc(C(N)=O)cc3)c2N)ccc1N=Nc1cc(C(=O)O)c(O)c(S(=O)(=O)O)c1 inhibit HIV?,1,Cc1cc(N=Nc2c(N)c(C)cc(N=Nc3ccc(C(N)=O)cc3)c2N)ccc1N=Nc1cc(C(=O)O)c(O)c(S(=O)(=O)O)c1
+Predict the HIV inhibitor property for the molecule with SMILES: COc1ccc(Nc2n[nH]c(NS(=O)(=O)c3cc(C)c(Cl)cc3S)n2)cc1,1,COc1ccc(Nc2n[nH]c(NS(=O)(=O)c3cc(C)c(Cl)cc3S)n2)cc1
+"For the molecule COc1cc2c(c3oc(=O)cc(C)c13)C(OC(=O)C13CCC(C)(C(=O)O1)C3(C)C)C(OC(=O)C13CCC(C)(C(=O)O1)C3(C)C)C(C)(C)O2, return whether it is an HIV inhibitor or not.",1,COc1cc2c(c3oc(=O)cc(C)c13)C(OC(=O)C13CCC(C)(C(=O)O1)C3(C)C)C(OC(=O)C13CCC(C)(C(=O)O1)C3(C)C)C(C)(C)O2
+What is the HIV property classification for the compound CCC1=C2C(=O)c3ccccc3C2=C(C)S(=O)(=O)O1?,1,CCC1=C2C(=O)c3ccccc3C2=C(C)S(=O)(=O)O1
+"From the SMILES CC(C)OC1NC(=O)Oc2ccccc21, predict the binary HIV property.",0,CC(C)OC1NC(=O)Oc2ccccc21
+What is the HIV property classification for the compound COC(=O)C(Cc1c[nH]c2ccccc12)NP(=O)(OC)OCC1OC(n2cc(C)c(=O)[nH]c2=O)CC1N=[N+]=[N-]?,1,COC(=O)C(Cc1c[nH]c2ccccc12)NP(=O)(OC)OCC1OC(n2cc(C)c(=O)[nH]c2=O)CC1N=[N+]=[N-]
+Evaluate the HIV activity of the molecule encoded as O=C1Nc2cnc(Cl)nc2Nc2ccc(Cl)cc21.,1,O=C1Nc2cnc(Cl)nc2Nc2ccc(Cl)cc21
+"From the SMILES CNc1ncnc2c1ncn2C1OC(CO)CC1F, predict the binary HIV property.",1,CNc1ncnc2c1ncn2C1OC(CO)CC1F
+"For the molecule COc1ccc2c(c1)OCC1c3cc(O)c(OCc4ccccc4)cc3OC21, return whether it is an HIV inhibitor or not.",1,COc1ccc2c(c1)OCC1c3cc(O)c(OCc4ccccc4)cc3OC21
+Is the compound CC(C)(C)OC(=O)NCCCCC(NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)N1CCCC1C(=O)NCC(N)=O active against HIV?,1,CC(C)(C)OC(=O)NCCCCC(NC(=O)OCC1c2ccccc2-c2ccccc21)C(=O)N1CCCC1C(=O)NCC(N)=O
+Predict the HIV inhibitor property for the molecule with SMILES: Cc1cn(C2CC(N=[N+]=[N-])C(COC(=O)CCCCCCCCCCN=[N+]=[N-])O2)c(=O)[nH]c1=O,1,Cc1cn(C2CC(N=[N+]=[N-])C(COC(=O)CCCCCCCCCCN=[N+]=[N-])O2)c(=O)[nH]c1=O
+Evaluate the HIV activity of the molecule encoded as S=C1CNC(=S)CN1.,0,S=C1CNC(=S)CN1
+"From the SMILES CC(=O)Nc1cc(N=Nc2ccc(NC(=O)c3ccc(N)cc3)cc2C)c(S(=O)(=O)O)cc1N=Nc1ccc(N=Nc2ccc(S(=O)(=O)O)cc2)cc1, predict the binary HIV property.",1,CC(=O)Nc1cc(N=Nc2ccc(NC(=O)c3ccc(N)cc3)cc2C)c(S(=O)(=O)O)cc1N=Nc1ccc(N=Nc2ccc(S(=O)(=O)O)cc2)cc1
+Predict the HIV inhibitor property for the molecule with SMILES: Cc1ccc(C)c(N2CC(=NNC(=O)CC#N)C(c3nc4ccccc4s3)C(=O)C2=O)c1,0,Cc1ccc(C)c(N2CC(=NNC(=O)CC#N)C(c3nc4ccccc4s3)C(=O)C2=O)c1
+Is the compound Br.CN(C)CCCSc1c2ccccc2nc2cc(NCC(=O)Nc3ccccc3-c3ccccc3NC(=O)CNc3ccc4c(SCCCN(C)C)c5ccccc5nc4c3)ccc12 active against HIV?,0,Br.CN(C)CCCSc1c2ccccc2nc2cc(NCC(=O)Nc3ccccc3-c3ccccc3NC(=O)CNc3ccc4c(SCCCN(C)C)c5ccccc5nc4c3)ccc12

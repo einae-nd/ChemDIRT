@@ -1,0 +1,332 @@
+question,answer,type
+Determine the products formed when the reactants C1CCOC1.CC(=O)[O-].CC(=O)[O-].CCOC(C)=O.COc1cccc([Mg+])c1.O.O=C1c2ccc(OS(=O)(=O)C(F)(F)F)cc2C(=O)N1Cc1cccnc1.[Br-].[Cl-].[Cl-].[Pd+2].[Zn+2] undergo reaction.,COc1cccc(-c2ccc3c(c2)C(=O)N(Cc2cccnc2)C3=O)c1,forward
+"Reactants: C1CCOC1.CC(C)(C)[O-].O=C(Cl)c1cccc([N+](=O)[O-])c1.[K+]
+Products:",CC(C)(C)OC(=O)c1cccc([N+](=O)[O-])c1,forward
+"From the reaction defined solely by the reactants CCOC(=O)C(C)(C)Oc1ccc(O)cc1C.FC(F)(F)c1ccc(-c2cc(C(F)(F)F)c(CCl)cn2)cc1, predict the products.",CCOC(=O)C(C)(C)Oc1ccc(OCc2cnc(-c3ccc(C(F)(F)F)cc3)cc2C(F)(F)F)cc1C,forward
+"Based on the listed reactants (Brc1nccs1.C1CCOC1.CC(C)(O)CCO.CCc1c(Cn2ccnc2-c2nccs2)nc2ccc(Cl)nn12), predict the products of the reaction.",CCc1c(Cn2ccnc2-c2nccs2)nc2ccc(OCCC(C)(C)O)nn12,forward
+"Given the following reactants:
+CN(C)C=O.COc1cccc(N)c1.Cc1nc(CCl)cs1.Cl.O=C([O-])[O-].[K+].[K+]
+Predict the reaction products.",COc1cccc(NCc2csc(C)n2)c1,forward
+"Reactants: CC1CCC(N(C(=O)Nc2ncc(C=O)s2)C2CCCCC2)CC1.CCS(=O)(=O)N1CCNCC1.Cl
+Products:",CCS(=O)(=O)N1CCN(Cc2cnc(NC(=O)N(C3CCCCC3)C3CCC(C)CC3)s2)CC1,forward
+What are the expected reaction products from the reactants C1CCOC1.CN(C)C=O.Cl.O=C(O)c1ccc(-c2ccc(Cl)cc2)s1.[Li]CCCC?,O=Cc1cc(-c2ccc(Cl)cc2)sc1C(=O)O,forward
+"Given the following reactants:
+CC(C)(C)OC(=O)NC1CCN(CCN2C(=O)COc3ccc(Br)cc32)CC1.N#Cc1ccc2ccc(=O)n(CCN3CCC(N)CC3)c2c1
+Predict the reaction products.",NC1CCN(CCN2C(=O)COc3ccc(Br)cc32)CC1,forward
+"Using the given reaction specification:
+Reactants: COC(=O)CC(C)(O)CC(N)=O.O.[Na+].[OH-]
+Identify the products.",CC(O)(CC(N)=O)CC(=O)O,forward
+Consider the chemical reaction involving the reactants CN(C)C=O.O=C([O-])[O-].O=[N+]([O-])c1cc(Br)ccc1F.Oc1ccccc1.[K+].[K+]. What products are formed?,O=[N+]([O-])c1cc(Br)ccc1Oc1ccccc1,forward
+What are the expected reaction products from the reactants C=C1CC2C3CCC(=O)C3(C)CCC2C2(C)CCC(=O)C3OC132.CC(=O)O.O.O=S(=O)(O)O?,C=C1CC2C3CCC(=O)C3(C)CCC2C2(C)CCC(=O)C(O)=C12,forward
+"Using the given reaction specification:
+Reactants: CCOC(=O)C=Cc1cc2cc(C#N)ccc2[nH]1.CCOC(C)=O.CO
+Identify the products.",CCOC(=O)CCc1cc2cc(C#N)ccc2[nH]1,forward
+"Given the following reactants:
+C1CCOC1.CO.COC(=O)c1ccc(C(C)(C)Oc2ccc3c(c2)C(c2ccccc2)=CC3)cc1.[Na+].[OH-]
+Predict the reaction products.",CC(C)(Oc1ccc2c(c1)C(c1ccccc1)=CC2)c1ccc(C(=O)O)cc1,forward
+"For the reaction starting from reactants CCOC(=O)c1c(O)nc2cc(C(F)(F)F)ccc2c1C.ClCCl.O=S(=O)(OS(=O)(=O)C(F)(F)F)C(F)(F)F, determine the resulting products.",CCOC(=O)c1c(OS(=O)(=O)C(F)(F)F)nc2cc(C(F)(F)F)ccc2c1C,forward
+"Reactants: C1CCOC1.CC1(C)CCNC1=O.C[Si](C)(C)[N-][Si](C)(C)C.O=C(Cl)OCc1ccccc1.[Li+]
+Products:",CC1(C)CCN(C(=O)OCc2ccccc2)C1=O,forward
+Consider the chemical reaction involving the reactants CCOC(=O)CBr.CCOC(=O)c1ccc(C=Cc2ccc3c(c2)C(=O)CCC3(C)C)cc1.O=C1CCC2CC=CC=C2C1.[Zn].c1ccc2c(c1)CCCC2. What products are formed?,CCOC(=O)CC1(O)CCC(C)(C)c2ccc(C=Cc3ccc(C(=O)OCC)cc3)cc21,forward
+"Reactants: CC1(C)NN(C2C3CC4CC(C3)CC2C4)C1=O.Fc1c(Cl)cccc1CBr
+Products:",CC1(C)C(=O)N(C2C3CC4CC(C3)CC2C4)N1Cc1cccc(Cl)c1F,forward
+Determine the products formed when the reactants CCc1cc(O)ccc1O.ClCCl.O=C(Cl)C12CC3CC(CC(C3)C1)C2.c1ccncc1 undergo reaction.,CCc1cc(OC(=O)C23CC4CC(CC(C4)C2)C3)ccc1O,forward
+Consider the chemical reaction involving the reactants C1CCOC1.CC(C)CPc1ccccc1.Cc1cc(C)c(C(=O)Cl)c(C)c1.OO.[Li]CCCC. What products are formed?,Cc1cc(C)c(C(=O)P(=O)(CC(C)C)c2ccccc2)c(C)c1,forward
+Consider the chemical reaction involving the reactants CO.COC(=O)c1cccc2c1C(O)CCC2.Cl. What products are formed?,COC(=O)c1cccc2c1C=CCC2,forward
+"From the reaction defined solely by the reactants CC(=O)c1ccc2c(c1)NC(=O)CO2.CI.CN(C)C=O.O=C([O-])[O-].[Cs+].[Cs+], predict the products.",CC(=O)c1ccc2c(c1)N(C)C(=O)CO2,forward
+Consider the chemical reaction involving the reactants CC(=O)c1cccc(C(F)(F)F)c1.CCO.CON.Cl.c1ccncc1. What products are formed?,CON=C(C)c1cccc(C(F)(F)F)c1,forward
+Consider the chemical reaction involving the reactants CCCCCC(=O)c1cc(CCC(=O)OCC)ccc1OC.CCO.[BH4-].[Na+]. What products are formed?,CCCCCC(O)c1cc(CCC(=O)OCC)ccc1OC,forward
+"In the chemical transformation where the reactants are C1CCOC1.CC(=O)Oc1ccc(C2=COc3ccccc3O2)cc1.CO.O=C([O-])[O-].[K+].[K+], what compounds are produced?",Oc1ccc(C2=COc3ccccc3O2)cc1,forward
+Consider the chemical reaction involving the reactants COCCCOc1cc(C(=O)N(CC2CN(C(=O)OC(C)(C)C)CC2CN(C)C(=O)C2CC2)C(C)C)ccc1OC.ClCCl.O=C(O)C(F)(F)F.O=C([O-])O.[Na+]. What products are formed?,COCCCOc1cc(C(=O)N(CC2CNCC2CN(C)C(=O)C2CC2)C(C)C)ccc1OC,forward
+What are the expected reaction products from the reactants CCO.COc1ccc([N+](=O)[O-])c(Cl)n1.NC(CO)CO?,COc1ccc([N+](=O)[O-])c(NC(CO)CO)n1,forward
+"Reactants: NC1(c2ccccc2)CCC(=O)CC1.O=C(CNC(=O)c1cccc(C(F)(F)F)c1)NC1CNC1
+Products:",NC1(c2ccccc2)CCC(N2CC(NC(=O)CNC(=O)c3cccc(C(F)(F)F)c3)C2)CC1,forward
+Determine the products formed when the reactants C1COCCN1.CCN(CC)CC.ClCCl.N#Cc1cc(CBr)cc([N+](=O)[O-])c1 undergo reaction.,N#Cc1cc(CN2CCOCC2)cc([N+](=O)[O-])c1,forward
+"For the reaction starting from reactants CC(C)(C)OC(=O)CC(=O)c1cccc(-n2cccn2)c1.CN(C)c1cc(NC(=O)OC(C)(C)C)c(N)cc1Cl, determine the resulting products.",CN(C)c1cc(NC(=O)OC(C)(C)C)c(NC(=O)CC(=O)c2cccc(-n3cccn3)c2)cc1Cl,forward
+"Using the given reaction specification:
+Reactants: CCO.CCOC(=O)C(NC(C)=O)C(=O)OCC.O=[N+]([O-])c1ccc(-c2ccc(CCl)o2)cc1.[Na]
+Identify the products.",CCOC(=O)C(Cc1ccc(-c2ccc([N+](=O)[O-])cc2)o1)(NC(C)=O)C(=O)OCC,forward
+"Reactants: CCCC[N+](CCCC)(CCCC)CCCC.ClCCl.O.O=S(=O)(Cl)c1ccccc1.O=S(=O)([O-])O.[Na+].[OH-].c1ccc(COc2ccc3[nH]ccc3c2)cc1
+Products:",O=S(=O)(c1ccccc1)n1ccc2cc(OCc3ccccc3)ccc21,forward
+"In the chemical transformation where the reactants are CC(C)NC(C)C.COC(=O)C(CO)NC(=O)OC(C)(C)C.CS(=O)(=O)Cl.ClCCl.Sc1ccccc1, what compounds are produced?",COC(=O)C(CSc1ccccc1)NC(=O)OC(C)(C)C,forward
+"Reactants: CC(C)(C)[Si](C)(C)OC1CC(CC(=O)[O-])CC(OC2CCCCO2)C1.CO.O=C([O-])[O-].[K+].[K+]
+Products:",CC(C)(C)[Si](C)(C)OC1CC(O)CC(OC2CCCCO2)C1,forward
+"From the reaction defined solely by the reactants C1COCCO1.CCNC(=O)Nc1ccc(-c2nc(N3CCOCC3C)c3nc(C4(O)CN(C(=O)OC(C)(C)C)C4)n(C)c3n2)cc1.CO.Cl.ClCCl.O=C(O)C(F)(F)F, predict the products.",CCNC(=O)Nc1ccc(-c2nc(N3CCOCC3C)c3nc(C4(O)CNC4)n(C)c3n2)cc1,forward
+"Reactants: CCOC(C)=O.CNC(=O)c1cccc([N+](=O)[O-])c1Br.Cc1ccccc1.Nc1cncc(F)c1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C([O-])[O-].[Cs+].[Cs+].[Pd].[Pd]
+Products:",CNC(=O)c1cccc([N+](=O)[O-])c1Nc1cncc(F)c1,forward
+"Based on the listed reactants (C1CCOC1.C=CCCCC.N#N), predict the products of the reaction.",CCCCC(C)C1CCCO1,forward
+"For the reaction starting from reactants CC(C)(C)n1nc(C=O)cc1-c1ccc(Cl)cc1.NCCN1CCN(c2ccccc2F)CC1, determine the resulting products.",CC(C)(C)n1nc(CNCCN2CCN(c3ccccc3F)CC2)cc1-c1ccc(Cl)cc1,forward
+What are the expected reaction products from the reactants CC(=O)O.CCCCCCCNC(=O)N(C)c1cccc(-c2ccc(C=CC(=O)OC)cc2O)c1.CCOC(C)=O.CO?,CCCCCCCNC(=O)N(C)c1cccc(-c2ccc(CCC(=O)OC)cc2O)c1,forward
+"Using the given reaction specification:
+Reactants: CC(C)=CCCC(C)=CCN(C(=O)c1ccccc1[N+](=O)[O-])c1ccc(N(C)C)cc1.CCO.Cl.[Fe]
+Identify the products.",CC(C)=CCCC(C)=CCN(C(=O)c1ccccc1N)c1ccc(N(C)C)cc1,forward
+What are the expected reaction products from the reactants COc1cc(CBr)cc(OC)c1OC.Cc1ccccc1.c1ccc([PH+](c2ccccc2)c2ccccc2)cc1?,COc1cc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc(OC)c1OC.[Br-],forward
+"Based on the listed reactants (BrCc1ccccc1.CN(C)C=O.COC(=O)c1ccc(O)cc1.O.O=C([O-])[O-].[K+].[K+]), predict the products of the reaction.",COC(=O)c1ccc(OCc2ccccc2)cc1,forward
+Consider the chemical reaction involving the reactants CC(=O)OC1CCC2(C)C(CCC3C2CC(=O)C2(C)C(C(C)CCC=O)CCC32)C1.CO.C[O-].Cl.[CH3].[Na+]. What products are formed?,CC(CCC=O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(=O)C12C,forward
+"Reactants: Cc1coc2cc(O)ccc2c1=O.O.O=S(=O)(OS(=O)(=O)C(F)(F)F)C(F)(F)F.c1ccncc1
+Products:",Cc1coc2cc(OS(=O)(=O)C(F)(F)F)ccc2c1=O,forward
+Consider the chemical reaction involving the reactants C1COCCO1.CCCC(=O)Nc1nn(COCC[Si](C)(C)C)c2cc(B3OC(C)(C)C(C)(C)O3)ccc12.CCOC(C)=O.O.O=C([O-])[O-].O=[N+]([O-])c1ccc(Br)cc1.[Na+].[Na+].c1ccc([PH](c2ccccc2)(c2ccccc2)[Pd]([PH](c2ccccc2)(c2ccccc2)c2ccccc2)([PH](c2ccccc2)(c2ccccc2)c2ccccc2)[PH](c2ccccc2)(c2ccccc2)c2ccccc2)cc1. What products are formed?,CCCC(=O)Nc1nn(COCC[Si](C)(C)C)c2cc(-c3ccc([N+](=O)[O-])cc3)ccc12,forward
+"From the reaction defined solely by the reactants O=S(=O)(Nc1cccc(-c2nc(C3CCOCC3)sc2-c2ccnc(Cl)n2)c1Cl)c1cc(F)ccc1F.[NH4+].[OH-], predict the products.",Nc1nccc(-c2sc(C3CCOCC3)nc2-c2cccc(NS(=O)(=O)c3cc(F)ccc3F)c2Cl)n1,forward
+"Using the given reaction specification:
+Reactants: Br.Br.CCC(=O)c1cnc(Cl)cc1C.O=C([O-])[O-].[Na+].[Na+]
+Identify the products.",Cc1cc(Cl)ncc1C(=O)C(C)Br,forward
+Determine the products formed when the reactants Br.BrCc1ccccn1.COC(=O)c1ccc(O)cc1F undergo reaction.,COC(=O)c1ccc(OCc2ccccn2)cc1F,forward
+"Given the following reactants:
+CC(=O)[O-].CC(=O)[O-].CC1=CCC(C(C)C)CC1.FC(F)(F)c1ccccc1.O.O.O.O=C(C(F)(F)F)C(F)(F)F.O=C1c2ccccc2C(=O)N1O.OC(c1ccccc1)c1ccccc1.[Co+2]
+Predict the reaction products.",CC(C)C1CCC2(C)OC2C1,forward
+"Using the given reaction specification:
+Reactants: C1CCOC1.CC(C)(C)OC(=O)N1CCNCC1.CCN(CC)CC.CCOC(C)=O.O=S(=O)(Cl)C(F)(F)F
+Identify the products.",CC(C)(C)OC(=O)N1CCN(S(=O)(=O)C(F)(F)F)CC1,forward
+"Based on the listed reactants (CC(=O)O.CC(C)(C)[N+](=O)[O-].CCO.O=Cc1cn[nH]c1.[Zn]), predict the products of the reaction.",CC(C)(C)[N+]([O-])=Cc1cn[nH]c1,forward
+Determine the products formed when the reactants C1CCOC1.CC(C)(C)[O-].CN(C)C=O.ClC(Cl)Cl.O=[N+]([O-])c1ccc(-c2ccc(Cl)cc2)cc1.[K+] undergo reaction.,O=[N+]([O-])c1ccc(-c2ccc(Cl)cc2)cc1C(Cl)Cl,forward
+"Given the following reactants:
+CCOC(C)=O.COCCOC.Nc1ncc(F)cc1Br.O.O=C([O-])[O-].OB(O)c1ccc(OC2CCCCC2)nc1.[Na+].[Na+].c1ccc([PH](c2ccccc2)(c2ccccc2)[Pd]([PH](c2ccccc2)(c2ccccc2)c2ccccc2)([PH](c2ccccc2)(c2ccccc2)c2ccccc2)[PH](c2ccccc2)(c2ccccc2)c2ccccc2)cc1
+Predict the reaction products.",Nc1ncc(F)cc1-c1ccc(OC2CCCCC2)nc1,forward
+What are the expected reaction products from the reactants CN(C)c1ccncc1.Cc1cc2cnn(CCO[Si](C)(C)C(C)(C)C)c2cc1N.Cl.O=C1CC(c2ccc(F)cc2)C(C(=O)O)=CN1.[Cl-].c1ccncc1?,Cc1cc2cnn(CCO[Si](C)(C)C(C)(C)C)c2cc1NC(=O)C1=CNC(=O)CC1c1ccc(F)cc1,forward
+"Based on the listed reactants (CC(C)=O.CI.OCc1cccc2[nH]c(-c3ccc(C(F)(F)F)cc3)nc12.[K+].[OH-]), predict the products of the reaction.",Cn1c(-c2ccc(C(F)(F)F)cc2)nc2c(CO)cccc21,forward
+"Reactants: CCN(C(C)C)C(C)C.CN(C)C=O.CNCC(O)c1ncccn1.Cc1c(CCl)sc2c(=O)c(C(=O)NCc3ccc(F)cc3)cn(C)c12.Cl.Cl.O
+Products:",Cc1c(CN(C)CC(O)c2ncccn2)sc2c(=O)c(C(=O)NCc3ccc(F)cc3)cn(C)c12,forward
+"From the reaction defined solely by the reactants CC(C)(C)c1ccccc1.CC(C)C(=O)Cl, predict the products.",CC(C)C(=O)c1ccc(C(C)(C)C)cc1,forward
+What are the expected reaction products from the reactants C1CCOC1.CC(C)(C)c1ccc(S(=O)(=O)Cl)cc1.CO.Cc1noc(N)c1Br.Cl.O.[H-].[Na+]?,Cc1noc(NS(=O)(=O)c2ccc(C(C)(C)C)cc2)c1Br,forward
+Determine the products formed when the reactants CCN(CC)CC.Cl.Cl.ClCCl.Fc1ccc(SC2CCNCC2)cc1.O=C(Cl)c1ccc(Nc2ccnc3cc(C(F)(F)F)ccc23)cc1 undergo reaction.,O=C(c1ccc(Nc2ccnc3cc(C(F)(F)F)ccc23)cc1)N1CCC(Sc2ccc(F)cc2)CC1,forward
+"Given the following reactants:
+CCN(CC)CC.CS(C)=O.ClCCl.O.O=C(Cl)C(=O)Cl.O=c1cc(Cl)c2ccc(C(F)(F)F)cc2n1CCO
+Predict the reaction products.",O=CCn1c(=O)cc(Cl)c2ccc(C(F)(F)F)cc21,forward
+"Based on the listed reactants (CC(=O)N(C)C.CC(C)(C)[O-].CC1(C)c2cccc(P(c3ccccc3)c3ccccc3)c2Oc2c(P(c3ccccc3)c3ccccc3)cccc21.Cc1cc(N)n(-c2ccccc2)n1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=C(C=Cc1ccccc1)C=Cc1ccccc1.O=S(=O)(Nc1nccs1)c1ccc(Br)cn1.[Na+].[Pd].[Pd]), predict the products of the reaction.",Cc1cc(Nc2ccc(S(=O)(=O)Nc3nccs3)nc2)n(-c2ccccc2)n1,forward
+Determine the products formed when the reactants C=CC(=O)OC.COC(=O)c1ccco1 undergo reaction.,COC(=O)C=Cc1ccc(C(=O)OC)o1,forward
+What are the expected reaction products from the reactants CC(=O)O.CC(=O)O[BH-](OC(C)=O)OC(C)=O.CCCCCCC=O.CN(C)c1ccc(N)cc1.ClCCl.O=C([O-])O.[Na+]?,CCCCCCCNc1ccc(N(C)C)cc1,forward
+"Given the following reactants:
+CCCCn1c(=O)c2cc(C(=O)OCC)cn2c2cc(Cl)ccc21.CCO
+Predict the reaction products.",CCCCn1c(=O)c2cc(C(=O)O)cn2c2cc(Cl)ccc21,forward
+"Using the given reaction specification:
+Reactants: COc1c(F)cc(-c2ccc(C(F)(F)F)cc2)cc1C=O.O.O=[Cr](=O)([O-])O[Cr](=O)(=O)[O-].c1cc[nH+]cc1.c1cc[nH+]cc1
+Identify the products.",COc1c(F)cc(-c2ccc(C(F)(F)F)cc2)cc1C(=O)O,forward
+"From the reaction defined solely by the reactants COC(=O)C(Br)c1ccc(Sc2ccc(Cl)cc2)cc1.Oc1ccc(Cl)cc1, predict the products.",COC(=O)C(Oc1ccc(Cl)cc1)c1ccc(Sc2ccc(Cl)cc2)cc1,forward
+"Given the following reactants:
+COC(=O)c1cc(=O)n(CC2OCCO2)c2cc(OC)ccc12.O=C(O)C(F)(F)F
+Predict the reaction products.",COC(=O)c1cc(=O)n(CC=O)c2cc(OC)ccc12,forward
+"In the chemical transformation where the reactants are C=C1CC(=O)O1.CCN(CC)CC.C[Si](C)(C)CCO, what compounds are produced?",CC(=O)CC(=O)OCC[Si](C)(C)C,forward
+"Given the following reactants:
+CCN(CC)CC.CN(Cc1ccccc1)C(=O)C(N)c1ccccc1.CS(=O)(=O)O.Cl.Cl.ClCCl.Cn1c(C(=O)O)cc2cc(NC(=O)c3ccccc3-c3ccc(C(F)(F)F)cc3)ccc21.O.On1nnc2ccccc21.[Na]
+Predict the reaction products.",CN(Cc1ccccc1)C(=O)C(NC(=O)c1cc2cc(NC(=O)c3ccccc3-c3ccc(C(F)(F)F)cc3)ccc2n1C)c1ccccc1,forward
+"Reactants: CC(=O)O.CC(=O)O[BH-](OC(C)=O)OC(C)=O.CC(C)S(=O)(=O)N1CCC(c2c[nH]c3c(C(N)=O)cc(-c4csc(C=O)c4)cc23)CC1.CS(C)=O.OCC1CCCN1.[Na+]
+Products:",CC(C)S(=O)(=O)N1CCC(c2c[nH]c3c(C(N)=O)cc(-c4csc(CN5CCCC5CO)c4)cc23)CC1,forward
+"From the reaction defined solely by the reactants CC#N.O.O.O.O=C(C(F)(F)F)C(F)(F)F.c1cc(CNc2nccs2)ccn1.c1ccccc1, predict the products.",OC(c1cnc(NCc2ccncc2)s1)(C(F)(F)F)C(F)(F)F,forward
+"Given the following reactants:
+BrCCCCCCOCc1ccccc1.COc1cc(N)c(Cl)cc1C(=O)NCC1CCNCC1.Cl.Cl
+Predict the reaction products.",COc1cc(N)c(Cl)cc1C(=O)NCC1CCN(CCCCCCOCc2ccccc2)CC1,forward
+"In the chemical transformation where the reactants are CCOC(=O)Cc1csc(N)n1.COc1cc(C)ccc1S(=O)(=O)Cl, what compounds are produced?",CCOC(=O)Cc1csc(NS(=O)(=O)c2ccc(C)cc2OC)n1,forward
+Consider the chemical reaction involving the reactants C1CCOC1.CC(Br)(CC(Cl)(Cl)Cl)c1cc(Cl)nc(Cl)c1.CC1(C)CCCC(C)(C)N1.CCCCCC.[Li]CCCC. What products are formed?,C=C(CC(Cl)(Cl)Cl)c1cc(Cl)nc(Cl)c1,forward
+"Using the given reaction specification:
+Reactants: CCC(N)C(=O)OCC(C)C.O=C(O)Cc1ccc(Cl)cc1Cl
+Identify the products.",CCC(NC(=O)Cc1ccc(Cl)cc1Cl)C(=O)OCC(C)C,forward
+Consider the chemical reaction involving the reactants C1CCOC1.CCN(CC)CC.CS(=O)(=O)Cl.NC1CCCc2ccc([N+](=O)[O-])cc21.O. What products are formed?,CS(=O)(=O)NC1CCCc2ccc([N+](=O)[O-])cc21,forward
+"Reactants: CC(C)=O.CSCc1cn(C)c2ccccc2c1=O.ClCCl.O=C(OO)c1cccc(Cl)c1
+Products:",Cn1cc(CS(C)=O)c(=O)c2ccccc21,forward
+"Based on the listed reactants (CC(C)(C)[O-].CS(C)=O.O=C(CBr)C1CC1.O=C([O-])[O-].Oc1ccc(Br)cc1.[K+].[K+].[K+]), predict the products of the reaction.",O=C(COc1ccc(Br)cc1)C1CC1,forward
+"Using the given reaction specification:
+Reactants: C(=NC1CCCCC1)=NC1CCCCC1.CC(C)(C)OC(=O)N1CCC(C(=O)O)(c2ccccc2)CC1.CC(O)c1cc(Br)cc(C(F)(F)F)c1.CN(C)c1ccccn1.Cc1ccccc1.ClCCl
+Identify the products.",CC(OC(=O)C1(c2ccccc2)CCN(C(=O)OC(C)(C)C)CC1)c1cc(Br)cc(C(F)(F)F)c1,forward
+"In the chemical transformation where the reactants are COc1cc2nccc(Oc3ccc4c(C(=O)O)cccc4c3)c2cc1OC.NCc1ccc(C(=O)Nc2ccccc2N)cc1, what compounds are produced?",COc1cc2nccc(Oc3ccc4c(C(=O)NCc5ccc(C(=O)Nc6ccccc6N)cc5)cccc4c3)c2cc1OC,forward
+Determine the products formed when the reactants COc1ccc(C(O)CNCc2cccc(C)c2)cc1OC.O=C(O)C(F)(F)F.O=S(=O)(O)O undergo reaction.,COc1ccc(C2CNCc3cc(C)ccc32)cc1OC,forward
+"Reactants: CC(C)(C)OC(=O)NC1(c2ccc(-c3c(-c4ccccc4)oc4ccc(F)cc4c3=O)cc2)CCC1.COc1cc2oc(-c3ccccc3)c(I)c(=O)c2cc1C
+Products:",COc1cc2oc(-c3ccccc3)c(-c3ccc(C4(NC(=O)OC(C)(C)C)CCC4)cc3)c(=O)c2cc1C,forward
+"Reactants: BrCc1ccccc1.CCOC(=O)c1nc2ccccc2[nH]c1=O.CN(C)C=O.O.[H-].[Na+]
+Products:",CCOC(=O)c1nc2ccccc2n(Cc2ccccc2)c1=O,forward
+"For the reaction starting from reactants CC(=O)O.CCOC(=O)c1cc(O)cc(C(=O)OCC)c1.O, determine the resulting products.",CCOC(=O)c1cc(C=O)cc(C(=O)OCC)c1,forward
+"Using the given reaction specification:
+Reactants: CC(=O)O.CC(=O)[O-].CC(=O)c1ccc(C)cc1.CCOC(=O)CC#N.CCOC(C)=O.[NH4+].c1ccccc1
+Identify the products.",CCOC(=O)C(C#N)=C(C)c1ccc(C)cc1,forward
+"From the reaction defined solely by the reactants C1CCOC1.CCOC(C)=O.O=C1CCC(=O)N1Br.O=S(=O)(O)O.[Cl-].[NH4+].c1cnc2[nH]ccc2c1, predict the products.",Brc1c[nH]c2ncccc12,forward
+"Using the given reaction specification:
+Reactants: CC(C)NO.O=Cc1ccc2c(c1)OCCO2
+Identify the products.",CC(C)[N+]([O-])=Cc1ccc2c(c1)OCCO2,forward
+"From the reaction defined solely by the reactants CO.Cc1ccc2nc(-c3ccc(C#N)cc3)cn2c1.O=S(=O)(O)O.c1ccccc1, predict the products.",Cc1ccc2nc(-c3ccc(C=O)cc3)cn2c1,forward
+"Based on the listed reactants (CC(=O)c1cc(Oc2ccccc2)c(NS(C)(=O)=O)cc1OCc1ccccc1.CCOC(=O)OCC.O.[H-].[Na+]), predict the products of the reaction.",CCOC(=O)CC(=O)c1cc(Oc2ccccc2)c(NS(C)(=O)=O)cc1OCc1ccccc1,forward
+"Reactants: Cc1nn(-c2ccc(CCNC(=O)Oc3ccccc3)cc2)c(C)c1-c1cccc(C(N)=O)c1.NS(=O)(=O)c1ccc(F)cc1F
+Products:",Cc1nn(-c2ccc(CCNC(=O)NS(=O)(=O)c3ccc(F)cc3F)cc2)c(C)c1-c1cccc(C(N)=O)c1,forward
+"Using the given reaction specification:
+Reactants: CCOC(=O)C1CCN(CC(C)Cc2ccc(C(C)(C)C)cc2)CC1.CCOCC.O
+Identify the products.",CC(Cc1ccc(C(C)(C)C)cc1)CN1CCC(CO)CC1,forward
+"Given the following reactants:
+CC(=O)[O-].CO.Cl.NO.O=C1CCCCC1S(=O)(=O)N1CCN(c2ccc(F)cc2)CC1.[K+]
+Predict the reaction products.",O=S(=O)(C1CCCCC1=NO)N1CCN(c2ccc(F)cc2)CC1,forward
+Determine the products formed when the reactants CC(=O)Oc1cccc(C(=O)Cl)c1C.CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(O)C(N)CSc1ccccc1.CCOC(C)=O.O.O=C([O-])O.[Na+] undergo reaction.,CC(=O)Oc1cccc(C(=O)NC(CSc2ccccc2)C(O)CN2CC3CCCCC3CC2C(=O)NC(C)(C)C)c1C,forward
+"Using the given reaction specification:
+Reactants: CCN(C(C)C)C(C)C.CN(C)C=O.Cl.FC(F)(F)c1nnc2ccc(Cl)nn12.O.O=C1CCNCC1
+Identify the products.",O=C1CCN(c2ccc3nnc(C(F)(F)F)n3n2)CC1,forward
+What are the expected reaction products from the reactants CO.Cl.N#CCc1nc2cnc(Br)cc2n1-c1ccccc1.O=N[O-].[Na+]?,N#CC(=NO)c1nc2cnc(Br)cc2n1-c1ccccc1,forward
+Determine the products formed when the reactants CN(C(=O)OC(C)(C)C)c1cc(Cl)ccc1[N+](=O)[O-].CN(C)C=O.COc1ccc(O)cc1.[H-].[Na+] undergo reaction.,COc1ccc(Oc2ccc([N+](=O)[O-])c(N(C)C(=O)OC(C)(C)C)c2)cc1,forward
+"From the reaction defined solely by the reactants CC1(C)C2CCC1(CS(=O)(=O)O)C(=O)C2.CCCCCC.CCO.CCOCC.Cc1ccccc1.Nc1ccc(Oc2cc(NC(=O)N3CCC(CN4CCCC4)CC3)ncn2)c(F)c1.O=C(Cc1ccc(F)cc1)N=C=S, predict the products.",O=C(Cc1ccc(F)cc1)NC(=S)Nc1ccc(Oc2cc(NC(=O)N3CCC(CN4CCCC4)CC3)ncn2)c(F)c1,forward
+What are the expected reaction products from the reactants COC(=O)Cc1ccc(Cl)cc1.CS(C)=O.C[O-].Cl.O.[Na+]?,COC(=O)C(CO)c1ccc(Cl)cc1,forward
+"Using the given reaction specification:
+Reactants: CCOCC.COCCOCc1cc2cnc(Nc3ccc(N4CCN(C(=O)OC(C)(C)C)CC4)cn3)nc2n(C2CCCC2)c1=O.Cl.ClCCl
+Identify the products.",COCCOCc1cc2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n(C2CCCC2)c1=O,forward
+"Using the given reaction specification:
+Reactants: CC(C)(C)OC(=O)Nc1ncc(C(NS(=O)C(C)(C)C)c2ccc(F)cc2Cl)s1.ClCCl.O=C(O)C(F)(F)F
+Identify the products.",CC(C)(C)S(=O)NC(c1cnc(N)s1)c1ccc(F)cc1Cl,forward
+"Based on the listed reactants (CC(C)(C)c1ccc(S(N)(=O)=O)cc1.CCN(C(C)C)C(C)C.CS(C)=O.CSc1nc(Cl)c(-c2ccccc2)c(Cl)n1.O.[K]), predict the products of the reaction.",CSc1nc(Cl)c(-c2ccccc2)c(NS(=O)(=O)c2ccc(C(C)(C)C)cc2)n1,forward
+"For the chemical transformation leading to products CNC(=O)Nc1nc(NCc2ccc3c(c2)OCO3)c2cc(Cl)ccc2n1, determine the necessary reactants.",CN=C=O.Nc1nc(NCc2ccc3c(c2)OCO3)c2cc(Cl)ccc2n1,retro
+"Based on the listed products (O=Cc1cncc(Br)c1), predict the reactants involved in their formation.",OCc1cncc(Br)c1,retro
+"Given the following products:
+C[C@@H]1CN(C)CCN1c1nc(Cl)nc(N(C(=O)OC(C)(C)C)N(C(=O)OC(C)(C)C)C(=O)OC(C)(C)C)c1F
+Predict the reactants required for their synthesis.",CC(C)(C)OC(=O)N(C(=O)OC(C)(C)C)N(C(=O)OC(C)(C)C)c1nc(Cl)nc(Cl)c1F.C[C@@H]1CN(C)CCN1,retro
+"In the retrosynthetic analysis of products O=C1CCN(CCC2(F)C=CC=CC2)CC1, what reactants are required?",COC(=O)C1CN(CCC2(F)C=CC=CC2)CCC1=O,retro
+"Based on the listed products (Ic1ccccc1OC1CCCCO1), predict the reactants involved in their formation.",C1=COCCC1.Oc1ccccc1I,retro
+"In the retrosynthetic analysis of products Nc1nc(-c2ccc3c(N)n[nH]c3c2)cc(N2CCCC(NC(=O)c3ccccc3)C2)n1, what reactants are required?",Nc1nc(-c2ccc3c(N)n[nH]c3c2)cc(N2CCCC(N)C2)n1.O=C(Cl)c1ccccc1,retro
+What reactants would produce the products COCOc1ccc(Cc2c(C)cc(CBr)cc2C)cc1Cc1ccc(F)cc1 in a chemical reaction?,BrC(Br)(Br)Br.COCOc1ccc(Cc2c(C)cc(CO)cc2C)cc1Cc1ccc(F)cc1,retro
+"For the chemical transformation leading to products CN1C(=O)OC(C)(C)c2cc(Nc3ccccc3Cl)ccc21, determine the necessary reactants.",CN1C(=O)OC(C)(C)c2cc(N)ccc21.OB(O)c1ccccc1Cl,retro
+What reactants would produce the products Cc1noc(C)c1-c1cc(CNC(C)C)c2[nH]c(=O)n3c2c1OCC3c1ccccn1 in a chemical reaction?,CC(C)N.Cc1noc(C)c1-c1cc(C=O)c2[nH]c(=O)n3c2c1OC[C@@H]3c1ccccn1,retro
+"In the retrosynthetic analysis of products CCc1ccc(CCOc2ccc(N)cc2)nc1, what reactants are required?",CCc1ccc(CCOc2ccc([N+](=O)[O-])cc2)nc1,retro
+"Products: C=CCOc1ccc(C[C@@H](C#N)NC(=O)OC(C)(C)C)cc1
+Reactants:",C=CCOc1ccc(C[C@H](NC(=O)OC(C)(C)C)C(N)=O)cc1,retro
+What reactants would produce the products CC(C)NC(=O)N1CCc2ccc(OCCCN3CCCCC3)cc2C1 in a chemical reaction?,CC(C)N=C=O.c1cc2c(cc1OCCCN1CCCCC1)CNCC2,retro
+"For the chemical transformation leading to products CCN(CC)CCCNc1nc(-c2ccc(C(=O)O)cc2)c2ccc(=O)n(-c3c(F)cccc3F)c2n1, determine the necessary reactants.",CC1(C)OB(c2ccc(C(=O)O)cc2)OC1(C)C.CCN(CC)CCCNc1nc(Cl)c2ccc(=O)n(-c3c(F)cccc3F)c2n1,retro
+"In the retrosynthetic analysis of products CC1(c2cc(Cn3ncc([N+](=O)[O-])n3)on2)OCCO1, what reactants are required?",CC(=O)c1cc(Cn2ncc([N+](=O)[O-])n2)on1.OCCO,retro
+Determine the reactants that could give rise to the products COCCNC(=O)COc1ccc(OCCNC[C@H](O)COc2ccccc2)cc1.,COC(=O)COc1ccc(OCCNCC(O)COc2ccccc2)cc1.COCCN,retro
+"Products: COC(=O)c1cc(NS(C)(=O)=O)ccc1Br
+Reactants:",COC(=O)c1cc(N)ccc1Br.CS(=O)(=O)Cl,retro
+"Products: O=C(C1CCOCC1)N1CC=C(c2ccc(OCc3ccccc3)cc2)CC1
+Reactants:",C1=C(c2ccc(OCc3ccccc3)cc2)CCNC1.O=C(O)C1CCOCC1,retro
+"Given the following products:
+O=C(NCc1cccc2ccccc12)c1cccc(-c2cnc3c(c2)N(Cc2cc(Cl)ccc2C(F)(F)F)CCN3)c1
+Predict the reactants required for their synthesis.",NCc1cccc2ccccc12.O=C(O)c1cccc(-c2cnc3c(c2)N(Cc2cc(Cl)ccc2C(F)(F)F)CCN3)c1,retro
+"In the retrosynthetic analysis of products CCCCCOc1ccc(C=O)cc1C, what reactants are required?",CCCCCBr.Cc1cc(C=O)ccc1O,retro
+"Given the following products:
+O=C(O)CCc1ccc(OCc2cccc(-c3ccccc3C(=O)O)c2)cc1
+Predict the reactants required for their synthesis.",CC(C)(C)OC(=O)CCc1ccc(OCc2cccc(-c3ccccc3C(=O)O)c2)cc1,retro
+"Products: COC(=O)[C@@H](NC(=O)OC12CC3CC(CC(C3)C1)C2)C(C)(C)C
+Reactants:",COC(=O)[C@@H](N)C(C)(C)C.O=C(F)OC12CC3CC(CC(C3)C1)C2,retro
+Consider the target products CC(C)(C)OC(=O)NCc1ccc(C(=O)NCc2ccc(OCCC(=O)N3C[C@H]4OC(C)(C)O[C@@H]4C3)cc2)cc1. What reactants would be used to synthesize them?,CC(C)(C)OC(=O)NCc1ccc(C(=O)NCc2ccc(OCCC(=O)O)cc2)cc1.CC1(C)O[C@@H]2CNC[C@H]2O1,retro
+"Given the following products:
+O=C(Nc1cc(Cl)cc2c1[nH]c1cnccc12)[C@@H]1COCCN1C[C@H]1CCCN1
+Predict the reactants required for their synthesis.",CC(C)(C)OC(=O)N1CCC[C@@H]1CN1CCOC[C@H]1C(=O)Nc1cc(Cl)cc2c1[nH]c1cnccc12,retro
+"From the reaction defined by the products Cc1ccc(S(=O)(=O)OCCOCCSC(c2ccccc2)(c2ccccc2)c2ccccc2)cc1, predict the corresponding reactants.",Cc1ccc(S(=O)(=O)Cl)cc1.OCCOCCSC(c1ccccc1)(c1ccccc1)c1ccccc1,retro
+"Using the given reaction specification:
+Products: Cc1ccc(S(=O)(=O)n2cc(-c3ccsc3)c(OCc3ccccc3)n2)cc1
+Identify the reactants.",Cc1ccc(S(=O)(=O)n2cc(I)c(OCc3ccccc3)n2)cc1.OB(O)c1ccsc1,retro
+"Products: COC(=O)Cc1cccc(NCCCBr)c1
+Reactants:",BrCCCBr.COC(=O)Cc1cccc(N)c1,retro
+Determine the reactants that could give rise to the products Nc1ccc(-c2c(F)cccc2C(F)(F)F)cc1N.,Nc1ccc(-c2c(F)cccc2C(F)(F)F)cc1[N+](=O)[O-],retro
+"Given the following products:
+Cc1cc(C(=O)N2CCC(O)CC2)ncc1C(c1cc(F)ccc1F)S(=O)(=O)c1ccc(F)cc1
+Predict the reactants required for their synthesis.",Cc1cc(C(=O)O)ncc1C(c1cc(F)ccc1F)S(=O)(=O)c1ccc(F)cc1.OC1CCNCC1,retro
+"Using the given reaction specification:
+Products: COc1ccc(-c2cn(CCN3CCCCC3)nc2OCc2ccccc2)cc1
+Identify the reactants.",Brc1cn(CCN2CCCCC2)nc1OCc1ccccc1.COc1ccc(B(O)O)cc1,retro
+What reactants would produce the products Cc1nc(COc2ccc(Cn3cc(CCC(=O)O)c(-c4ccccc4)c3)cc2)cs1 in a chemical reaction?,CCOC(=O)CCc1cn(Cc2ccc(OCc3csc(C)n3)cc2)cc1-c1ccccc1,retro
+"Given the following products:
+CC(C)(C)OC(=O)NC1(c2ccc(Br)cc2)CC1
+Predict the reactants required for their synthesis.",CC(C)(C)OC(=O)OC(=O)OC(C)(C)C.NC1(c2ccc(Br)cc2)CC1,retro
+What reactants would produce the products Cc1cc2cc(Nc3ccnc4cc(-c5nccs5)sc34)ccc2[nH]1 in a chemical reaction?,Cc1cc2cc(N)ccc2[nH]1.Clc1ccnc2cc(-c3nccs3)sc12,retro
+"Given the following products:
+COc1nn(C)c(=O)n1Cc1cc(-c2ccccn2)ccc1C
+Predict the reactants required for their synthesis.",COc1nn(C)c(=O)n1Cc1cc(Br)ccc1C.C[Sn](C)(C)c1ccccn1,retro
+"Products: C=CCNc1nc(NCC(C)(C)C)nc2ccc([N+](=O)[O-])cc12
+Reactants:",C=CCNc1nc(Cl)nc2ccc([N+](=O)[O-])cc12.CC(C)(C)CN,retro
+Consider the target products Cc1c2c(=O)n(CCCNC(=O)OC(C)(C)C)c3ccc(-c4ccc(C#N)cc4)cc3c2nn1C1CCCCO1. What reactants would be used to synthesize them?,Cc1c2c(=O)n(CCCNC(=O)OC(C)(C)C)c3ccc(Br)cc3c2nn1C1CCCCO1.N#Cc1ccc(B(O)O)cc1,retro
+"In the retrosynthetic analysis of products C=CCC(C)(C)CCOC(=O)c1ccc([N+](=O)[O-])cc1, what reactants are required?",C=CCC(C)(C)CCO.O=C(Cl)c1ccc([N+](=O)[O-])cc1,retro
+"Products: CC(=NO)c1ccc(N)cc1
+Reactants:",CC(=O)c1ccc(N)cc1.NO,retro
+"Based on the listed products (Cc1cnc(N2CCN(C(=O)c3ccc(N4C(=O)NC(=O)C4(C)C)cc3F)CC2)c(C)c1), predict the reactants involved in their formation.",COc1ccc(CN2C(=O)N(c3ccc(C(=O)N4CCN(c5ncc(C)cc5C)CC4)c(F)c3)C(C)(C)C2=O)cc1,retro
+"Products: CC(C)c1nc2c(c(I)c1[C@@H](O)c1ccc(OCc3ccccc3)cc1)[C@@H](O[Si](C)(C)C(C)(C)C)CC(C)(C)C2
+Reactants:",CC(C)c1nc2c(c(I)c1C=O)[C@@H](O[Si](C)(C)C(C)(C)C)CC(C)(C)C2.[Mg+]c1ccc(OCc2ccccc2)cc1,retro
+"From the reaction defined by the products OCCN(Cc1ccccc1)c1ccc2c(-c3[nH]ncc3-c3cccc(Cl)c3)c[nH]c2n1, predict the corresponding reactants.",CC(C)(C)[Si](C)(C)OCCN(Cc1ccccc1)c1ccc2c(-c3[nH]ncc3-c3cccc(Cl)c3)c[nH]c2n1,retro
+Consider the target products CC(=O)Oc1ccc(C2CCC(=O)CC2)cc1. What reactants would be used to synthesize them?,CC(=O)Cl.O=C1CCC(c2ccc(O)cc2)CC1,retro
+"Given the following products:
+CSc1ccc(OCc2ccccc2)cc1C
+Predict the reactants required for their synthesis.",BrCc1ccccc1.CSc1ccc(O)cc1C,retro
+Consider the target products CC(C)(C)OC(=O)N1CCC(OCCO)CC1. What reactants would be used to synthesize them?,CC(C)(C)OC(=O)COC1CCN(C(=O)OC(C)(C)C)CC1,retro
+"For the chemical transformation leading to products CN(N)c1cc2c(cc1[N+](=O)[O-])c(=O)c(C(=O)O)cn2-c1cc(N)c(F)cc1F, determine the necessary reactants.",CNN.Nc1cc(-n2cc(C(=O)O)c(=O)c3cc([N+](=O)[O-])c(F)cc32)c(F)cc1F,retro
+Determine the reactants that could give rise to the products CCC(F)(F)[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CCC4=C3[C@@H](c3ccc(C(C)=O)cc3)C[C@@]21C.,C=CC(F)(F)[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CCC4=C3[C@@H](c3ccc(C(C)=O)cc3)C[C@@]21C,retro
+"Based on the listed products (CCCCOCCOc1ccc(-c2cc3c4c(c2)CCCN4CCC(C(=O)O)=C3)cc1), predict the reactants involved in their formation.",CCCCOCCOc1ccc(-c2cc3c4c(c2)CCCN4CCC(C(=O)OCC)=C3)cc1,retro
+"Using the given reaction specification:
+Products: O=C1CCCN1c1ncnc2c1cnn2CCN1CCCCC1
+Identify the reactants.",Clc1ncnc2c1cnn2CCN1CCCCC1.O=C1CCCN1,retro
+Consider the target products O=[N+]([O-])c1cccnc1OCC1CC1(F)F. What reactants would be used to synthesize them?,O=[N+]([O-])c1cccnc1F.OCC1CC1(F)F,retro
+"In the retrosynthetic analysis of products CCCCc1cn(C(C)(C)C)s/c1=N\C(=O)C1(C)CCC(C(=O)NC)C1(C)C, what reactants are required?",CCCCc1cn(C(C)(C)C)s/c1=N\C(=O)C1(C)CCC(C(=O)O)C1(C)C.CN,retro
+"In the retrosynthetic analysis of products COc1cc(N2CCN(C(=O)OC(C)(C)C)CC2)ccc1[N+](=O)[O-], what reactants are required?",CC(C)(C)OC(=O)N1CCNCC1.COc1cc(F)ccc1[N+](=O)[O-],retro
+"Using the given reaction specification:
+Products: CCOC(=O)C1CCN(CCn2cccc(-c3ccc(C(=O)O)cc3)c2=O)CC1
+Identify the reactants.",CCOC(=O)C1CCN(CCn2cccc(-c3ccc(C(=O)OCc4ccccc4)cc3)c2=O)CC1,retro
+"Given the following products:
+CNC(=O)c1cnc(N)s1
+Predict the reactants required for their synthesis.",CNC(=O)c1cnc(NC(=O)OC(C)(C)C)s1,retro
+"Given the following products:
+CC(=O)Nc1cc(C)c(Br)cc1C(C)=O
+Predict the reactants required for their synthesis.",CC(=O)Cl.CC(=O)c1cc(Br)c(C)cc1N,retro
+"Given the following products:
+O=C(O)c1ccc(-c2ccc(C[C@@H]3CCN(C4CCCCC4)C3=O)c3ccccc23)cc1
+Predict the reactants required for their synthesis.",COC(=O)c1ccc(-c2ccc(C[C@@H]3CCN(C4CCCCC4)C3=O)c3ccccc23)cc1,retro
+"Given the following products:
+CCCCN(CC(=O)O)c1cc(Br)ccc1[N+](=O)[O-]
+Predict the reactants required for their synthesis.",CCCCNCC(=O)O.O=[N+]([O-])c1ccc(Br)cc1F,retro
+What reactants would produce the products CC(C)(C)OC(=O)N1CCC(CN=[N+]=[N-])(C2CCCCC2)CC1 in a chemical reaction?,CC(C)(C)OC(=O)N1CCC(COS(C)(=O)=O)(C2CCCCC2)CC1.[N-]=[N+]=[N-],retro
+Determine the reactants that could give rise to the products CCCCCC1CCC(c2cccc(F)c2F)(C2CCC(=COC)CC2)CC1.,CC(C)(C)[O-].CCCCCC1CCC(c2cccc(F)c2F)(C2CCC(=O)CC2)CC1,retro
+Consider the target products c1ccc2oc(C3CCN(CC4CC4)CC3)cc2c1. What reactants would be used to synthesize them?,O=C(C1CC1)N1CCC(c2cc3ccccc3o2)CC1,retro
+"From the reaction defined by the products CCOC(=O)c1cnc(N)c2c(COc3cccc(NS(=O)(=O)c4ccc(Cl)cc4)c3)csc12, predict the corresponding reactants.",CCOC(=O)c1cnc(Cl)c2c(COc3cccc(NS(=O)(=O)c4ccc(Cl)cc4)c3)csc12.N,retro
+"Products: COC(=O)c1[nH]c2cc(Cl)cc3c2c1C(CC(=O)O)CC3
+Reactants:",COC(=O)c1[nH]c2cc(Cl)cc3c2c1C(CC(=O)OC(C)(C)C)CC3,retro
+Consider the target products COc1nc(N2CCC(O)CC2)nc2oc(-c3ccc(C4(N)CCC4)cc3)c(-c3ccccc3)c12. What reactants would be used to synthesize them?,COc1nc(N2CCC(O)CC2)nc2oc(-c3ccc(C4(NC(=O)OC(C)(C)C)CCC4)cc3)c(-c3ccccc3)c12,retro
+"In the retrosynthetic analysis of products CCC1(CC)CCC(c2cc(N3CCC[C@H](OC)C3)ccc2N2CCNCC2)CC1, what reactants are required?",CCC1(CC)CCC(c2cc(N3CCC[C@H](OC)C3)ccc2N2CCN(C(=O)OC(C)(C)C)CC2)CC1,retro
+"Given the following products:
+CNCc1ccc2c(c1OC)OCO2
+Predict the reactants required for their synthesis.",CN.COc1c(C=O)ccc2c1OCO2,retro
+"Products: CC(C)CN(C(=O)c1nc2ccccc2n1CCc1cccs1)[C@H]1C[C@@H](C(=O)N2CCOCC2)CN(C(=O)OC(C)(C)C)C1
+Reactants:",CC(C)CN(C(=O)c1nc2ccccc2[nH]1)[C@H]1C[C@@H](C(=O)N2CCOCC2)CN(C(=O)OC(C)(C)C)C1.CS(=O)(=O)OCCc1cccs1,retro
+What reactants would produce the products Oc1ccc2cc(-c3cnc(-c4ccccc4)o3)ccc2c1 in a chemical reaction?,COc1ccc2cc(-c3cnc(-c4ccccc4)o3)ccc2c1,retro
+"Using the given reaction specification:
+Products: CN1C(=O)CC[C@]2(C)c3ccc(-c4cccs4)cc3CC[C@@H]12
+Identify the reactants.",CCCC[Sn](CCCC)(CCCC)c1cccs1.CN1C(=O)CC[C@]2(C)c3ccc(Br)cc3CC[C@@H]12,retro
+"For the chemical transformation leading to products O=C1O[C@@H](Cn2ccnn2)CN1c1ccc(-c2ccc(C=NO)nc2)c(F)c1, determine the necessary reactants.",NO.O=Cc1ccc(-c2ccc(N3C[C@H](Cn4ccnn4)OC3=O)cc2F)cn1,retro
+"In the retrosynthetic analysis of products COc1cc2c(cc1Cl)CCN(C(=O)c1ccc(OCCN(C)C)cc1)CC2c1cccc2c1OCC2, what reactants are required?",CN(C)CCOc1ccc(C(=O)O)cc1.COc1cc2c(cc1Cl)CCNCC2c1cccc2c1OCC2,retro
+Consider the target products N#Cc1cc(Oc2ccc(N)cc2F)ccn1. What reactants would be used to synthesize them?,N#Cc1cc(Cl)ccn1.Nc1ccc(O)c(F)c1,retro
+"For the chemical transformation leading to products O=C(Nc1ccc(CN(CCCN2CCOCC2)Cc2ccccc2)cc1)N1Cc2ccccc2C1, determine the necessary reactants.",O=C(Nc1ccc(C(=O)N(CCCN2CCOCC2)Cc2ccccc2)cc1)N1Cc2ccccc2C1,retro
+"Based on the listed products (C(=C/c1nc(COc2ccccc2CCCn2ccnc2)co1)\c1ccccc1), predict the reactants involved in their formation.",CS(=O)(=O)OCCCc1ccccc1OCc1coc(/C=C/c2ccccc2)n1.c1c[nH]cn1,retro
+"Using the given reaction specification:
+Products: Cc1cn(-c2ccc3c(N)ncc(Br)c3c2)c2c1C(=O)CC(C)(C)C2
+Identify the reactants.",Cc1c[nH]c2c1C(=O)CC(C)(C)C2.Nc1ncc(Br)c2cc(F)ccc12,retro
+Consider the target products N#CC1(c2ccncc2)CCNCC1. What reactants would be used to synthesize them?,CC(C)(C)OC(=O)N1CCC(C#N)(c2ccncc2)CC1,retro
+"For the chemical transformation leading to products CC1(c2ccc(F)cc2)Cc2cc(O)c(Cl)c(Cl)c2C1=O, determine the necessary reactants.",COc1cc2c(c(Cl)c1Cl)C(=O)C(C)(c1ccc(F)cc1)C2,retro
+"Products: CC(C)(C)OC(=O)N1CCC(Oc2ncccc2F)CC1
+Reactants:",CC(C)(C)OC(=O)N1CCC(OS(C)(=O)=O)CC1.Oc1ncccc1F,retro
+"Given the following products:
+Cc1ccc(C(=O)NC2CC2)cc1-n1cnc2ccc(N3CCN(CC(=O)O)CC3)cc2c1=O
+Predict the reactants required for their synthesis.",Cc1ccc(C(=O)NC2CC2)cc1-n1cnc2ccc(N3CCN(CC(=O)OC(C)(C)C)CC3)cc2c1=O,retro
+"Using the given reaction specification:
+Products: FC(F)(F)c1ccccc1-c1nccnc1N1CCNCC1
+Identify the reactants.",CC(C)(C)OC(=O)N1CCN(c2nccnc2-c2ccccc2C(F)(F)F)CC1,retro
+"Based on the listed products (CC(=O)NCc1ccc2oc([N+](=O)[O-])c(-c3ccccc3)c2c1), predict the reactants involved in their formation.",CC(=O)OC(C)=O.NCc1ccc2oc([N+](=O)[O-])c(-c3ccccc3)c2c1,retro
+"In the retrosynthetic analysis of products N#Cc1ccc(-c2ccc(C=O)cc2)cc1, what reactants are required?",N#C[Cu].O=Cc1ccc(-c2ccc(Br)cc2)cc1,retro
+"From the reaction defined by the products O=C1c2ccccc2C(=O)c2c(Nc3ccc(CCO)cc3)cccc21, predict the corresponding reactants.",Nc1ccc(CCO)cc1.O=C1c2ccccc2C(=O)c2c(Cl)cccc21,retro
+Consider the target products COCCOc1cccc([N+](=O)[O-])c1. What reactants would be used to synthesize them?,COCCBr.O=[N+]([O-])c1cccc(O)c1,retro
+"Based on the listed products (CC(=O)CCn1cnc2c1c(=O)n(CC1CC1)c(=O)n2CC1CCCCC1), predict the reactants involved in their formation.",BrCC1CCCCC1.CC(=O)CCn1cnc2[nH]c(=O)n(CC3CC3)c(=O)c21,retro
+"Products: O=C(c1cnc2ccc(Br)cc2c1Nc1cncc(CCN2CCCC2)c1)C1CC1
+Reactants:",Nc1cncc(CCN2CCCC2)c1.O=C(c1cnc2ccc(Br)cc2c1Cl)C1CC1,retro
+"Given the following products:
+COC(=O)CCCCCNC(=O)C=C1c2ccccc2Oc2ccccc21
+Predict the reactants required for their synthesis.",COC(=O)CCCCCN.O=C(O)C=C1c2ccccc2Oc2ccccc21,retro
+"Using the given reaction specification:
+Products: CC(O)(C#Cc1cc2c(cc1F)OCCn1cc(C(N)=O)nc1-2)C(F)(F)F
+Identify the reactants.",C#CC(C)(O)C(F)(F)F.NC(=O)c1cn2c(n1)-c1cc(Br)c(F)cc1OCC2,retro
+"From the reaction defined by the products C=CC(=O)Nc1cccc(Oc2ncnc(N)c2-c2ccc(Oc3ccccc3)cc2)c1, predict the corresponding reactants.",C=CC(=O)O.Nc1cccc(Oc2ncnc(N)c2-c2ccc(Oc3ccccc3)cc2)c1,retro
+"Using the given reaction specification:
+Products: COc1ccc([N+](=O)[O-])c(N[C@@H](CSC)C(=O)O)c1
+Identify the reactants.",CSC[C@H](Nc1cc(F)ccc1[N+](=O)[O-])C(=O)O.C[O-],retro
+"Products: O=C1C(=O)N(Cc2ccc(F)nc2)c2ccc(S(=O)(=O)N3CC[C@H]3COc3ccccc3)cc21
+Reactants:",Fc1ccc(CBr)cn1.O=C1Nc2ccc(S(=O)(=O)N3CC[C@H]3COc3ccccc3)cc2C1=O,retro
+"In the retrosynthetic analysis of products Cc1ccc(OC2CCN(C(=O)C(=O)Nc3ccc4c(c3)OCC(=O)N4)CC2)cc1, what reactants are required?",Cc1ccc(OC2CCNCC2)cc1.O=C1COc2cc(NC(=O)C(=O)O)ccc2N1,retro
+"In the retrosynthetic analysis of products CCCc1cccc2c1CCC2=O, what reactants are required?",C=CCc1cccc2c1CCC2=O,retro
+"Given the following products:
+O=C(Cl)OCc1ccc([N+](=O)[O-])o1
+Predict the reactants required for their synthesis.",O=C(Cl)Cl.O=[N+]([O-])c1ccc(CO)o1,retro
+Consider the target products CC1CCN(C(=O)Oc2noc3nc(Cl)ccc23)CC1. What reactants would be used to synthesize them?,CC1CCN(C(=O)Cl)CC1.Oc1noc2nc(Cl)ccc12,retro
+Consider the target products COc1cc(OC)cc(C(=CC#N)c2cc(OC)ccc2OC)c1. What reactants would be used to synthesize them?,CCOP(=O)(CC#N)OCC.COc1cc(OC)cc(C(=O)c2cc(OC)ccc2OC)c1,retro
+"Based on the listed products (CC(=O)N(C)c1c(I)c(N)c(I)c(C(=O)N2CCOCC2)c1I), predict the reactants involved in their formation.",C1COCCN1.CC(=O)N(C)c1c(I)c(N)c(I)c(C(=O)O)c1I,retro
+"Products: COC(=O)CCSCCCCCCBr
+Reactants:",BrCCCCCCBr.COC(=O)CCS,retro
+What reactants would produce the products Cc1ccccc1N1CCNCC1c1cccc(-c2cccc(S(C)(=O)=O)c2)c1 in a chemical reaction?,Cc1ccccc1N1CCN(C(=O)OC(C)(C)C)CC1c1cccc(-c2cccc(S(C)(=O)=O)c2)c1,retro
+"In the retrosynthetic analysis of products O=C1CCC(N2Cc3c(OCc4ccc(S(=O)(=O)N5CCOCC5)cc4)cccc3C2=O)C(=O)N1, what reactants are required?",COC(=O)CCC(C(N)=O)N1Cc2c(OCc3ccc(S(=O)(=O)N4CCOCC4)cc3)cccc2C1=O,retro
+"Based on the listed products (O=C(NC1CCN(CCc2ccccc2)CC1)c1c[nH]c2ccc(F)cc12), predict the reactants involved in their formation.",BrCCc1ccccc1.O=C(NC1CCNCC1)c1c[nH]c2ccc(F)cc12,retro
+"For the chemical transformation leading to products Nc1cnc(-c2ccc(Cl)c(OCc3ccccc3)c2F)cn1, determine the necessary reactants.",Nc1cnc(Br)cn1.OB(O)c1ccc(Cl)c(OCc2ccccc2)c1F,retro
+Consider the target products O=c1ccc(-c2cnn(CCO)c2)nn1Cc1cccc(-c2ncc(OCCN3CCOCC3)cn2)c1. What reactants would be used to synthesize them?,CC(=O)OCCn1cc(-c2ccc(=O)n(Cc3cccc(-c4ncc(OCCN5CCOCC5)cn4)c3)n2)cn1,retro
